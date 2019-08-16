@@ -1,0 +1,117 @@
+---
+player_id: 0040
+sname: mettepast
+full_name: Guillemette Pasteur
+short_name: Guillemette
+loc: Paris
+dob: 1984-05-15
+likes: 502
+sports: football cricket
+
+categories:
+  - cat: Indoor
+    pos: Defender
+
+stats:
+  goals: 121
+  assists: 84
+  saves: 143
+  games: 221
+  hours: 1304
+
+teams:
+  - sname: fm91
+    pos: Defensive midfield
+
+games:
+  - date: 01/15/2006 07:38 PM
+    loc: Beijing
+    home: fm91
+    visitor: mzbq
+  - date: 11/27/2000 11:43 AM
+    loc: Oran
+    visitor: fm91
+    home: mzbq
+  - date: 11/06/2007 03:19 PM
+    loc: Quanzhou
+    visitor: fm91
+    home: mauiplts
+  - date: 08/17/2013 05:02 AM
+    loc: Córdoba
+    visitor: fm91
+    home: sttle
+  - date: 12/27/2000 03:36 AM
+    loc: Bengaluru
+    visitor: fm91
+    home: sttle
+  - date: 05/25/2002 07:44 AM
+    loc: Quanzhou
+    visitor: fm91
+    home: mauiplts
+  - date: 06/06/2011 10:07 AM
+    loc: Bengaluru
+    visitor: fm91
+    home: ptlndfc
+
+followers:
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+
+following:
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+
+profpic:
+  - url: /player-prof-038.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-007.jpg
+  - url: /random-004.jpg

@@ -1,0 +1,117 @@
+---
+player_id: 0027
+sname: brekime
+full_name: Brehan Kidane Meles
+short_name: Brehan M.
+loc: Addis Ababa
+dob: 1976-04-13
+likes: 32
+sports: football field-hockey baseball
+
+categories:
+  - cat: Futsal
+    pos: Winger
+
+stats:
+  goals: 44
+  assists: 122
+  saves: 89
+  games: 276
+  hours: 1833
+
+teams:
+  - sname: enft
+    pos: Wing-back
+
+games:
+  - date: 02/28/2002 09:06 AM
+    loc: Tabriz
+    home: enft
+    visitor: lngislnd
+  - date: 03/17/2009 04:11 PM
+    loc: Isfahan
+    visitor: enft
+    home: tahiti
+  - date: 09/11/2000 08:51 PM
+    loc: Bengaluru
+    visitor: enft
+    home: vnce
+  - date: 03/30/2008 09:19 PM
+    loc: Bengaluru
+    home: enft
+    visitor: ptlndfc
+  - date: 12/24/2002 06:21 AM
+    loc: Quanzhou
+    visitor: enft
+    home: vnce
+  - date: 05/28/2000 08:58 PM
+    loc: London
+    visitor: enft
+    home: mzbq
+  - date: 03/15/2010 06:47 PM
+    loc: Beijing
+    visitor: enft
+    home: mzbq
+
+followers:
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+
+following:
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+
+profpic:
+  - url: /player-prof-032.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg

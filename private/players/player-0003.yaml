@@ -1,0 +1,112 @@
+---
+player_id: 0003
+sname: hasan
+full_name: Hasan el-Matin
+short_name: Hasan el-M.
+loc: Dubai
+dob: 1976-09-14
+likes: 117
+sports: football
+
+categories:
+  - cat: Indoor
+    pos: Wing-back
+
+stats:
+  goals: 127
+  assists: 164
+  saves: 113
+  games: 207
+  hours: 1492
+
+teams:
+  - sname: awfc
+    pos: Sweeper
+
+games:
+  - date: 02/03/2011 12:42 PM
+    loc: London
+    home: awfc
+    visitor: kngshlm
+  - date: 06/18/2009 11:56 AM
+    loc: Quezon City
+    home: awfc
+    visitor: kngshlm
+  - date: 11/02/2017 06:27 PM
+    loc: Tabriz
+    visitor: awfc
+    home: mzbq
+  - date: 05/22/2010 07:12 AM
+    loc: Córdoba
+    visitor: awfc
+    home: tahiti
+  - date: 04/05/2016 05:34 AM
+    loc: Kawasaki
+    home: awfc
+    visitor: sttle
+
+followers:
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+
+following:
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+
+profpic:
+  - url: /player-prof-001.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-005.jpg
+  - url: /random-004.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg
+  - url: /random-010.jpg

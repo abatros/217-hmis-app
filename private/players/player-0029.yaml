@@ -1,0 +1,120 @@
+---
+player_id: 0029
+sname: imgirma
+full_name: Girma Natnael Kaleb
+short_name: Girma K.
+loc: Addis Ababa
+dob: 1977-04-06
+likes: 655
+sports: football baseball golf table-tennis basketball
+
+categories:
+  - cat: Association
+    pos: Forward
+
+stats:
+  goals: 82
+  assists: 91
+  saves: 140
+  games: 289
+  hours: 625
+
+teams:
+  - sname: enft
+    pos: Defensive midfield
+
+games:
+  - date: 02/07/2014 02:31 PM
+    loc: Mexico City
+    visitor: enft
+    home: kngshlm
+  - date: 02/13/2003 06:41 AM
+    loc: Tabriz
+    visitor: enft
+    home: tahiti
+  - date: 10/12/2016 08:55 AM
+    loc: Isfahan
+    home: enft
+    visitor: lngislnd
+  - date: 04/24/2001 06:31 AM
+    loc: Tabriz
+    visitor: enft
+    home: osaka
+  - date: 12/04/2013 08:49 PM
+    loc: Beijing
+    home: enft
+    visitor: kngshlm
+  - date: 08/11/2001 07:27 AM
+    loc: São Paulo
+    visitor: enft
+    home: lngislnd
+
+followers:
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: False
+
+following:
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+
+profpic:
+  - url: /player-prof-031.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-004.jpg
+  - url: /random-009.jpg
+  - url: /random-007.jpg

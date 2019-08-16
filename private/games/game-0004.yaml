@@ -1,0 +1,167 @@
+---
+game_id: 0004
+date: 06/27/2002 11:12 AM
+loc: Quezon City
+live: False
+referrees:
+  - name: Arvid Odegard (Swedish)
+home:
+  sname: awfc
+  team_name: AWFC
+  coaches:
+    - name: Saladin Toma
+
+  players:
+    - sname: musad
+      full_name: Musaddiq al-Pirani
+      position: Goalkeeper
+    - sname: HeFaroo
+      full_name: Husni el-Farooqui
+      position: Centre-back
+    - sname: hasan
+      full_name: Hasan el-Matin
+      position: Sweeper
+    - sname: Naseeb
+      full_name: Naseeba al-Yousuf
+      position: Full-back
+    - sname: Safwa
+      full_name: Safwaan el-Koroma
+      position: Wing-back
+    - sname: mahdaviB
+      full_name: Behzad Mahdavi
+      position: Centre midfield
+      out: 52'
+    - sname: arzhang
+      full_name: Arzhang Moshiri
+      position: Defensive midfield
+    - sname: MrTaheri
+      full_name: Taghi Taheri
+      position: Attacking midfield
+      out: 74'
+    - sname: dibadiba
+      full_name: Abbas Diba
+      position: Wide midfield
+    - sname: siamak
+      full_name: Siamak Yaghmaei
+      position: Centre forward
+    - sname: samana
+      full_name: Saman Arabnia
+      position: Second striker
+  substitutions:
+    - etime: 52
+      out: Behzad Mahdavi
+      in: Inacio Lacerda
+    - etime: 74
+      out: Taghi Taheri
+      in: Farhat Yilmaz
+  stats:
+    on_target: 5
+    off_target: 3
+    possession: 54
+    corners: 3
+    offsides: 7
+    foul: 9
+    yellow: 4
+
+
+visitors:
+  sname: lhfc
+  team_name: LHFC
+  coaches:
+    - name: Nils Landin
+
+  players:
+    - sname: hildrd
+      full_name: Hildr Dalin
+      position: Goalkeeper
+    - sname: tronblom
+      full_name: Tron Blomquist
+      position: Centre-back
+    - sname: ragnarlin
+      full_name: Ragnar Lindgren
+      position: Sweeper
+    - sname: joelle
+      full_name: Joel Lennartsson
+      position: Full-back
+    - sname: nicholas
+      full_name: Nicholas Lundholm
+      position: Wing-back
+    - sname: tomburg
+      full_name: Thomas Borg
+      position: Centre midfield
+    - sname: stefilot
+      full_name: Stefan Lötvall
+      position: Defensive midfield
+    - sname: ojonss
+      full_name: Ögge Jönsson
+      position: Attacking midfield
+      out: 62'
+    - sname: joelljs
+      full_name: Joel Liljeström
+      position: Wide midfield
+    - sname: pipifri
+      full_name: Pia Frisk
+      position: Centre forward
+    - sname: fjohanss
+      full_name: Fia Johannesson
+      position: Second striker
+  substitutions:
+    - etime: 62
+      out: Ögge Jönsson
+      in: Gul Bardakci
+  stats:
+    on_target: 0
+    off_target: 6
+    possession: 53
+    corners: 4
+    offsides: 3
+    foul: 9
+    yellow: 4
+
+minutes:
+  - type: yellow
+    etime: 2
+    visitor: Ögge Jönsson
+  - type: yellow
+    etime: 3
+    visitor: Hildr Dalin
+  - type: goal
+    etime: 17
+    home: Hasan el-Matin
+    assist: Behzad Mahdavi
+    score: 1:0
+  - type: yellow
+    etime: 19
+    visitor: Pia Frisk
+  - type: goal
+    etime: 24
+    visitor: Hildr Dalin
+    assist: Ögge Jönsson
+    score: 1:1
+  - type: yellow
+    etime: 30
+    visitor: Hildr Dalin
+  - type: yellow
+    etime: 42
+    visitor: Stefan Lötvall
+  - type: goal
+    etime: 44
+    home: Husni el-Farooqui
+    assist: Abbas Diba
+    score: 2:1
+  - type: half_time
+    etime: 45
+    score: 2:1
+  - type: goal
+    etime: 53
+    home: Arzhang Moshiri
+    assist: Saman Arabnia
+    score: 3:1
+  - type: goal
+    etime: 57
+    home: Behzad Mahdavi
+    assist: Musaddiq al-Pirani
+    score: 4:1
+  - type: yellow
+    etime: 62
+    home: Siamak Yaghmaei

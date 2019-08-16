@@ -1,0 +1,157 @@
+---
+game_id: 0009
+date: 03/06/2012 11:11 AM
+loc: Busan
+live: False
+referrees:
+  - name: Ebba Vong (Swedish)
+home:
+  sname: palm
+  team_name: PALM
+  coaches:
+    - name: Ernesto Pires
+
+  players:
+    - sname: tuuliioo
+      full_name: Túlio Amorim Morais
+      position: Goalkeeper
+    - sname: marcionf
+      full_name: Márcio Nascimento Furtado
+      position: Centre-back
+    - sname: iabellu
+      full_name: Iago Martins Belluci
+      position: Sweeper
+    - sname: sidneife
+      full_name: Sidnei Amaral Ferraz
+      position: Full-back
+    - sname: josehey
+      full_name: José Hamada Barros
+      position: Wing-back
+    - sname: francieg
+      full_name: Francine Gonçalves Caetano
+      position: Centre midfield
+    - sname: ddeduardo
+      full_name: Eduardo Damasceno Delgado
+      position: Defensive midfield
+    - sname: bernarcool
+      full_name: Bernardo Maia Álvarez
+      position: Attacking midfield
+    - sname: leandac
+      full_name: Leandro Antunes Couto
+      position: Wide midfield
+    - sname: vfds
+      full_name: Vinicius Ferraz de Souza
+      position: Centre forward
+    - sname: robertam
+      full_name: Roberta Medeiros Menezes
+      position: Second striker
+  substitutions:
+  stats:
+    on_target: 4
+    off_target: 5
+    possession: 41
+    corners: 6
+    offsides: 4
+    foul: 11
+    yellow: 1
+
+
+visitors:
+  sname: pxfc
+  team_name: PXFC
+  coaches:
+    - name: Kulap (Ice) Hatthapradit
+
+  players:
+    - sname: surinw
+      full_name: Surin (Aek) Wattanasin
+      position: Goalkeeper
+    - sname: ahongha
+      full_name: Akkanee Honghannarong
+      position: Centre-back
+    - sname: arthits
+      full_name: Arthit (New) Sansurin
+      position: Sweeper
+    - sname: hanuman
+      full_name: Hanuman Klinpraneet
+      position: Full-back
+    - sname: ruangri
+      full_name: Ruangrit Srisati
+      position: Wing-back
+    - sname: duchan
+      full_name: Duchanee Srisati
+      position: Centre midfield
+      out: 85'
+    - sname: banthornn
+      full_name: Banthorn Noppachorn
+      position: Defensive midfield
+    - sname: nopjira
+      full_name: Nopjira (Ploy) Gaysorn
+      position: Attacking midfield
+      out: 62'
+    - sname: bossjira
+      full_name: Jirasak Srichure
+      position: Wide midfield
+    - sname: piyachar
+      full_name: Piyapat Charanachitta
+      position: Centre forward
+    - sname: maliwanc
+      full_name: Maliwan Chaiprasit
+      position: Second striker
+  substitutions:
+    - etime: 85
+      out: Duchanee Srisati
+      in: Ubon Buasuwan
+    - etime: 62
+      out: Nopjira (Ploy) Gaysorn
+      in: Ebba Vong
+  stats:
+    on_target: 1
+    off_target: 3
+    possession: 56
+    corners: 2
+    offsides: 4
+    foul: 5
+    yellow: 6
+
+minutes:
+  - type: yellow
+    etime: 18
+    visitor: Surin (Aek) Wattanasin
+  - type: yellow
+    etime: 21
+    visitor: Ruangrit Srisati
+  - type: yellow
+    etime: 39
+    home: Iago Martins Belluci
+  - type: goal
+    etime: 42
+    visitor: Nopjira (Ploy) Gaysorn
+    assist: Hanuman Klinpraneet
+    score: 0:1
+  - type: goal
+    etime: 42
+    visitor: Duchanee Srisati
+    assist: Maliwan Chaiprasit
+    score: 0:2
+  - type: half_time
+    etime: 45
+    score: 0:2
+  - type: goal
+    etime: 46
+    home: Túlio Amorim Morais
+    assist: Márcio Nascimento Furtado
+    score: 1:2
+  - type: goal
+    etime: 63
+    visitor: Maliwan Chaiprasit
+    assist: Hanuman Klinpraneet
+    score: 1:3
+  - type: goal
+    etime: 65
+    visitor: Akkanee Honghannarong
+    assist: Hanuman Klinpraneet
+    score: 1:4
+  - type: yellow
+    etime: 88
+    visitor: Banthorn Noppachorn

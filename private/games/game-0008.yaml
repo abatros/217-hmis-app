@@ -1,0 +1,164 @@
+---
+game_id: 0008
+date: 08/09/2016 06:48 AM
+loc: Havana
+live: False
+referrees:
+  - name: Anne Walbruch (Brazilian)
+home:
+  sname: palm
+  team_name: PALM
+  coaches:
+    - name: Ernesto Pires
+
+  players:
+    - sname: tuuliioo
+      full_name: Túlio Amorim Morais
+      position: Goalkeeper
+      out: 59'
+    - sname: marcionf
+      full_name: Márcio Nascimento Furtado
+      position: Centre-back
+      out: 86'
+    - sname: iabellu
+      full_name: Iago Martins Belluci
+      position: Sweeper
+    - sname: sidneife
+      full_name: Sidnei Amaral Ferraz
+      position: Full-back
+      out: 55'
+    - sname: josehey
+      full_name: José Hamada Barros
+      position: Wing-back
+    - sname: francieg
+      full_name: Francine Gonçalves Caetano
+      position: Centre midfield
+    - sname: ddeduardo
+      full_name: Eduardo Damasceno Delgado
+      position: Defensive midfield
+    - sname: bernarcool
+      full_name: Bernardo Maia Álvarez
+      position: Attacking midfield
+    - sname: leandac
+      full_name: Leandro Antunes Couto
+      position: Wide midfield
+    - sname: vfds
+      full_name: Vinicius Ferraz de Souza
+      position: Centre forward
+      out: 60'
+    - sname: robertam
+      full_name: Roberta Medeiros Menezes
+      position: Second striker
+  substitutions:
+    - etime: 59
+      out: Túlio Amorim Morais
+      in: Arvid Odegard
+    - etime: 86
+      out: Márcio Nascimento Furtado
+      in: Gul Bardakci
+    - etime: 55
+      out: Sidnei Amaral Ferraz
+      in: Inacio Lacerda
+    - etime: 60
+      out: Vinicius Ferraz de Souza
+      in: Inacio Lacerda
+  stats:
+    on_target: 5
+    off_target: 2
+    possession: 60
+    corners: 6
+    offsides: 7
+    foul: 2
+    yellow: 0
+
+
+visitors:
+  sname: lhfc
+  team_name: LHFC
+  coaches:
+    - name: Nils Landin
+
+  players:
+    - sname: hildrd
+      full_name: Hildr Dalin
+      position: Goalkeeper
+    - sname: tronblom
+      full_name: Tron Blomquist
+      position: Centre-back
+    - sname: ragnarlin
+      full_name: Ragnar Lindgren
+      position: Sweeper
+    - sname: joelle
+      full_name: Joel Lennartsson
+      position: Full-back
+    - sname: nicholas
+      full_name: Nicholas Lundholm
+      position: Wing-back
+      out: 62'
+    - sname: tomburg
+      full_name: Thomas Borg
+      position: Centre midfield
+    - sname: stefilot
+      full_name: Stefan Lötvall
+      position: Defensive midfield
+    - sname: ojonss
+      full_name: Ögge Jönsson
+      position: Attacking midfield
+    - sname: joelljs
+      full_name: Joel Liljeström
+      position: Wide midfield
+    - sname: pipifri
+      full_name: Pia Frisk
+      position: Centre forward
+    - sname: fjohanss
+      full_name: Fia Johannesson
+      position: Second striker
+      out: 59'
+  substitutions:
+    - etime: 62
+      out: Nicholas Lundholm
+      in: Lishan Wube
+    - etime: 59
+      out: Fia Johannesson
+      in: Ebba Vong
+  stats:
+    on_target: 3
+    off_target: 4
+    possession: 54
+    corners: 3
+    offsides: 6
+    foul: 4
+    yellow: 7
+
+minutes:
+  - type: goal
+    etime: 1
+    home: Márcio Nascimento Furtado
+    assist: Iago Martins Belluci
+    score: 1:0
+  - type: yellow
+    etime: 17
+    home: Sidnei Amaral Ferraz
+  - type: half_time
+    etime: 45
+    score: 1:0
+  - type: goal
+    etime: 49
+    visitor: Thomas Borg
+    assist: Pia Frisk
+    score: 1:1
+  - type: yellow
+    etime: 52
+    visitor: Ragnar Lindgren
+  - type: yellow
+    etime: 79
+    home: Vinicius Ferraz de Souza
+  - type: yellow
+    etime: 84
+    visitor: Fia Johannesson
+  - type: yellow
+    etime: 84
+    visitor: Thomas Borg
+  - type: yellow
+    etime: 88
+    visitor: Pia Frisk

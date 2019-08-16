@@ -1,0 +1,136 @@
+---
+player_id: 0038
+sname: aymchill
+full_name: Aymeric Chéreau
+short_name: Aymeric C.
+loc: Paris
+dob: 1983-09-04
+likes: 197
+sports: football badminton tennis baseball
+
+categories:
+  - cat: Futsal
+    pos: Wide midfield
+
+stats:
+  goals: 73
+  assists: 161
+  saves: 129
+  games: 219
+  hours: 1084
+
+teams:
+  - sname: fm91
+    pos: Wing-back
+
+games:
+  - date: 02/11/2007 02:54 AM
+    loc: Quanzhou
+    home: fm91
+    visitor: kngshlm
+  - date: 02/24/2010 12:30 PM
+    loc: Mexico City
+    visitor: fm91
+    home: sttle
+  - date: 01/30/2001 08:29 PM
+    loc: Havana
+    home: fm91
+    visitor: osaka
+  - date: 08/07/2013 04:58 AM
+    loc: Madrid
+    visitor: fm91
+    home: osaka
+  - date: 06/11/2012 04:17 AM
+    loc: Quanzhou
+    home: fm91
+    visitor: osaka
+  - date: 01/01/2008 05:14 AM
+    loc: Córdoba
+    visitor: fm91
+    home: vnce
+  - date: 05/08/2000 08:17 AM
+    loc: Córdoba
+    visitor: fm91
+    home: mzbq
+
+followers:
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+
+following:
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+
+profpic:
+  - url: /player-prof-044.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-005.jpg
+  - url: /random-002.jpg
+  - url: /random-003.jpg

@@ -1,0 +1,81 @@
+<template name="team_stats">
+
+  <div class="vbox overview r16"
+  style="
+    padding:0 0rem 60px 1.1rem;
+    margin:0;
+  ">
+    <div class="caption r12m">
+      <div>WIN % / COUNT</div>
+      <div class="col2">LOSS % / COUNT</div>
+    </div>
+    <div class="data r16">
+      <div>{{_team.stats.win}}</div>
+      <div class="col2">{{_team.stats.loss}}</div>
+    </div>
+
+
+    <div class="caption r12m">
+      <div>GAMES</div>
+      <div class="col2">POSSESSION</div>
+    </div>
+    <div class="data r16">
+      <div>{{_team.stats.games}}</div>
+      <div class="col2">{{_team.stats.possessions}}</div>
+    </div>
+
+
+    <div class="caption r12m">
+      <div>GOALS</div>
+      <div class="col2">SAVES</div>
+    </div>
+    <div class="data r16">
+      <div>{{_team.stats.goals}}</div>
+      <div class="col2">{{_team.stats.saves}}</div>
+    </div>
+
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div class="ama">GAMES</div>
+    </div>
+
+    {{!--
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div style="width:100%;" class="ama qc">
+
+      LIVE
+
+      </div>
+    </div>
+
+    {{> team_game}}
+
+    <div class="hbox to-hsize">
+      <div class="ql">Wattansa, 12:30</div>
+      <div class="qr ama">&emsp;LIVE&ensp;</div>
+    </div>
+
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div style="width:100%;" class="ama qc">
+
+        FUTURE
+
+      </div>
+    </div>
+
+    --}}
+
+    {{#each game in _team.games}}
+    {{> team_game game=game}}
+    {{/each}}
+
+  </div>
+</template>

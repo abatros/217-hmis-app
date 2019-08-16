@@ -1,0 +1,119 @@
+---
+player_id: 0014
+sname: iabellu
+full_name: Iago Martins Belluci
+short_name: Iago M.B.
+loc: Sao Paulo
+dob: 1983-03-25
+likes: 636
+sports: football golf
+
+categories:
+  - cat: Association
+    pos: Centre forward
+
+stats:
+  goals: 61
+  assists: 75
+  saves: 119
+  games: 294
+  hours: 1681
+
+teams:
+  - sname: palm
+    pos: Sweeper
+
+games:
+  - date: 12/04/2003 06:34 AM
+    loc: Buenos Aires
+    visitor: palm
+    home: ptlndfc
+  - date: 10/28/2017 01:20 PM
+    loc: São Paulo
+    home: palm
+    visitor: mauiplts
+  - date: 04/07/2002 04:39 PM
+    loc: Mexico City
+    visitor: palm
+    home: osaka
+  - date: 11/25/2008 04:40 AM
+    loc: Bengaluru
+    visitor: palm
+    home: sttle
+  - date: 07/04/2009 03:09 AM
+    loc: Quezon City
+    home: palm
+    visitor: ptlndfc
+  - date: 12/23/2017 10:39 AM
+    loc: Madrid
+    visitor: palm
+    home: lngislnd
+
+followers:
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: False
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+
+following:
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+
+profpic:
+  - url: /player-prof-017.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-007.jpg
+  - url: /random-006.jpg
+  - url: /random-004.jpg
+  - url: /random-002.jpg
+  - url: /random-005.jpg

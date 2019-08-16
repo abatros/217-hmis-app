@@ -1,0 +1,37 @@
+<template name="team_banner">
+  <hbox class="team-banner" style="margin-top:0.5rem;">
+    <img
+    src="http://webapp.scooru.com/static/pics/{{_team.main_pic}}"
+    alt="" style="width:12rem; height:12rem; padding-left:1rem;">
+    <div class="vbox r14"
+    style="
+      margin:0rem; padding: 2rem 1rem;
+      -background-color:lightgreen;
+      flex: 1 auto;
+      justify-content: space-between;
+      line-height:1.9em;
+    ">
+      <hbox class="r24 qc">
+        {{#if _team}}
+        {{_team.full_name}}
+        {{else}}
+          Loading Team data...
+        {{/if}}
+      </hbox>
+
+      <div class="qc">ID: {{_team.sname}}</div>
+      {{!--
+        <div style="padding: 0 0 0px 0;">
+        <img src="http://webapp.scooru.com/static/views.svg" alt=""> 1234 views
+      </div>
+      --}}
+      <hbox class="qj r10">
+        {{_team.likes}} likes
+        <img style="width:2.5rem;height:3rem;"
+        src="{{static_images}}/Button/Like/Like%402x.png"
+        alt="">
+      </hbox>
+
+    </div>
+  </hbox>
+</template>

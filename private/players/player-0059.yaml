@@ -1,0 +1,114 @@
+---
+player_id: 0059
+sname: hanuman
+full_name: Hanuman Klinpraneet
+short_name: Hanuman K.
+loc: Bangkok
+dob: 1983-03-19
+likes: 860
+sports: football tennis
+
+categories:
+  - cat: Paralympic
+    pos: Defender
+
+stats:
+  goals: 73
+  assists: 176
+  saves: 147
+  games: 158
+  hours: 1375
+
+teams:
+  - sname: pxfc
+    pos: Full-back
+
+games:
+  - date: 07/25/2012 02:41 PM
+    loc: Busan
+    home: pxfc
+    visitor: mzbq
+  - date: 10/16/2011 05:59 PM
+    loc: Isfahan
+    visitor: pxfc
+    home: ptlndfc
+  - date: 02/18/2007 04:06 PM
+    loc: São Paulo
+    home: pxfc
+    visitor: osaka
+  - date: 05/24/2002 10:06 AM
+    loc: Córdoba
+    visitor: pxfc
+    home: mzbq
+
+followers:
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+
+following:
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+
+profpic:
+  - url: /player-prof-066.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-001.jpg
+  - url: /random-009.jpg

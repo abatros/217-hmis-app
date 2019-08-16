@@ -1,0 +1,108 @@
+---
+player_id: 0002
+sname: HeFaroo
+full_name: Husni el-Farooqui
+short_name: H. el-Farooqui
+loc: Dubai
+dob: 1975-08-10
+likes: 321
+sports: football tennis basketball table-tennis field-hockey
+
+categories:
+  - cat: Indoor
+    pos: Forward
+
+stats:
+  goals: 129
+  assists: 102
+  saves: 71
+  games: 290
+  hours: 532
+
+teams:
+  - sname: awfc
+    pos: Centre-back
+
+games:
+  - date: 03/22/2009 10:56 AM
+    loc: Beijing
+    visitor: awfc
+    home: tahiti
+  - date: 02/27/2007 09:10 PM
+    loc: Fuzhou
+    home: awfc
+    visitor: vnce
+  - date: 11/03/2013 07:59 AM
+    loc: Córdoba
+    home: awfc
+    visitor: sttle
+  - date: 08/27/2005 08:42 PM
+    loc: Bengaluru
+    visitor: awfc
+    home: vnce
+
+followers:
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+
+following:
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+
+profpic:
+  - url: /player-prof-008.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-009.jpg
+  - url: /random-004.jpg

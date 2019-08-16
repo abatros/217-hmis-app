@@ -1,0 +1,110 @@
+---
+player_id: 0013
+sname: marcionf
+full_name: Márcio Nascimento Furtado
+short_name: Marcio Nasc
+loc: Sao Paulo
+dob: 1982-05-04
+likes: 561
+sports: football field-hockey basketball badminton tennis
+
+categories:
+  - cat: Street
+    pos: Forward
+
+stats:
+  goals: 88
+  assists: 67
+  saves: 120
+  games: 209
+  hours: 1859
+
+teams:
+  - sname: palm
+    pos: Centre-back
+
+games:
+  - date: 06/08/2006 11:26 PM
+    loc: Havana
+    visitor: palm
+    home: tahiti
+  - date: 10/17/2012 01:33 AM
+    loc: Quezon City
+    visitor: palm
+    home: kngshlm
+  - date: 10/19/2012 08:37 AM
+    loc: Isfahan
+    home: palm
+    visitor: tahiti
+  - date: 08/10/2009 10:55 AM
+    loc: Tabriz
+    home: palm
+    visitor: kngshlm
+  - date: 11/13/2007 03:18 PM
+    loc: Beijing
+    visitor: palm
+    home: lngislnd
+
+followers:
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: False
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+
+following:
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+
+profpic:
+  - url: /player-prof-014.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-008.jpg
+  - url: /random-005.jpg
+  - url: /random-004.jpg

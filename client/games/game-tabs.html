@@ -1,0 +1,43 @@
+<head>
+  <style>
+    .game-tabs div.ubutton {
+      width:10rem;
+      cursor:pointer;
+      text-align:center;
+      -font-size:1.1rem;
+      -font-weight:500;
+      -letter-spacing:0.05rem;
+      -padding:0.5rem 0;
+    }
+
+    .game-tabs .ubutton {
+      -color: #414141;
+      width:10rem;
+      height:4rem;
+      justify-content:center;
+      text-align:center;
+      box-sizing: border-box;
+      border-bottom: 2px solid white;
+      cursor: pointer;
+    }
+    .game-tabs .ubutton.active {
+      border-bottom: 2px solid #A62C07;
+      color: #A62C07;
+    }
+  </style>
+</head>
+
+<template name="game_tabs">
+  <hbox class="game-tabs r14mw -frame-it"
+  style="
+    height:4rem;
+    -background-color:lightpink;
+    align-items:center;
+    justify-content:space-around;
+    -padding: 8px 0 0 0;
+  ">
+  <vbox class="ubutton {{overview_active}}" tab="overview">OVERVIEW</vbox>
+  <vbox class="ubutton {{stats_active}}" tab="stats">STATS</vbox>
+  <vbox class="ubutton {{players_active}}" tab="players">PLAYERS</vbox>
+  </hbox>
+</template>

@@ -1,0 +1,87 @@
+
+
+<template name="player_stats">
+  {{!--
+    USING OVERVIEW STYLES.
+  --}}
+<vbox class="player-overview r16"
+  style="
+    padding:0 0rem 60px 1.1rem;
+    margin:0;
+  ">
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div class="ama">PERFORMANCE</div>
+      <div style="padding-right:1rem;">Football</div>
+    </div>
+
+    <div class="caption r12m">
+      <div>GOALS</div>
+      <div class="col2">ASSISTS</div>
+    </div>
+    <div class="data">
+      <div>60</div>
+      <div class="col2">81</div>
+    </div>
+
+
+    <div class="caption r12m">
+      <div>SAVES</div>
+    </div>
+    <div class="data">
+      <div>40</div>
+    </div>
+
+    <div class="caption r12m">
+      <div>MATCHES</div>
+      <div class="col2">HOURS ON FIELD</div>
+    </div>
+    <div class="data">
+      <div>215</div>
+      <div class="col2">4890</div>
+    </div>
+
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div class="ama">MATCHES</div>
+    </div>
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div style="width:100%;" class="ama qc">
+
+      LIVE
+
+      </div>
+    </div>
+
+    {{#each game in _player.games}}
+    {{#if @index}}
+    {{else}}
+    {{> player_game game=game}}
+    {{/if}}
+    {{/each}}
+
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div style="width:100%;" class="ama qc">
+
+        FUTURE
+
+      </div>
+    </div>
+
+    {{#each game in _player.games}}
+    {{#if @index}}
+    {{> player_game game=game}}
+    {{/if}}
+    {{/each}}
+
+</vbox>
+</template>

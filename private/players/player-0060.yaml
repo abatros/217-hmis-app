@@ -1,0 +1,109 @@
+---
+player_id: 0060
+sname: ruangri
+full_name: Ruangrit Srisati
+short_name: Ruangrit S.
+loc: Bangkok
+dob: 1985-02-25
+likes: 369
+sports: football golf
+
+categories:
+  - cat: Street
+    pos: Forward
+
+stats:
+  goals: 76
+  assists: 58
+  saves: 149
+  games: 116
+  hours: 1547
+
+teams:
+  - sname: pxfc
+    pos: Wing-back
+
+games:
+  - date: 03/30/2013 09:30 AM
+    loc: Oran
+    visitor: pxfc
+    home: hwth
+  - date: 04/06/2013 10:01 AM
+    loc: Havana
+    home: pxfc
+    visitor: ptlndfc
+  - date: 08/04/2006 04:43 AM
+    loc: Busan
+    visitor: pxfc
+    home: hwth
+  - date: 09/26/2017 06:02 AM
+    loc: Busan
+    visitor: pxfc
+    home: vnce
+  - date: 11/29/2001 10:14 AM
+    loc: Isfahan
+    visitor: pxfc
+    home: vnce
+  - date: 07/10/2005 12:15 PM
+    loc: Havana
+    home: pxfc
+    visitor: osaka
+
+followers:
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: False
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+
+following:
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+
+profpic:
+  - url: /player-prof-057.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg
+  - url: /random-003.jpg

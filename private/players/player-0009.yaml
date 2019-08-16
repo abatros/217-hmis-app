@@ -1,0 +1,119 @@
+---
+player_id: 0009
+sname: dibadiba
+full_name: Abbas Diba
+short_name: Abbas D.
+loc: Dubai
+dob: 1979-11-03
+likes: 725
+sports: football baseball golf table-tennis
+
+categories:
+  - cat: Paralympic
+    pos: Centre forward
+
+stats:
+  goals: 143
+  assists: 184
+  saves: 147
+  games: 160
+  hours: 928
+
+teams:
+  - sname: awfc
+    pos: Wide midfield
+
+games:
+  - date: 04/24/2009 06:13 PM
+    loc: Busan
+    visitor: awfc
+    home: tahiti
+  - date: 03/26/2013 08:47 AM
+    loc: Havana
+    visitor: awfc
+    home: vnce
+  - date: 11/13/2015 02:14 PM
+    loc: Madrid
+    visitor: awfc
+    home: kngshlm
+  - date: 10/28/2015 02:50 AM
+    loc: Fuzhou
+    home: awfc
+    visitor: lngislnd
+
+followers:
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+
+following:
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+
+profpic:
+  - url: /player-prof-004.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg
+  - url: /random-007.jpg
+  - url: /random-001.jpg

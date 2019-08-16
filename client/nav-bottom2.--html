@@ -1,0 +1,65 @@
+<head>
+  <style>
+  .nav-bottom a {
+    display:inline-block;
+    width:20%;
+    text-align:center;
+  }
+  .nav_bottom span.mit {
+  }
+
+  .nav-item {
+    border:0px solid blue;
+    display:flex; padding:0; width:140px;
+    flex-direction:column;
+    align-items:center;
+    justify-content:flex-start;
+  }
+
+  .nav-bottom img {
+    width:4rem;
+    height:4rem;
+  }
+
+  </style>
+</head>
+
+<template name="nav_bottom">
+<hbox
+  class="nav-bottom p-900"
+  style="
+  justify-content: space-between;
+  width:100%;
+  padding:0.6rem 0 0 0px; margin:0;
+  -align-items: flex-start;
+  box-shadow: 0 -1px 1px 0 rgba(0,0,0,0.14), 0 -2px 1px -1px rgba(0,0,0,0.12), 0 -1px 3px 0 rgba(0,0,0,0.20);
+
+
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  -height:5.6rem;
+  height:4.6rem;
+  width:100%;
+  _background-color:#990;
+  z-index:100;
+  ">
+
+    <a href="/games" class="qc noframe menu-item" style="-flex-grow: 1">
+      <img src="http://webapp.scooru.com/static/nav-bottom/games{{isActive 'games-directory'}}.png" alt="">
+    </a>
+
+    <a href="/profiles" class="qc noframe menu-item" style="-flex-grow: 1">
+      <img src="http://webapp.scooru.com/static/nav-bottom/profiles{{profile_active}}.png" alt="">
+    </a>
+
+    <a href="/news" class="qc noframe menu-item" style="-flex-grow: 1">
+      <img src="http://webapp.scooru.com/static/nav-bottom/news{{isActive 'news'}}.png" alt="">
+    </a>
+
+    <a href="/services" class="qc noframe menu-item" style="-flex-grow: 1">
+      <img src="http://webapp.scooru.com/static/nav-bottom/services{{isActive 'services'}}.png" alt="">
+    </a>
+
+</hbox>
+</template>

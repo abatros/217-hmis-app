@@ -1,0 +1,164 @@
+---
+game_id: 0005
+date: 03/28/2015 11:45 PM
+loc: Busan
+live: False
+referrees:
+  - name: Ubon Buasuwan (Thai)
+home:
+  sname: awfc
+  team_name: AWFC
+  coaches:
+    - name: Amal Alfarsi
+
+  players:
+    - sname: musad
+      full_name: Musaddiq al-Pirani
+      position: Goalkeeper
+      out: 83'
+    - sname: HeFaroo
+      full_name: Husni el-Farooqui
+      position: Centre-back
+    - sname: hasan
+      full_name: Hasan el-Matin
+      position: Sweeper
+    - sname: Naseeb
+      full_name: Naseeba al-Yousuf
+      position: Full-back
+      out: 55'
+    - sname: Safwa
+      full_name: Safwaan el-Koroma
+      position: Wing-back
+      out: 56'
+    - sname: mahdaviB
+      full_name: Behzad Mahdavi
+      position: Centre midfield
+    - sname: arzhang
+      full_name: Arzhang Moshiri
+      position: Defensive midfield
+    - sname: MrTaheri
+      full_name: Taghi Taheri
+      position: Attacking midfield
+    - sname: dibadiba
+      full_name: Abbas Diba
+      position: Wide midfield
+    - sname: siamak
+      full_name: Siamak Yaghmaei
+      position: Centre forward
+    - sname: samana
+      full_name: Saman Arabnia
+      position: Second striker
+  substitutions:
+    - etime: 83
+      out: Musaddiq al-Pirani
+      in: Anne Walbruch
+    - etime: 55
+      out: Naseeba al-Yousuf
+      in: Farhat Yilmaz
+    - etime: 56
+      out: Safwaan el-Koroma
+      in: Fethee Tenagnework
+  stats:
+    on_target: 2
+    off_target: 2
+    possession: 52
+    corners: 7
+    offsides: 2
+    foul: 3
+    yellow: 3
+
+
+visitors:
+  sname: pxfc
+  team_name: PXFC
+  coaches:
+    - name: Boonsri (Aom) Thipol
+
+  players:
+    - sname: surinw
+      full_name: Surin (Aek) Wattanasin
+      position: Goalkeeper
+    - sname: ahongha
+      full_name: Akkanee Honghannarong
+      position: Centre-back
+      out: 48'
+    - sname: arthits
+      full_name: Arthit (New) Sansurin
+      position: Sweeper
+    - sname: hanuman
+      full_name: Hanuman Klinpraneet
+      position: Full-back
+    - sname: ruangri
+      full_name: Ruangrit Srisati
+      position: Wing-back
+    - sname: duchan
+      full_name: Duchanee Srisati
+      position: Centre midfield
+    - sname: banthornn
+      full_name: Banthorn Noppachorn
+      position: Defensive midfield
+    - sname: nopjira
+      full_name: Nopjira (Ploy) Gaysorn
+      position: Attacking midfield
+    - sname: bossjira
+      full_name: Jirasak Srichure
+      position: Wide midfield
+    - sname: piyachar
+      full_name: Piyapat Charanachitta
+      position: Centre forward
+    - sname: maliwanc
+      full_name: Maliwan Chaiprasit
+      position: Second striker
+  substitutions:
+    - etime: 48
+      out: Akkanee Honghannarong
+      in: Cherise Bey
+  stats:
+    on_target: 3
+    off_target: 7
+    possession: 50
+    corners: 2
+    offsides: 4
+    foul: 2
+    yellow: 0
+
+minutes:
+  - type: yellow
+    etime: 15
+    visitor: Ruangrit Srisati
+  - type: goal
+    etime: 19
+    visitor: Duchanee Srisati
+    assist: Ruangrit Srisati
+    score: 0:1
+  - type: yellow
+    etime: 25
+    home: Naseeba al-Yousuf
+  - type: yellow
+    etime: 29
+    home: Musaddiq al-Pirani
+  - type: yellow
+    etime: 32
+    visitor: Ruangrit Srisati
+  - type: yellow
+    etime: 42
+    home: Husni el-Farooqui
+  - type: goal
+    etime: 43
+    visitor: Ruangrit Srisati
+    assist: Nopjira (Ploy) Gaysorn
+    score: 0:2
+  - type: goal
+    etime: 44
+    home: Arzhang Moshiri
+    assist: Safwaan el-Koroma
+    score: 1:2
+  - type: half_time
+    etime: 45
+    score: 1:2
+  - type: yellow
+    etime: 49
+    visitor: Banthorn Noppachorn
+  - type: yellow
+    etime: 83
+    visitor: Arthit (New) Sansurin

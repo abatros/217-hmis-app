@@ -1,0 +1,123 @@
+---
+player_id: 0057
+sname: ahongha
+full_name: Akkanee Honghannarong
+short_name: Akkanee H.
+loc: Bangkok
+dob: 1981-05-21
+likes: 186
+sports: football field-hockey volleyball table-tennis
+
+categories:
+  - cat: Futsal
+    pos: Centre midfield
+
+stats:
+  goals: 130
+  assists: 64
+  saves: 111
+  games: 183
+  hours: 1564
+
+teams:
+  - sname: pxfc
+    pos: Centre-back
+
+games:
+  - date: 01/01/2002 11:45 AM
+    loc: Buenos Aires
+    visitor: pxfc
+    home: tahiti
+  - date: 08/07/2002 05:44 PM
+    loc: Buenos Aires
+    visitor: pxfc
+    home: tahiti
+  - date: 02/21/2014 03:53 PM
+    loc: Córdoba
+    visitor: pxfc
+    home: mauiplts
+  - date: 02/03/2012 11:15 PM
+    loc: Mexico City
+    home: pxfc
+    visitor: mzbq
+
+followers:
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+
+following:
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+
+profpic:
+  - url: /player-prof-064.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-007.jpg
+  - url: /random-003.jpg

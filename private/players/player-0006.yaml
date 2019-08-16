@@ -1,0 +1,114 @@
+---
+player_id: 0006
+sname: mahdaviB
+full_name: Behzad Mahdavi
+short_name: Behzad M
+loc: Dubai
+dob: 1977-07-26
+likes: 396
+sports: football golf badminton basketball tennis
+
+categories:
+  - cat: Association
+    pos: Midfielder
+
+stats:
+  goals: 72
+  assists: 72
+  saves: 87
+  games: 213
+  hours: 1220
+
+teams:
+  - sname: awfc
+    pos: Centre midfield
+
+games:
+  - date: 02/12/2014 03:34 PM
+    loc: Buenos Aires
+    visitor: awfc
+    home: vnce
+  - date: 11/22/2001 12:25 AM
+    loc: Busan
+    home: awfc
+    visitor: tahiti
+  - date: 01/28/2011 12:50 AM
+    loc: Mexico City
+    home: awfc
+    visitor: sttle
+  - date: 04/22/2010 10:23 AM
+    loc: Busan
+    visitor: awfc
+    home: kngshlm
+
+followers:
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+
+following:
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+
+profpic:
+  - url: /player-prof-007.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg

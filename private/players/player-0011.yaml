@@ -1,0 +1,114 @@
+---
+player_id: 0011
+sname: samana
+full_name: Saman Arabnia
+short_name: Saman A.
+loc: Dubai
+dob: 1980-10-24
+likes: 99
+sports: football basketball tennis
+
+categories:
+  - cat: Street
+    pos: Wide midfield
+
+stats:
+  goals: 137
+  assists: 73
+  saves: 139
+  games: 273
+  hours: 616
+
+teams:
+  - sname: awfc
+    pos: Second striker
+
+games:
+  - date: 04/21/2009 08:04 PM
+    loc: Madrid
+    home: awfc
+    visitor: sttle
+  - date: 03/14/2006 06:48 PM
+    loc: Oran
+    home: awfc
+    visitor: kngshlm
+  - date: 05/06/2004 07:52 PM
+    loc: Buenos Aires
+    visitor: awfc
+    home: sttle
+  - date: 08/14/2014 03:42 PM
+    loc: Beijing
+    visitor: awfc
+    home: mzbq
+  - date: 01/14/2006 05:57 AM
+    loc: Mexico City
+    home: awfc
+    visitor: vnce
+  - date: 06/17/2004 01:47 PM
+    loc: Buenos Aires
+    visitor: awfc
+    home: kngshlm
+  - date: 10/13/2004 03:16 PM
+    loc: Mexico City
+    visitor: awfc
+    home: osaka
+
+followers:
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+
+following:
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+
+profpic:
+  - url: /player-prof-009.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-001.jpg
+  - url: /random-004.jpg
+  - url: /random-006.jpg
+  - url: /random-003.jpg
+  - url: /random-008.jpg

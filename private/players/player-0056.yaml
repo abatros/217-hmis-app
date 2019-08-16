@@ -1,0 +1,106 @@
+---
+player_id: 0056
+sname: surinw
+full_name: Surin () Wattanasin
+short_name: Surin W.
+loc: Bangkok
+dob: 1981-02-14
+likes: 467
+sports: football tennis basketball
+
+categories:
+  - cat: Futsal
+    pos: Centre forward
+
+stats:
+  goals: 48
+  assists: 157
+  saves: 106
+  games: 277
+  hours: 1484
+
+teams:
+  - sname: pxfc
+    pos: Goalkeeper
+
+games:
+  - date: 01/03/2009 08:46 AM
+    loc: Quezon City
+    visitor: pxfc
+    home: vnce
+  - date: 05/28/2004 11:05 AM
+    loc: Quezon City
+    home: pxfc
+    visitor: kngshlm
+  - date: 03/20/2007 12:10 PM
+    loc: Buenos Aires
+    visitor: pxfc
+    home: kngshlm
+  - date: 06/16/2012 10:29 AM
+    loc: London
+    home: pxfc
+    visitor: mzbq
+  - date: 05/05/2016 11:43 PM
+    loc: São Paulo
+    home: pxfc
+    visitor: ptlndfc
+  - date: 09/24/2017 03:58 PM
+    loc: Cairo
+    home: pxfc
+    visitor: kngshlm
+
+followers:
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+
+following:
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+
+profpic:
+  - url: /player-prof-062.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-003.jpg
+  - url: /random-004.jpg

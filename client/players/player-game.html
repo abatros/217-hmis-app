@@ -1,0 +1,19 @@
+<template name="player_game">
+<hbox class="player-game" style="margin-top:0.5rem;">
+  <img
+  src="{{static_images}}/Demo_data/pics/{{game.home.pic}}"
+  style="width:6rem; height:6rem;"
+  >
+  <vbox class="-frame-it" style="flex-grow:10; margin:0 10px;">
+    <div class="hbox ql -frame-it">{{game.home.short_name}}</div>
+    <div class="qc -frame-it" style=""><b>vs</b></div>
+    <div class="qr -frame-it">{{game.visitor.short_name}}</div>
+  </vbox>
+  <img
+  src="{{static_images}}/Demo_data/pics/{{game.visitor.pic}}"
+  style="width:6rem; height:6rem;margin-right:1rem;">
+</hbox>
+<hbox class="border-bottom">
+  <div class="ql r10b">{{game.loc}} {{game.date}}</div>
+</hbox>
+</template>

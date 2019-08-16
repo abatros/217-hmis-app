@@ -1,0 +1,115 @@
+---
+player_id: 0046
+sname: tronblom
+full_name: Tron Blomquist
+short_name: Tron Blom
+loc: Stockholm
+dob: 1988-02-17
+likes: 683
+sports: football cricket
+
+categories:
+  - cat: Paralympic
+    pos: Midfielder
+
+stats:
+  goals: 47
+  assists: 92
+  saves: 84
+  games: 181
+  hours: 1403
+
+teams:
+  - sname: lhfc
+    pos: Centre-back
+
+games:
+  - date: 02/24/2016 05:44 PM
+    loc: Havana
+    visitor: lhfc
+    home: mzbq
+  - date: 09/29/2005 11:17 AM
+    loc: Isfahan
+    visitor: lhfc
+    home: sttle
+  - date: 07/29/2016 11:03 PM
+    loc: Tabriz
+    visitor: lhfc
+    home: osaka
+  - date: 02/16/2011 06:02 AM
+    loc: Córdoba
+    visitor: lhfc
+    home: vnce
+
+followers:
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+
+following:
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+
+profpic:
+  - url: /player-prof-055.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-009.jpg
+  - url: /random-005.jpg
+  - url: /random-003.jpg

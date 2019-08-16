@@ -1,0 +1,108 @@
+---
+player_id: 0017
+sname: francieg
+full_name: Francine Gonçalves Caetano
+short_name: Francine C.
+loc: Sao Paulo
+dob: 1985-03-22
+likes: 551
+sports: football basketball field-hockey
+
+categories:
+  - cat: Association
+    pos: Centre forward
+
+stats:
+  goals: 135
+  assists: 185
+  saves: 149
+  games: 299
+  hours: 1413
+
+teams:
+  - sname: palm
+    pos: Centre midfield
+
+games:
+  - date: 07/17/2002 09:01 AM
+    loc: Kawasaki
+    visitor: palm
+    home: sttle
+  - date: 04/01/2009 01:03 PM
+    loc: Beijing
+    visitor: palm
+    home: ptlndfc
+  - date: 12/18/2013 09:29 AM
+    loc: Kawasaki
+    visitor: palm
+    home: sttle
+  - date: 03/09/2015 08:01 PM
+    loc: Oran
+    visitor: palm
+    home: osaka
+  - date: 10/24/2003 03:02 AM
+    loc: Kawasaki
+    visitor: palm
+    home: osaka
+  - date: 12/26/2013 10:26 PM
+    loc: Mexico City
+    home: palm
+    visitor: vnce
+
+followers:
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+
+following:
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+
+profpic:
+  - url: /player-prof-012.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-001.jpg
+  - url: /random-005.jpg
+  - url: /random-006.jpg

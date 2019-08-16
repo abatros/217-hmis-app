@@ -1,0 +1,46 @@
+<head>
+  <style>
+    .profile-selector {
+      box-sizing: border-box;
+      font-weight:500;
+      font-size:1.4rem;
+      letter-spacing: 0.15rem;
+      color:white;
+      box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.20);
+      _height:4.8rem;
+      display:flex; flex-flow: row nowrap;
+      width:100%;
+      align-items: center;
+      line-height:4.6rem;
+      _background-color:#A62C07;
+    }
+    .profile-selector a {
+      -padding-top:7px;
+      border-bottom: 0.2rem solid transparent;
+      width:100px;
+    }
+    .profile-selector .active {
+      -padding-top:7px;
+      border-bottom: 0.2rem solid white;
+    }
+  </style>
+</head>
+
+<head>
+  <style>
+    .profile-selector a {
+      color:white;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<template name="profile_selector">
+  <div class="profile-selector p-900"
+  style="
+  ">
+    <a href="/players" class="qc {{player_tab_active}}" style="flex-grow: 1;">PLAYERS</a>
+    <a href="/teams" class="qc {{team_tab_active}}" style="flex-grow: 1;">TEAMS</a>
+    <a href="/player/vfds" class="qc {{me_tab_active}}" style="flex-grow: 1;">ME</a>
+  </div>
+</template>

@@ -1,0 +1,119 @@
+---
+player_id: 0049
+sname: nicholas
+full_name: Nicholas Lundholm
+short_name: Nick Lundh.
+loc: Stockholm
+dob: 1989-04-21
+likes: 304
+sports: football tennis table-tennis basketball baseball
+
+categories:
+  - cat: Paralympic
+    pos: Defender
+
+stats:
+  goals: 134
+  assists: 186
+  saves: 94
+  games: 293
+  hours: 1505
+
+teams:
+  - sname: lhfc
+    pos: Wing-back
+
+games:
+  - date: 09/26/2011 12:19 PM
+    loc: Oran
+    visitor: lhfc
+    home: hwth
+  - date: 07/06/2005 03:22 PM
+    loc: Quezon City
+    home: lhfc
+    visitor: mauiplts
+  - date: 11/07/2014 05:07 AM
+    loc: Buenos Aires
+    home: lhfc
+    visitor: ptlndfc
+  - date: 02/10/2015 06:00 AM
+    loc: Busan
+    home: lhfc
+    visitor: vnce
+  - date: 03/20/2012 06:18 PM
+    loc: Quezon City
+    visitor: lhfc
+    home: vnce
+  - date: 05/22/2004 02:07 AM
+    loc: Fuzhou
+    visitor: lhfc
+    home: hwth
+
+followers:
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: False
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: False
+
+following:
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+
+profpic:
+  - url: /player-prof-048.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-007.jpg
+  - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-003.jpg
+  - url: /random-010.jpg

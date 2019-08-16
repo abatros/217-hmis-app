@@ -1,0 +1,111 @@
+---
+player_id: 0024
+sname: gulemaym
+full_name: Gulema Yihun Mihret
+short_name: Gulema Y.M.
+loc: Addis Ababa
+dob: 1990-04-04
+likes: 406
+sports: football volleyball basketball table-tennis
+
+categories:
+  - cat: Futsal
+    pos: Full-back
+
+stats:
+  goals: 142
+  assists: 90
+  saves: 44
+  games: 261
+  hours: 1950
+
+teams:
+  - sname: enft
+    pos: Centre-back
+
+games:
+  - date: 08/28/2013 03:46 PM
+    loc: Mandalay
+    home: enft
+    visitor: hwth
+  - date: 04/22/2002 06:56 PM
+    loc: Mexico City
+    visitor: enft
+    home: mauiplts
+  - date: 04/10/2008 10:51 AM
+    loc: São Paulo
+    visitor: enft
+    home: ptlndfc
+  - date: 07/28/2005 07:35 AM
+    loc: Busan
+    visitor: enft
+    home: osaka
+  - date: 02/23/2007 05:05 AM
+    loc: Buenos Aires
+    visitor: enft
+    home: lngislnd
+
+followers:
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+
+following:
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+
+profpic:
+  - url: /player-prof-025.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-003.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg
+  - url: /random-002.jpg

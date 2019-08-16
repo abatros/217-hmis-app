@@ -1,0 +1,166 @@
+---
+game_id: 0015
+date: 05/16/2013 10:45 PM
+loc: Havana
+live: False
+referrees:
+  - name: Inacio Lacerda (Brazilian)
+home:
+  sname: lhfc
+  team_name: LHFC
+  coaches:
+    - name: Lilly Jernberg
+
+  players:
+    - sname: hildrd
+      full_name: Hildr Dalin
+      position: Goalkeeper
+    - sname: tronblom
+      full_name: Tron Blomquist
+      position: Centre-back
+      out: 52'
+    - sname: ragnarlin
+      full_name: Ragnar Lindgren
+      position: Sweeper
+    - sname: joelle
+      full_name: Joel Lennartsson
+      position: Full-back
+    - sname: nicholas
+      full_name: Nicholas Lundholm
+      position: Wing-back
+    - sname: tomburg
+      full_name: Thomas Borg
+      position: Centre midfield
+    - sname: stefilot
+      full_name: Stefan Lötvall
+      position: Defensive midfield
+    - sname: ojonss
+      full_name: Ögge Jönsson
+      position: Attacking midfield
+    - sname: joelljs
+      full_name: Joel Liljeström
+      position: Wide midfield
+    - sname: pipifri
+      full_name: Pia Frisk
+      position: Centre forward
+      out: 65'
+    - sname: fjohanss
+      full_name: Fia Johannesson
+      position: Second striker
+  substitutions:
+    - etime: 52
+      out: Tron Blomquist
+      in: Anne Walbruch
+    - etime: 65
+      out: Pia Frisk
+      in: Farhat Yilmaz
+  stats:
+    on_target: 5
+    off_target: 6
+    possession: 52
+    corners: 3
+    offsides: 3
+    foul: 5
+    yellow: 0
+
+
+visitors:
+  sname: pxfc
+  team_name: PXFC
+  coaches:
+    - name: Kulap (Ice) Hatthapradit
+
+  players:
+    - sname: surinw
+      full_name: Surin (Aek) Wattanasin
+      position: Goalkeeper
+    - sname: ahongha
+      full_name: Akkanee Honghannarong
+      position: Centre-back
+    - sname: arthits
+      full_name: Arthit (New) Sansurin
+      position: Sweeper
+      out: 55'
+    - sname: hanuman
+      full_name: Hanuman Klinpraneet
+      position: Full-back
+    - sname: ruangri
+      full_name: Ruangrit Srisati
+      position: Wing-back
+    - sname: duchan
+      full_name: Duchanee Srisati
+      position: Centre midfield
+      out: 78'
+    - sname: banthornn
+      full_name: Banthorn Noppachorn
+      position: Defensive midfield
+    - sname: nopjira
+      full_name: Nopjira (Ploy) Gaysorn
+      position: Attacking midfield
+    - sname: bossjira
+      full_name: Jirasak Srichure
+      position: Wide midfield
+    - sname: piyachar
+      full_name: Piyapat Charanachitta
+      position: Centre forward
+    - sname: maliwanc
+      full_name: Maliwan Chaiprasit
+      position: Second striker
+  substitutions:
+    - etime: 55
+      out: Arthit (New) Sansurin
+      in: Anne Walbruch
+    - etime: 78
+      out: Duchanee Srisati
+      in: Anne Walbruch
+  stats:
+    on_target: 3
+    off_target: 2
+    possession: 59
+    corners: 2
+    offsides: 5
+    foul: 13
+    yellow: 6
+
+minutes:
+  - type: goal
+    etime: 8
+    home: Joel Lennartsson
+    assist: Nicholas Lundholm
+    score: 1:0
+  - type: goal
+    etime: 9
+    visitor: Nopjira (Ploy) Gaysorn
+    assist: Hanuman Klinpraneet
+    score: 1:1
+  - type: yellow
+    etime: 20
+    home: Stefan Lötvall
+  - type: half_time
+    etime: 45
+    score: 1:1
+  - type: yellow
+    etime: 47
+    home: Fia Johannesson
+  - type: yellow
+    etime: 55
+    visitor: Surin (Aek) Wattanasin
+  - type: yellow
+    etime: 67
+    visitor: Arthit (New) Sansurin
+  - type: yellow
+    etime: 67
+    visitor: Arthit (New) Sansurin
+  - type: goal
+    etime: 85
+    home: Nicholas Lundholm
+    assist: Fia Johannesson
+    score: 2:1
+  - type: goal
+    etime: 86
+    visitor: Hanuman Klinpraneet
+    assist: Maliwan Chaiprasit
+    score: 2:2
+  - type: yellow
+    etime: 87
+    home: Hildr Dalin

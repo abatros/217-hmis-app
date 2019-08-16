@@ -1,0 +1,140 @@
+---
+game_id: 0002
+date: 07/06/2003 11:47 AM
+loc: Kawasaki
+live: False
+referrees:
+  - name: Lishan Wube (Ethiopian)
+home:
+  sname: awfc
+  team_name: AWFC
+  coaches:
+    - name: Amal Alfarsi
+
+  players:
+    - sname: musad
+      full_name: Musaddiq al-Pirani
+      position: Goalkeeper
+    - sname: HeFaroo
+      full_name: Husni el-Farooqui
+      position: Centre-back
+    - sname: hasan
+      full_name: Hasan el-Matin
+      position: Sweeper
+    - sname: Naseeb
+      full_name: Naseeba al-Yousuf
+      position: Full-back
+    - sname: Safwa
+      full_name: Safwaan el-Koroma
+      position: Wing-back
+    - sname: mahdaviB
+      full_name: Behzad Mahdavi
+      position: Centre midfield
+    - sname: arzhang
+      full_name: Arzhang Moshiri
+      position: Defensive midfield
+    - sname: MrTaheri
+      full_name: Taghi Taheri
+      position: Attacking midfield
+    - sname: dibadiba
+      full_name: Abbas Diba
+      position: Wide midfield
+    - sname: siamak
+      full_name: Siamak Yaghmaei
+      position: Centre forward
+    - sname: samana
+      full_name: Saman Arabnia
+      position: Second striker
+  substitutions:
+  stats:
+    on_target: 3
+    off_target: 3
+    possession: 47
+    corners: 3
+    offsides: 3
+    foul: 4
+    yellow: 7
+
+
+visitors:
+  sname: enft
+  team_name: ENFT
+  coaches:
+    - name: Merille Haroyu
+
+  players:
+    - sname: alemu1
+      full_name: Alemu Bekele Yitay
+      position: Goalkeeper
+    - sname: gulemaym
+      full_name: Gulema Yihun Mihret
+      position: Centre-back
+    - sname: zewdster
+      full_name: Zewdnesh Tesfa Galawdeyos
+      position: Sweeper
+    - sname: afewer
+      full_name: Afewerek Eyoel Abimelech
+      position: Full-back
+    - sname: brekime
+      full_name: Brehan Kidane Meles
+      position: Wing-back
+    - sname: mirabe
+      full_name: Mirabe Nahum Selassie
+      position: Centre midfield
+    - sname: imgirma
+      full_name: Girma Natnael Kaleb
+      position: Defensive midfield
+    - sname: wolitna
+      full_name: Wolitigna Adugna Mesay
+      position: Attacking midfield
+    - sname: asamenzg
+      full_name: Asamenew Zewedu Gorfu
+      position: Wide midfield
+    - sname: chirkobi
+      full_name: Chirkos Abimelech Eleazar
+      position: Centre forward
+      out: 76'
+    - sname: jeneve
+      full_name: Jeneve Dessalegne Tessema
+      position: Second striker
+  substitutions:
+    - etime: 76
+      out: Chirkos Abimelech Eleazar
+      in: Pierre-Yves Longe
+  stats:
+    on_target: 0
+    off_target: 2
+    possession: 56
+    corners: 2
+    offsides: 6
+    foul: 11
+    yellow: 6
+
+minutes:
+  - type: goal
+    etime: 15
+    visitor: Jeneve Dessalegne Tessema
+    assist: Alemu Bekele Yitay
+    score: 0:1
+  - type: yellow
+    etime: 18
+    visitor: Asamenew Zewedu Gorfu
+  - type: yellow
+    etime: 19
+    home: Abbas Diba
+  - type: goal
+    etime: 42
+    visitor: Girma Natnael Kaleb
+    assist: Gulema Yihun Mihret
+    score: 0:2
+  - type: half_time
+    etime: 45
+    score: 0:2
+  - type: goal
+    etime: 47
+    visitor: Wolitigna Adugna Mesay
+    assist: Girma Natnael Kaleb
+    score: 0:3
+  - type: yellow
+    etime: 75
+    home: Safwaan el-Koroma

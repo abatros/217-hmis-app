@@ -1,0 +1,129 @@
+---
+player_id: 0034
+sname: lexrox
+full_name: Alexis Gaubert
+short_name: Alexis G.
+loc: Paris
+dob: 1982-11-14
+likes: 635
+sports: football table-tennis
+
+categories:
+  - cat: Beach
+    pos: Centre forward
+
+stats:
+  goals: 126
+  assists: 99
+  saves: 119
+  games: 179
+  hours: 1921
+
+teams:
+  - sname: fm91
+    pos: Goalkeeper
+
+games:
+  - date: 06/23/2001 06:53 AM
+    loc: Isfahan
+    visitor: fm91
+    home: kngshlm
+  - date: 01/27/2012 01:29 AM
+    loc: Mandalay
+    visitor: fm91
+    home: mauiplts
+  - date: 09/02/2007 10:01 PM
+    loc: Isfahan
+    home: fm91
+    visitor: tahiti
+  - date: 03/04/2014 02:57 AM
+    loc: Busan
+    home: fm91
+    visitor: mzbq
+  - date: 04/18/2017 01:59 PM
+    loc: Busan
+    visitor: fm91
+    home: hwth
+
+followers:
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: False
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+
+following:
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+
+profpic:
+  - url: /player-prof-034.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-001.jpg
+  - url: /random-002.jpg
+  - url: /random-008.jpg
+  - url: /random-003.jpg

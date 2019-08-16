@@ -1,0 +1,122 @@
+---
+player_id: 0058
+sname: arthits
+full_name: Arthit Sansurin
+short_name: Athit S.
+loc: Bangkok
+dob: 1981-08-04
+likes: 624
+sports: football golf
+
+categories:
+  - cat: Paralympic
+    pos: Centre-back
+
+stats:
+  goals: 150
+  assists: 63
+  saves: 105
+  games: 216
+  hours: 655
+
+teams:
+  - sname: pxfc
+    pos: Sweeper
+
+games:
+  - date: 05/06/2007 01:06 PM
+    loc: Kawasaki
+    visitor: pxfc
+    home: lngislnd
+  - date: 03/27/2003 03:05 PM
+    loc: Quezon City
+    home: pxfc
+    visitor: vnce
+  - date: 04/29/2012 10:59 PM
+    loc: Havana
+    home: pxfc
+    visitor: vnce
+  - date: 06/08/2006 05:23 AM
+    loc: Kawasaki
+    home: pxfc
+    visitor: lngislnd
+  - date: 06/17/2013 11:37 PM
+    loc: Beijing
+    home: pxfc
+    visitor: vnce
+  - date: 06/08/2008 11:50 AM
+    loc: São Paulo
+    visitor: pxfc
+    home: sttle
+  - date: 02/02/2002 10:52 PM
+    loc: Kawasaki
+    home: pxfc
+    visitor: lngislnd
+
+followers:
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: False
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
+
+following:
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+
+profpic:
+  - url: /player-prof-059.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-002.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg
+  - url: /random-004.jpg

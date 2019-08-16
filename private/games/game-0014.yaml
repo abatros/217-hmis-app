@@ -1,0 +1,178 @@
+---
+game_id: 0014
+date: 07/13/2016 11:34 PM
+loc: Busan
+live: False
+referrees:
+  - name: Ebba Vong (Swedish)
+home:
+  sname: fm91
+  team_name: FM91
+  coaches:
+    - name: Claire Angers
+
+  players:
+    - sname: lexrox
+      full_name: Alexis Gaubert
+      position: Goalkeeper
+    - sname: georgess
+      full_name: Georges Solé
+      position: Centre-back
+    - sname: memman
+      full_name: Marcel Emmanuelli
+      position: Sweeper
+    - sname: pierrelv
+      full_name: Pierre-Louis Verninac
+      position: Full-back
+    - sname: aymchill
+      full_name: Aymeric Chéreau
+      position: Wing-back
+    - sname: ralarie
+      full_name: Raoul Alarie
+      position: Centre midfield
+      out: 87'
+    - sname: mettepast
+      full_name: Guillemette Pasteur
+      position: Defensive midfield
+    - sname: baptistea
+      full_name: Baptiste Alard
+      position: Attacking midfield
+      out: 52'
+    - sname: danjacq
+      full_name: Dany Jacquard
+      position: Wide midfield
+    - sname: jeanpp
+      full_name: Jean-Philippe Paquin
+      position: Centre forward
+    - sname: angelmoi
+      full_name: Angélique Ardouin
+      position: Second striker
+  substitutions:
+    - etime: 87
+      out: Raoul Alarie
+      in: Inacio Lacerda
+    - etime: 52
+      out: Baptiste Alard
+      in: Farhat Yilmaz
+  stats:
+    on_target: 2
+    off_target: 3
+    possession: 41
+    corners: 7
+    offsides: 7
+    foul: 7
+    yellow: 2
+
+
+visitors:
+  sname: pxfc
+  team_name: PXFC
+  coaches:
+    - name: Kulap (Ice) Hatthapradit
+
+  players:
+    - sname: surinw
+      full_name: Surin (Aek) Wattanasin
+      position: Goalkeeper
+    - sname: ahongha
+      full_name: Akkanee Honghannarong
+      position: Centre-back
+    - sname: arthits
+      full_name: Arthit (New) Sansurin
+      position: Sweeper
+    - sname: hanuman
+      full_name: Hanuman Klinpraneet
+      position: Full-back
+    - sname: ruangri
+      full_name: Ruangrit Srisati
+      position: Wing-back
+    - sname: duchan
+      full_name: Duchanee Srisati
+      position: Centre midfield
+    - sname: banthornn
+      full_name: Banthorn Noppachorn
+      position: Defensive midfield
+    - sname: nopjira
+      full_name: Nopjira (Ploy) Gaysorn
+      position: Attacking midfield
+    - sname: bossjira
+      full_name: Jirasak Srichure
+      position: Wide midfield
+      out: 76'
+    - sname: piyachar
+      full_name: Piyapat Charanachitta
+      position: Centre forward
+      out: 85'
+    - sname: maliwanc
+      full_name: Maliwan Chaiprasit
+      position: Second striker
+  substitutions:
+    - etime: 76
+      out: Jirasak Srichure
+      in: Farhat Yilmaz
+    - etime: 85
+      out: Piyapat Charanachitta
+      in: Arvid Odegard
+  stats:
+    on_target: 3
+    off_target: 5
+    possession: 55
+    corners: 7
+    offsides: 3
+    foul: 10
+    yellow: 0
+
+minutes:
+  - type: goal
+    etime: 2
+    home: Aymeric Chéreau
+    assist: Pierre-Louis Verninac
+    score: 1:0
+  - type: goal
+    etime: 6
+    home: Marcel Emmanuelli
+    assist: Dany Jacquard
+    score: 2:0
+  - type: yellow
+    etime: 7
+    visitor: Banthorn Noppachorn
+  - type: goal
+    etime: 16
+    home: Aymeric Chéreau
+    assist: Raoul Alarie
+    score: 3:0
+  - type: goal
+    etime: 27
+    visitor: Jirasak Srichure
+    assist: Piyapat Charanachitta
+    score: 3:1
+  - type: yellow
+    etime: 29
+    visitor: Nopjira (Ploy) Gaysorn
+  - type: goal
+    etime: 30
+    home: Jean-Philippe Paquin
+    assist: Dany Jacquard
+    score: 4:1
+  - type: yellow
+    etime: 39
+    home: Guillemette Pasteur
+  - type: half_time
+    etime: 45
+    score: 4:1
+  - type: goal
+    etime: 62
+    visitor: Jirasak Srichure
+    assist: Ruangrit Srisati
+    score: 4:2
+  - type: yellow
+    etime: 80
+    home: Marcel Emmanuelli
+  - type: yellow
+    etime: 83
+    home: Marcel Emmanuelli
+  - type: goal
+    etime: 87
+    visitor: Jirasak Srichure
+    assist: Surin (Aek) Wattanasin
+    score: 4:3

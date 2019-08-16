@@ -1,0 +1,108 @@
+---
+player_id: 0028
+sname: mirabe
+full_name: Mirabe Nahum Selassie
+short_name: Mira N.S.
+loc: Addis Ababa
+dob: 1976-04-29
+likes: 339
+sports: football volleyball
+
+categories:
+  - cat: Street
+    pos: Defender
+
+stats:
+  goals: 148
+  assists: 152
+  saves: 116
+  games: 210
+  hours: 1885
+
+teams:
+  - sname: enft
+    pos: Centre midfield
+
+games:
+  - date: 01/10/2003 12:37 AM
+    loc: São Paulo
+    visitor: enft
+    home: kngshlm
+  - date: 10/28/2013 04:19 AM
+    loc: Cairo
+    visitor: enft
+    home: tahiti
+  - date: 01/11/2001 12:43 PM
+    loc: Bengaluru
+    visitor: enft
+    home: osaka
+  - date: 07/15/2009 12:26 AM
+    loc: Madrid
+    visitor: enft
+    home: tahiti
+
+followers:
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+
+following:
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+
+profpic:
+  - url: /player-prof-028.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-010.jpg
+  - url: /random-004.jpg

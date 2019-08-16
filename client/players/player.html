@@ -1,0 +1,35 @@
+<template name="player">
+<vbox id="player"
+style="margin-top:9.5rem; margin-bottom:5rem; border-bottom: 2px dashed green;"
+>
+  <vbox class="fixed-top">
+    {{> scooru_banner}}
+    {{> profile_selector}}
+  </vbox>
+
+  <vbox class="scrolling-content"
+    style="align-items:stretch;"
+    >
+      {{> player_banner player=player}}
+      {{> player_message_follow}}
+      {{> player_tabs}}
+
+      {{#if overview_panel}}
+      {{> player_overview player=player}}
+      {{/if}}
+
+      {{#if stats_panel}}
+      {{> player_stats}}
+      {{/if}}
+
+      {{#if friends_panel}}
+      {{> player_friends player=player}}
+      {{/if}}
+  </vbox>
+
+</vbox>
+</template>
+
+
+<template name="player_sample">
+</template>

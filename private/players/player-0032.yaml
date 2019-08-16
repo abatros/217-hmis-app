@@ -1,0 +1,101 @@
+---
+player_id: 0032
+sname: chirkobi
+full_name: Chirkos Abimelech Eleazar
+short_name: Chirkos E.
+loc: Addis Ababa
+dob: 1980-11-10
+likes: 78
+sports: football badminton basketball field-hockey cricket
+
+categories:
+  - cat: Association
+    pos: Second striker
+
+stats:
+  goals: 52
+  assists: 141
+  saves: 141
+  games: 140
+  hours: 1413
+
+teams:
+  - sname: enft
+    pos: Centre forward
+
+games:
+  - date: 08/23/2004 03:09 AM
+    loc: Oran
+    visitor: enft
+    home: lngislnd
+  - date: 08/31/2013 01:23 PM
+    loc: Cairo
+    home: enft
+    visitor: kngshlm
+  - date: 07/22/2000 08:15 AM
+    loc: Havana
+    visitor: enft
+    home: sttle
+  - date: 07/23/2013 06:00 AM
+    loc: Buenos Aires
+    visitor: enft
+    home: hwth
+  - date: 11/08/2013 12:36 AM
+    loc: Quanzhou
+    visitor: enft
+    home: sttle
+  - date: 07/30/2004 04:45 PM
+    loc: Mandalay
+    visitor: enft
+    home: sttle
+
+followers:
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+
+following:
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+
+profpic:
+  - url: /player-prof-029.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-002.jpg

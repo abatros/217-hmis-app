@@ -1,0 +1,181 @@
+---
+game_id: 0007
+date: 12/12/2004 11:45 PM
+loc: Bengaluru
+live: False
+referrees:
+  - name: Gul Bardakci (Turkish)
+home:
+  sname: palm
+  team_name: PALM
+  coaches:
+    - name: Alondra Caixeta
+
+  players:
+    - sname: tuuliioo
+      full_name: Túlio Amorim Morais
+      position: Goalkeeper
+    - sname: marcionf
+      full_name: Márcio Nascimento Furtado
+      position: Centre-back
+      out: 63'
+    - sname: iabellu
+      full_name: Iago Martins Belluci
+      position: Sweeper
+    - sname: sidneife
+      full_name: Sidnei Amaral Ferraz
+      position: Full-back
+    - sname: josehey
+      full_name: José Hamada Barros
+      position: Wing-back
+    - sname: francieg
+      full_name: Francine Gonçalves Caetano
+      position: Centre midfield
+      out: 68'
+    - sname: ddeduardo
+      full_name: Eduardo Damasceno Delgado
+      position: Defensive midfield
+    - sname: bernarcool
+      full_name: Bernardo Maia Álvarez
+      position: Attacking midfield
+    - sname: leandac
+      full_name: Leandro Antunes Couto
+      position: Wide midfield
+      out: 53'
+    - sname: vfds
+      full_name: Vinicius Ferraz de Souza
+      position: Centre forward
+    - sname: robertam
+      full_name: Roberta Medeiros Menezes
+      position: Second striker
+      out: 52'
+  substitutions:
+    - etime: 63
+      out: Márcio Nascimento Furtado
+      in: Pierre-Yves Longe
+    - etime: 68
+      out: Francine Gonçalves Caetano
+      in: Cherise Bey
+    - etime: 53
+      out: Leandro Antunes Couto
+      in: Ebba Vong
+    - etime: 52
+      out: Roberta Medeiros Menezes
+      in: Farhat Yilmaz
+  stats:
+    on_target: 0
+    off_target: 6
+    possession: 41
+    corners: 7
+    offsides: 2
+    foul: 9
+    yellow: 5
+
+
+visitors:
+  sname: fm91
+  team_name: FM91
+  coaches:
+    - name: Jean-Luc Gareau
+
+  players:
+    - sname: lexrox
+      full_name: Alexis Gaubert
+      position: Goalkeeper
+    - sname: georgess
+      full_name: Georges Solé
+      position: Centre-back
+      out: 65'
+    - sname: memman
+      full_name: Marcel Emmanuelli
+      position: Sweeper
+    - sname: pierrelv
+      full_name: Pierre-Louis Verninac
+      position: Full-back
+    - sname: aymchill
+      full_name: Aymeric Chéreau
+      position: Wing-back
+    - sname: ralarie
+      full_name: Raoul Alarie
+      position: Centre midfield
+    - sname: mettepast
+      full_name: Guillemette Pasteur
+      position: Defensive midfield
+    - sname: baptistea
+      full_name: Baptiste Alard
+      position: Attacking midfield
+    - sname: danjacq
+      full_name: Dany Jacquard
+      position: Wide midfield
+    - sname: jeanpp
+      full_name: Jean-Philippe Paquin
+      position: Centre forward
+    - sname: angelmoi
+      full_name: Angélique Ardouin
+      position: Second striker
+  substitutions:
+    - etime: 65
+      out: Georges Solé
+      in: Inacio Lacerda
+  stats:
+    on_target: 5
+    off_target: 2
+    possession: 50
+    corners: 6
+    offsides: 4
+    foul: 7
+    yellow: 6
+
+minutes:
+  - type: goal
+    etime: 1
+    home: Roberta Medeiros Menezes
+    assist: Túlio Amorim Morais
+    score: 1:0
+  - type: goal
+    etime: 13
+    visitor: Aymeric Chéreau
+    assist: Georges Solé
+    score: 1:1
+  - type: yellow
+    etime: 15
+    home: Túlio Amorim Morais
+  - type: goal
+    etime: 37
+    home: Márcio Nascimento Furtado
+    assist: Sidnei Amaral Ferraz
+    score: 2:1
+  - type: goal
+    etime: 42
+    home: Márcio Nascimento Furtado
+    assist: Francine Gonçalves Caetano
+    score: 3:1
+  - type: half_time
+    etime: 45
+    score: 3:1
+  - type: yellow
+    etime: 48
+    visitor: Marcel Emmanuelli
+  - type: goal
+    etime: 56
+    visitor: Angélique Ardouin
+    assist: Guillemette Pasteur
+    score: 3:2
+  - type: yellow
+    etime: 59
+    visitor: Marcel Emmanuelli
+  - type: goal
+    etime: 67
+    visitor: Dany Jacquard
+    assist: Alexis Gaubert
+    score: 3:3
+  - type: goal
+    etime: 73
+    visitor: Dany Jacquard
+    assist: Alexis Gaubert
+    score: 3:4
+  - type: goal
+    etime: 78
+    visitor: Guillemette Pasteur
+    assist: Alexis Gaubert
+    score: 3:5

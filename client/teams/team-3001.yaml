@@ -1,0 +1,60 @@
+---
+team-id: 3001
+full_name: The Burirum United Football Club
+short_name: Burirum United
+sname: BURI
+loc: Burirum
+yf: 2014
+views: 1234
+likes: 543
+category: football futsal
+admins:
+  - name: ashleight
+  - name: captain-sensible
+  - name: footie
+
+about: >
+  We're a jolly bunch of fellows from Nan.
+
+stats:
+  games: 583
+  possessions: 62%
+  goals: 230
+  saves: 112
+  win: 23:51%
+  loss: 22:49%
+
+players:
+  - sname: peter34
+    full_name: Peter Olson
+    position: Goalkeeper
+  - sname: alex76
+    full_name: Alex Juarez
+    position: Wing-center
+
+
+pics:
+  - url: /team-3001-0001.jpeg
+  - url: /team-3001-0002.jpeg
+  - url: /team-3001-0007.jpeg
+  - url: /team-3001-0008.jpeg
+  - url: /team-3001-0011.jpeg
+  - url: /team-3001-0012.jpeg
+
+games:
+  - date: March 12, 2019 20:00
+    loc: Wattana
+    visitor: team-B
+    live: true
+
+  - date: March 13, 2019 21:00
+    loc: Wattana
+    visitor: team-C
+
+followers:
+  - sname: xxxxx
+    full_name: xxxxx-full-name
+    following: true
+  - sname: yyyyy
+    full_name: yyyyy-full-name
+    following: false

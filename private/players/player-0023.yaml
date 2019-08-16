@@ -1,0 +1,106 @@
+---
+player_id: 0023
+sname: alemu1
+full_name: Alemu Bekele Yitay
+short_name: Alemu Y.
+loc: Addis Ababa
+dob: 1990-01-06
+likes: 338
+sports: football baseball table-tennis cricket basketball
+
+categories:
+  - cat: Indoor
+    pos: Sweeper
+
+stats:
+  goals: 80
+  assists: 42
+  saves: 111
+  games: 282
+  hours: 1596
+
+teams:
+  - sname: enft
+    pos: Goalkeeper
+
+games:
+  - date: 09/24/2017 08:32 PM
+    loc: Buenos Aires
+    home: enft
+    visitor: ptlndfc
+  - date: 12/29/2015 01:24 PM
+    loc: Córdoba
+    visitor: enft
+    home: osaka
+  - date: 04/16/2017 07:03 PM
+    loc: London
+    visitor: enft
+    home: hwth
+  - date: 09/18/2007 12:53 PM
+    loc: Beijing
+    visitor: enft
+    home: tahiti
+  - date: 12/22/2012 05:40 PM
+    loc: Córdoba
+    visitor: enft
+    home: tahiti
+
+followers:
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+
+following:
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+
+profpic:
+  - url: /player-prof-024.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-005.jpg
+  - url: /random-010.jpg

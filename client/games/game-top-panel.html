@@ -1,0 +1,65 @@
+<head>
+  <style>
+  vbox.game-top-panel .big-letter {
+    justify-content:center; height:5rem; width:20%; background-color:#DDDDDD; font-size:3rem;
+  }
+  vbox.game-top-panel .big-letter.win {
+    border: 4px solid #A62C07;
+  }
+  vbox.game-top-panel .big-letter {
+    border: 4px solid #DDDDDD;
+  }
+  vbox.game-top-panel .frame-it {
+    --border: 1px solid white;
+  }
+  </style>
+</head>
+
+
+<template name="game_top_panel">
+  <vbox class="game-top-panel">
+    <hbox class="qc">
+      <vbox class="big-letter qc {{game.home.win}}">B</vbox>
+
+      <vbox
+      style="justify-content:space-between; align-items:center; padding:1.0rem 0.5rem;"
+      >
+        <div class="r16b">{{home_score}} </div>
+        <img class="js-home {{home_ball_hidden}}" src="http://webapp.scooru.com/static/football-flat.svg" alt="" style="width:1.2rem;">
+      </vbox>
+
+      <vbox class="-frame-it" style="align-items:center; justify-content:space-between; padding: 0.5rem 0rem 1.1rem 0;">
+      <div class="-frame-it" style="flex-grow:1;text-align:center;padding-top:0.4rem;">{{game.etime}}</div>
+      <div class="-frame-it ama"><b>LIVE</b></div>
+      </vbox>
+
+      <vbox
+      style="justify-content:space-between; align-items:center; padding:1.0rem 0.5rem;"
+      >
+        <div class="r16b">{{visitor_score}} </div>
+        <img src="http://webapp.scooru.com/static/football-flat.svg" alt="" style="width:1.2rem;" class="js-visitor {{visitor_ball_hidden}}">
+      </vbox>
+
+
+      <vbox class="big-letter qc {{game.visitor.win}}">C</vbox>
+    </hbox>
+
+
+
+
+    <hbox class="qj" style="padding:0.2rem 0 0 0;">
+      <div class="-frame-it r14b" style="width:50%; text-align:center;">{{game.home.label}}</div>
+      <div class="-frame-it r14b" style="width:50%; text-align:center;">{{game.visitor.label}}</div>
+    </hbox>
+
+
+
+    <hbox class="qc border-bottom"
+      style="padding:0.2rem 0 0.6rem 0;  margin-bottom:1.1rem;
+      --border-bottom:1px solid #DDDDDD;
+      ">
+      <a href="#">{{game.loc}} - {{game.date}} - 4:00 pm</a>
+    </hbox>
+
+  </vbox>
+</template>

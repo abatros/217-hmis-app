@@ -1,0 +1,109 @@
+---
+player_id: 0016
+sname: josehey
+full_name: José Hamada Barros
+short_name: Jose H.B.
+loc: Sao Paulo
+dob: 1984-03-04
+likes: 693
+sports: football
+
+categories:
+  - cat: Paralympic
+    pos: Centre-back
+
+stats:
+  goals: 95
+  assists: 59
+  saves: 80
+  games: 194
+  hours: 1862
+
+teams:
+  - sname: palm
+    pos: Wing-back
+
+games:
+  - date: 07/08/2003 12:30 AM
+    loc: London
+    home: palm
+    visitor: hwth
+  - date: 01/06/2015 10:47 PM
+    loc: Isfahan
+    visitor: palm
+    home: vnce
+  - date: 03/28/2002 10:33 AM
+    loc: Buenos Aires
+    home: palm
+    visitor: vnce
+  - date: 02/20/2006 11:31 PM
+    loc: Busan
+    home: palm
+    visitor: sttle
+  - date: 06/02/2002 01:42 PM
+    loc: São Paulo
+    home: palm
+    visitor: lngislnd
+
+followers:
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+
+following:
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+
+profpic:
+  - url: /player-prof-018.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-002.jpg
+  - url: /random-007.jpg

@@ -1,0 +1,109 @@
+---
+player_id: 0063
+sname: nopjira
+full_name: Nopjira Gaysorn
+short_name: Nopjira G.
+loc: Bangkok
+dob: 1986-06-11
+likes: 632
+sports: football basketball volleyball golf
+
+categories:
+  - cat: Street
+    pos: Centre-back
+
+stats:
+  goals: 137
+  assists: 115
+  saves: 137
+  games: 87
+  hours: 693
+
+teams:
+  - sname: pxfc
+    pos: Attacking midfield
+
+games:
+  - date: 11/17/2009 06:47 AM
+    loc: Buenos Aires
+    home: pxfc
+    visitor: sttle
+  - date: 05/24/2007 01:56 AM
+    loc: São Paulo
+    visitor: pxfc
+    home: sttle
+  - date: 11/21/2002 11:21 PM
+    loc: Beijing
+    visitor: pxfc
+    home: osaka
+  - date: 07/10/2008 01:50 AM
+    loc: Fuzhou
+    visitor: pxfc
+    home: vnce
+  - date: 10/16/2016 12:59 PM
+    loc: Beijing
+    visitor: pxfc
+    home: hwth
+  - date: 06/18/2007 05:47 AM
+    loc: Busan
+    visitor: pxfc
+    home: osaka
+  - date: 05/02/2002 12:37 AM
+    loc: Havana
+    home: pxfc
+    visitor: hwth
+
+followers:
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+
+following:
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+
+profpic:
+  - url: /player-prof-060.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-008.jpg
+  - url: /random-006.jpg
+  - url: /random-005.jpg

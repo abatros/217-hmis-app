@@ -1,0 +1,178 @@
+---
+id: 101
+date: march 23, 2019 14:00
+loc: Don Muang
+live: true
+referrees:
+  - name : Nestor Pitana (Argentina)
+
+minutes:
+  - type: yellow
+    etime: 11'
+    home: Piotr Zielinski
+
+  - type: yellow
+    etime: 11'
+    home: Sandro
+
+  - score: 1:0
+    etime: 17'
+    home: Amin Younes
+    assist: Dries Mertens
+
+  - score: 2:0
+    etime: 26'
+    home: Jose Callejon
+    assist: Dries Mertens
+
+  - score: 2:1
+    etime: 30'
+    visitor: Kevin Lasagna
+    assist: Seko Fofana
+
+  - score: 2:0
+    etime: 36'
+    visitor: Seko Fofana
+    assist: Hidde Ter Avest
+
+  - half_time: 2:2
+
+  - score: 3:2
+    etime: 57'
+    home: Arek Milik
+    assist: Jose Callejon
+
+  - score: 4:2
+    etime: 69'
+    home: Dries Mertens
+    assist: Allan
+
+
+home:
+  team_id: 2001
+  team_name: BURI
+  coaches:
+    - name: Stanislav Cherchesov
+
+  players:
+    - name: Igor Akinfeev
+      position: Goalkeeper
+
+    - name: Mario Fernandes
+      position: Center-back
+
+    - name: Ilya Kutepov
+      position: Center-back
+
+    - name: Sergei Ignashevich
+      position: Wing-back
+
+    - name: Yuri Zhirkov
+      position: Wing-back
+
+    - name: Yuri Gazinskiyi
+      position: Center midfield
+
+    - name: Alan Dzagoev
+      position: Center midfield
+      out: 30'
+
+    - name: Roman Zobnin
+      position: Wide midfield
+
+    - name: Aleksandr Golovin
+      position: Wide midfield
+
+    - name: Aleksandr Samedov
+      position: Center forward
+      out: 64'
+
+    - name: Fedor Smolov
+      position: Center forward
+      out: 70'
+
+  substitutions:
+    - etime: 24
+      out: Alan Dzagoev
+      in: Denis Cheryshev
+    - etime: 64
+      out: Aleksandr Samedov
+      in: Daler Kuzyaev
+    - etime: 70
+      out: Fedor Smolov
+      in: Artem Dzyuba
+
+  stats:
+    on_target: 0
+    off_target: 2
+    possession: 40
+    corners: 5
+    offsides: 2
+    fould: 14
+    yellow: 2
+
+
+visitors:
+  team_id: 2002
+  team_name: CHON2
+  coaches:
+    - name: Juan Antonio Pizzi
+
+  players:
+    - name: Abdullah Al Muaiouf
+      position: Goalkeeper
+
+    - name: Osama Hawsawi
+      position: Center-back
+
+    - name: Omar Hawsawi
+      position: Center-back
+
+    - name: Mohammed Al Burayk
+      position: Wing-back
+
+    - name: Yasir Al Shahrani
+      position: Wing-back
+
+    - name: Salman Al-Faraj
+      position: Center midfield
+
+    - name: Yahya Al Shehri
+      position: Center midfield
+      out: 72'
+
+    - name: Abdullah Otayf
+      position: Center midfield
+      out: 64'
+
+    - name: Taisir Al-Jassim
+      position: Wide midfield
+      out: 24'
+
+    - name: Salem Al-Dawsari
+      position: Wide midfield
+
+    - name: Mohammed Al-Sahlawi
+      position: Center forward
+      out: 85'
+
+  substitutions:
+    - etime: 64
+      out: Abdullah Otayf
+      in: Fahad Al-Muwallad
+    - etime: 72
+      out: Yahya Al Shehri
+      in: Hattan Sultan Babhir
+    - etime: 85
+      out: Mohammed Al-Sahlawi
+      in: Mahanad Asiri
+
+
+  stats:
+    on_target: 7
+    off_target: 4
+    possession: 60
+    corners: 5
+    offsides: 5
+    fould: 8
+    yellow: 2

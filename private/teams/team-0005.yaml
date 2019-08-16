@@ -1,0 +1,140 @@
+---
+team-id: 0005
+full_name: Långholmen Football Club
+short_name: Långholmens FC
+sname: lhfc
+loc: Stockholm
+df: 1943-03-23
+likes: 4215
+category: Association
+admins:
+  - name: hildrd
+  - name: tronblom
+  - name: ragnarlin
+
+about: >
+  Långholmen Football club was founded in 1943 and is now an important part of the sporting and social life of the extraterrestrial community in Stockholm.
+
+stats:
+  games: 618
+  possessions: 51%
+  goals: 253
+  saves: 510
+  win: 243:45%
+  loss: 136:57%
+
+players:
+  - sname: hildrd
+    full_name: Hildr D.
+    position: Goalkeeper
+  - sname: tronblom
+    full_name: Tron Blom
+    position: Centre-back
+  - sname: ragnarlin
+    full_name: Ragnar L.
+    position: Sweeper
+  - sname: joelle
+    full_name: Joel L.
+    position: Full-back
+  - sname: nicholas
+    full_name: Nick Lundh.
+    position: Wing-back
+  - sname: tomburg
+    full_name: Thomas B.
+    position: Centre midfield
+  - sname: stefilot
+    full_name: Stefani L.
+    position: Defensive midfield
+  - sname: ojonss
+    full_name: Ogge J.
+    position: Attacking midfield
+  - sname: joelljs
+    full_name: Joel LJS
+    position: Wide midfield
+  - sname: pipifri
+    full_name: Pia Frisk
+    position: Centre forward
+  - sname: fjohanss
+    full_name: Fia JHS
+    position: Second striker
+
+
+profpic:
+  - url: /Langholmen.png
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-010.jpg
+  - url: /random-003.jpg
+
+
+games:
+  - date: 04/22/2000 03:24 PM
+    loc: Quezon City
+    visitor: mauiplts
+  - date: 05/24/2000 09:56 PM
+    loc: Kawasaki
+    visitor: osaka
+  - date: 04/30/2002 04:23 AM
+    loc: Bengaluru
+    visitor: lngislnd
+  - date: 09/26/2010 06:50 PM
+    loc: Mexico City
+    visitor: lngislnd
+  - date: 02/06/2016 12:11 PM
+    loc: Bengaluru
+    visitor: ptlndfc
+  - date: 10/04/2012 05:21 PM
+    loc: Quanzhou
+    visitor: ptlndfc
+  - date: 12/24/2008 04:54 PM
+    loc: Busan
+    visitor: kngshlm
+  - date: 09/16/2000 03:13 PM
+    loc: Fuzhou
+    visitor: mzbq
+  - date: 10/13/2012 08:18 PM
+    loc: Kawasaki
+    visitor: vnce
+
+
+followers:
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True

@@ -1,0 +1,182 @@
+---
+game_id: 0003
+date: 03/22/2004 09:29 AM
+loc: Kawasaki
+live: True
+referrees:
+  - name: Paithoon Suthikul (Thai)
+home:
+  sname: awfc
+  team_name: AWFC
+  coaches:
+    - name: Saladin Toma
+
+  players:
+    - sname: musad
+      full_name: Musaddiq al-Pirani
+      position: Goalkeeper
+      out: 66'
+    - sname: HeFaroo
+      full_name: Husni el-Farooqui
+      position: Centre-back
+    - sname: hasan
+      full_name: Hasan el-Matin
+      position: Sweeper
+    - sname: Naseeb
+      full_name: Naseeba al-Yousuf
+      position: Full-back
+    - sname: Safwa
+      full_name: Safwaan el-Koroma
+      position: Wing-back
+      out: 49'
+    - sname: mahdaviB
+      full_name: Behzad Mahdavi
+      position: Centre midfield
+    - sname: arzhang
+      full_name: Arzhang Moshiri
+      position: Defensive midfield
+    - sname: MrTaheri
+      full_name: Taghi Taheri
+      position: Attacking midfield
+    - sname: dibadiba
+      full_name: Abbas Diba
+      position: Wide midfield
+    - sname: siamak
+      full_name: Siamak Yaghmaei
+      position: Centre forward
+    - sname: samana
+      full_name: Saman Arabnia
+      position: Second striker
+  substitutions:
+    - etime: 66
+      out: Musaddiq al-Pirani
+      in: Arvid Odegard
+    - etime: 49
+      out: Safwaan el-Koroma
+      in: Anne Walbruch
+  stats:
+    on_target: 2
+    off_target: 7
+    possession: 58
+    corners: 2
+    offsides: 3
+    foul: 14
+    yellow: 5
+
+
+visitors:
+  sname: fm91
+  team_name: FM91
+  coaches:
+    - name: Claire Angers
+
+  players:
+    - sname: lexrox
+      full_name: Alexis Gaubert
+      position: Goalkeeper
+    - sname: georgess
+      full_name: Georges Solé
+      position: Centre-back
+    - sname: memman
+      full_name: Marcel Emmanuelli
+      position: Sweeper
+    - sname: pierrelv
+      full_name: Pierre-Louis Verninac
+      position: Full-back
+    - sname: aymchill
+      full_name: Aymeric Chéreau
+      position: Wing-back
+    - sname: ralarie
+      full_name: Raoul Alarie
+      position: Centre midfield
+      out: 76'
+    - sname: mettepast
+      full_name: Guillemette Pasteur
+      position: Defensive midfield
+    - sname: baptistea
+      full_name: Baptiste Alard
+      position: Attacking midfield
+      out: 56'
+    - sname: danjacq
+      full_name: Dany Jacquard
+      position: Wide midfield
+    - sname: jeanpp
+      full_name: Jean-Philippe Paquin
+      position: Centre forward
+      out: 75'
+    - sname: angelmoi
+      full_name: Angélique Ardouin
+      position: Second striker
+  substitutions:
+    - etime: 76
+      out: Raoul Alarie
+      in: Anne Walbruch
+    - etime: 56
+      out: Baptiste Alard
+      in: Ebba Vong
+    - etime: 75
+      out: Jean-Philippe Paquin
+      in: Arvid Odegard
+  stats:
+    on_target: 1
+    off_target: 2
+    possession: 54
+    corners: 5
+    offsides: 4
+    foul: 5
+    yellow: 6
+
+minutes:
+  - type: goal
+    etime: 3
+    home: Hasan el-Matin
+    assist: Safwaan el-Koroma
+    score: 1:0
+  - type: goal
+    etime: 21
+    visitor: Angélique Ardouin
+    assist: Jean-Philippe Paquin
+    score: 1:1
+  - type: yellow
+    etime: 28
+    home: Hasan el-Matin
+  - type: goal
+    etime: 36
+    visitor: Raoul Alarie
+    assist: Pierre-Louis Verninac
+    score: 1:2
+  - type: goal
+    etime: 37
+    visitor: Guillemette Pasteur
+    assist: Georges Solé
+    score: 1:3
+  - type: goal
+    etime: 38
+    visitor: Guillemette Pasteur
+    assist: Jean-Philippe Paquin
+    score: 1:4
+  - type: half_time
+    etime: 45
+    score: 1:4
+  - type: yellow
+    etime: 51
+    visitor: Aymeric Chéreau
+  - type: yellow
+    etime: 52
+    visitor: Marcel Emmanuelli
+  - type: yellow
+    etime: 69
+    visitor: Marcel Emmanuelli
+  - type: goal
+    etime: 82
+    home: Taghi Taheri
+    assist: Husni el-Farooqui
+    score: 2:4
+  - type: goal
+    etime: 85
+    home: Musaddiq al-Pirani
+    assist: Behzad Mahdavi
+    score: 3:4
+  - type: yellow
+    etime: 86
+    visitor: Dany Jacquard

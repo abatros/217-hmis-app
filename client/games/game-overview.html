@@ -1,0 +1,115 @@
+<head>
+  <style>
+  .game-overview .col1 {
+    width:2rem;
+  }
+  .game-overview .col2 {
+    width:13rem;
+  }
+  .game-overview-item {
+    padding: 0.5rem;
+    align-items:center;
+    font-family: 'PT Sans Narrow';
+    font-weight: 400;
+    font-size:1.4rem;
+    letter-spacing: 0;
+    color:#414141;
+    color:#212121;
+    height:3rem;
+    border-bottom: 1px solid rgba(65,65,65,0.12);
+  }
+
+  </style>
+</head>
+
+<template name="game_overview">
+
+  <div class="vbox game-overview"
+  style="
+    font-size:1.05rem;
+    color:#414141; letter-spacing:0.4px;
+    padding:0 0rem 60px 1.1rem;
+    margin:0;
+  ">
+    <div class="row border-bottom"
+      style="
+      line-height:3rem;"
+      >
+      <div class="-ama r16b">Match details</div>
+    </div>
+
+
+    {{#each it in _game.minutes}}
+
+    {{#if it.yellow}}
+    {{> game_detail_yellow it=it}}
+    {{/if}}
+
+    {{#if it.score}}
+    {{> game_overview_detail_score it=it}}
+    {{/if}}
+
+
+    {{#if it.half_time}}
+    {{> game_detail_half_time it=it}}
+    {{/if}}
+
+
+    {{/each}}
+
+    <div class="row border-bottom"
+      style="
+      --border-bottom:1px solid #414141;
+      line-height:3rem; margin-bottom:5rem;"
+      >
+      <div class="-ama r16b">Commentary</div>
+    </div>
+
+  </div>
+</template>
+
+
+<template name="game_overview_detail_score">
+  <hbox class="qj game-overview-item -border-bottom" style="">
+    <div class="r11 col1 ">{{it.etime}}</div>
+    <div class="vbox col2 qr ">
+      <div>{{it.home.scorer}}</div>
+      <div class="gray">{{it.home.assist}}</div>
+    </div>
+    <div class="r11">
+      {{it.home_score}}&ensp;<img style="width:0.9rem;"
+      src="http://webapp.scooru.com/static/football-flat.svg">&ensp;
+      {{it.visitor_score}}
+    </div>
+    <div class="col2">
+      <div>{{it.visitor.scorer}}</div>
+      <div class="gray">{{it.visitor.assist}}</div>
+    </div>
+  </hbox>
+</template>
+
+<template name="game_detail_yellow">
+  <hbox class="qj game-overview-item" style="">
+    <div class="col1 ">{{it.etime}}</div>
+    <div class="vbox col2 qr">
+      <div>{{it.home}}</div>
+    </div>
+    <img src="http://webapp.scooru.com/static/yellow-card.svg" alt="" style="width:1rem;">
+    <div class="col2">
+      <div>{{it.visitor}}</div>
+    </div>
+  </hbox>
+</template>
+
+<template name="game_detail_half_time">
+  <hbox class="qj game-overview-item HT" style="background-color:#F5F5F5;">
+    <div nowrap class="col1 " style="white-space:nowrap;">{{it.etime}} &mdash; Half time</div>
+    <div class="vbox col2 qr ">
+    </div>
+    <div class="">{{it.home_score}}&ensp;
+      <img style="width:0.9rem;" src="http://webapp.scooru.com/static/access-time.svg">
+      &ensp;{{it.visitor_score}}
+    </div>
+    <div class="col2 "></div>
+  </hbox>
+</template>

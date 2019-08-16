@@ -1,0 +1,114 @@
+---
+player_id: 0064
+sname: bossjira
+full_name: Jirasak Srichure
+short_name: Jirasak S.
+loc: Bangkok
+dob: 1986-08-15
+likes: 948
+sports: football baseball
+
+categories:
+  - cat: Association
+    pos: Centre midfield
+
+stats:
+  goals: 135
+  assists: 156
+  saves: 64
+  games: 260
+  hours: 729
+
+teams:
+  - sname: pxfc
+    pos: Wide midfield
+
+games:
+  - date: 06/15/2006 09:53 PM
+    loc: London
+    home: pxfc
+    visitor: mzbq
+  - date: 06/19/2009 04:18 AM
+    loc: London
+    home: pxfc
+    visitor: vnce
+  - date: 04/05/2015 06:00 AM
+    loc: London
+    home: pxfc
+    visitor: hwth
+  - date: 07/05/2003 07:11 PM
+    loc: London
+    visitor: pxfc
+    home: hwth
+
+followers:
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+
+following:
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+
+profpic:
+  - url: /player-prof-061.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-003.jpg
+  - url: /random-002.jpg
+  - url: /random-006.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg

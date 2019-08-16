@@ -1,0 +1,88 @@
+<head>
+  <style>
+    .game-players-lineup {
+      font-weight:400;
+      font-size:1rem;
+      color:#414141; -letter-spacing:0.4px;
+      margin:0;
+    }
+
+    .game-players-lineup h2 {
+      box-sizing: border-box;
+      font-size: 1rem;
+      line-height: 1.4rem;
+      font-weight:400;
+      color:#414141;
+      margin:0; padding:0;
+      -height:1.25rem;
+    }
+
+    .game-players-lineup h3 {
+      box-sizing: content-box;
+      font-size:1rem;
+      font-weight:400;
+      color:#9B9B9B;
+      margin:0; padding:0;
+      height:0;
+      text-align:right;
+      padding-right:1rem;
+      line-height: 0rem;
+    }
+
+    .game-players-lineup h4 {
+      box-sizing: border-box;
+      margin:0; padding:0;
+      font-size:1rem;
+      font-weight:400;
+      line-height:1.5rem
+      color:#9B9B9B;
+      border-bottom: 0.1rem solid rgba(65,65,65,0.12);
+      -height:1.75rem;
+      padding-bottom:0.2rem;
+      padding-left: 1rem;
+      margin-bottom:0.5rem;
+      letter-spacing: 0rem;
+    }
+
+  .game-players-lineup img {
+    width:0.85rem
+  }
+
+  </style>
+</head>
+
+<template name="game_players_lineup">
+<vbox class="game-players-lineup">
+  <h1>Line-up</h1>
+  <hbox>
+    <vbox style="flex-grow:1;">
+      <!-- game-players-lineup left-col Home -->
+
+      {{#each player in _game.home.players}}
+      <a href="/player/{{player.sname}}">
+      <h2>{{player.full_name}}</h2>
+      {{#if player.out}}
+      <h3><img src="http://webapp.scooru.com/static/out-arrow-down.svg" alt=""> {{player.out}}'</h3>
+      {{/if}}
+      <h4>{{player.position}}</h4>
+      </a>
+      {{/each}}
+    </vbox>
+
+    <vbox style="flex-grow:1;">
+      <!-- game-players-lineup right-col Visitor -->
+
+      {{#each player in _game.visitors.players}}
+      <a href="/player/{{player.sname}}">
+      <h2>{{player.full_name}}</h2>
+      {{#if player.out}}
+      <h3><img src="http://webapp.scooru.com/static/out-arrow-down.svg" alt=""> {{player.out}}'</h3>
+      {{/if}}
+      <h4>{{player.position}}</h4>
+      </a>
+      {{/each}}
+    </vbox>
+  </hbox>
+
+</vbox>
+</template>

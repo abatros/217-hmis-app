@@ -1,0 +1,106 @@
+---
+player_id: 0055
+sname: fjohanss
+full_name: Fia Johannesson
+short_name: Fia JHS
+loc: Stockholm
+dob: 1980-07-07
+likes: 389
+sports: football field-hockey
+
+categories:
+  - cat: Paralympic
+    pos: Winger
+
+stats:
+  goals: 58
+  assists: 45
+  saves: 62
+  games: 260
+  hours: 940
+
+teams:
+  - sname: lhfc
+    pos: Second striker
+
+games:
+  - date: 10/27/2012 03:11 AM
+    loc: Quanzhou
+    home: lhfc
+    visitor: tahiti
+  - date: 08/26/2011 05:46 AM
+    loc: Córdoba
+    home: lhfc
+    visitor: mauiplts
+  - date: 08/31/2011 02:43 AM
+    loc: Mexico City
+    visitor: lhfc
+    home: vnce
+  - date: 09/12/2005 08:47 PM
+    loc: Oran
+    home: lhfc
+    visitor: kngshlm
+  - date: 08/09/2013 05:06 AM
+    loc: Havana
+    home: lhfc
+    visitor: osaka
+  - date: 02/14/2015 02:40 AM
+    loc: Bengaluru
+    home: lhfc
+    visitor: sttle
+  - date: 01/21/2007 06:11 AM
+    loc: Quezon City
+    home: lhfc
+    visitor: tahiti
+
+followers:
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+
+following:
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+
+profpic:
+  - url: /player-prof-052.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-008.jpg
+  - url: /random-006.jpg
+  - url: /random-002.jpg

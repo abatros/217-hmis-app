@@ -1,0 +1,112 @@
+---
+player_id: 0022
+sname: robertam
+full_name: Roberta Medeiros Menezes
+short_name: Roberta Med.
+loc: Sao Paulo
+dob: 1989-05-31
+likes: 643
+sports: football golf
+
+categories:
+  - cat: Indoor
+    pos: Wing-back
+
+stats:
+  goals: 106
+  assists: 154
+  saves: 100
+  games: 268
+  hours: 1235
+
+teams:
+  - sname: palm
+    pos: Second striker
+
+games:
+  - date: 04/21/2005 08:51 PM
+    loc: Tabriz
+    visitor: palm
+    home: osaka
+  - date: 10/27/2016 04:43 AM
+    loc: Bengaluru
+    visitor: palm
+    home: hwth
+  - date: 11/17/2011 12:56 AM
+    loc: Mandalay
+    home: palm
+    visitor: ptlndfc
+  - date: 08/02/2011 12:11 PM
+    loc: Busan
+    visitor: palm
+    home: lngislnd
+  - date: 07/07/2016 03:23 PM
+    loc: Kawasaki
+    home: palm
+    visitor: sttle
+  - date: 12/05/2015 02:43 PM
+    loc: Córdoba
+    visitor: palm
+    home: mauiplts
+
+followers:
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: False
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: samana
+    full_name: Saman Arabnia
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+
+following:
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+
+profpic:
+  - url: /player-prof-015.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-010.jpg
+  - url: /random-008.jpg
+  - url: /random-003.jpg
+  - url: /random-007.jpg

@@ -1,0 +1,52 @@
+<head>
+  <style>
+    .game-players {
+      padding:0 0rem 1rem 1.1rem;
+      margin-bottom:5rem;
+    }
+    .game-players h1 {
+      display:flex;
+      padding:2.0rem;
+
+      font-size:2rem;
+      font-weight:500;
+      color:rgb(80,80,80)
+    }
+  </style>
+</head>
+
+<template name="game_players">
+
+<vbox class="game-players">
+  {{> game_players_lineup}}
+  {{> game_players_substitutions}}
+
+<h1>Coaches</h1>
+<hbox class="qj"
+style="
+padding-right:1rem;
+padding-bottom:1rem;
+border-bottom: 0.1rem solid rgba(65,65,65,0.12);
+">
+  <hbox>
+  {{#each it in _game.home.coaches}}
+    <span>{{it.name}}</span>
+  {{/each}}
+  </hbox>
+
+  <hbox>
+  {{#each it in _game.visitors.coaches}}
+    <span>{{it.name}}</span>
+  {{/each}}
+  </hbox>
+</hbox>
+
+
+<h1>Referees</h1>
+<hbox class="qc">
+  {{#each it in _game.referrees}}
+    <span>{{it.name}}</span>
+  {{/each}}
+</hbox>
+</vbox>
+</template>

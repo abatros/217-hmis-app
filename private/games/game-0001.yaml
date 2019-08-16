@@ -1,0 +1,179 @@
+---
+game_id: 0001
+date: 04/17/2009 03:35 AM
+loc: Bengaluru
+live: False
+referrees:
+  - name: Ebba Vong (Swedish)
+home:
+  sname: awfc
+  team_name: AWFC
+  coaches:
+    - name: Saladin Toma
+
+  players:
+    - sname: musad
+      full_name: Musaddiq al-Pirani
+      position: Goalkeeper
+      out: 80'
+    - sname: HeFaroo
+      full_name: Husni el-Farooqui
+      position: Centre-back
+    - sname: hasan
+      full_name: Hasan el-Matin
+      position: Sweeper
+    - sname: Naseeb
+      full_name: Naseeba al-Yousuf
+      position: Full-back
+    - sname: Safwa
+      full_name: Safwaan el-Koroma
+      position: Wing-back
+    - sname: mahdaviB
+      full_name: Behzad Mahdavi
+      position: Centre midfield
+      out: 81'
+    - sname: arzhang
+      full_name: Arzhang Moshiri
+      position: Defensive midfield
+    - sname: MrTaheri
+      full_name: Taghi Taheri
+      position: Attacking midfield
+      out: 60'
+    - sname: dibadiba
+      full_name: Abbas Diba
+      position: Wide midfield
+      out: 74'
+    - sname: siamak
+      full_name: Siamak Yaghmaei
+      position: Centre forward
+      out: 80'
+    - sname: samana
+      full_name: Saman Arabnia
+      position: Second striker
+  substitutions:
+    - etime: 80
+      out: Musaddiq al-Pirani
+      in: Pierre-Yves Longe
+    - etime: 81
+      out: Behzad Mahdavi
+      in: Farhat Yilmaz
+    - etime: 60
+      out: Taghi Taheri
+      in: Inacio Lacerda
+    - etime: 74
+      out: Abbas Diba
+      in: Cherise Bey
+    - etime: 80
+      out: Siamak Yaghmaei
+      in: Ubon Buasuwan
+  stats:
+    on_target: 3
+    off_target: 4
+    possession: 58
+    corners: 7
+    offsides: 2
+    foul: 3
+    yellow: 2
+
+
+visitors:
+  sname: palm
+  team_name: PALM
+  coaches:
+    - name: Alondra Caixeta
+
+  players:
+    - sname: tuuliioo
+      full_name: Túlio Amorim Morais
+      position: Goalkeeper
+    - sname: marcionf
+      full_name: Márcio Nascimento Furtado
+      position: Centre-back
+    - sname: iabellu
+      full_name: Iago Martins Belluci
+      position: Sweeper
+      out: 57'
+    - sname: sidneife
+      full_name: Sidnei Amaral Ferraz
+      position: Full-back
+    - sname: josehey
+      full_name: José Hamada Barros
+      position: Wing-back
+    - sname: francieg
+      full_name: Francine Gonçalves Caetano
+      position: Centre midfield
+    - sname: ddeduardo
+      full_name: Eduardo Damasceno Delgado
+      position: Defensive midfield
+      out: 69'
+    - sname: bernarcool
+      full_name: Bernardo Maia Álvarez
+      position: Attacking midfield
+    - sname: leandac
+      full_name: Leandro Antunes Couto
+      position: Wide midfield
+    - sname: vfds
+      full_name: Vinicius Ferraz de Souza
+      position: Centre forward
+    - sname: robertam
+      full_name: Roberta Medeiros Menezes
+      position: Second striker
+      out: 85'
+  substitutions:
+    - etime: 57
+      out: Iago Martins Belluci
+      in: Paithoon Suthikul
+    - etime: 69
+      out: Eduardo Damasceno Delgado
+      in: Pierre-Yves Longe
+    - etime: 85
+      out: Roberta Medeiros Menezes
+      in: Inacio Lacerda
+  stats:
+    on_target: 2
+    off_target: 2
+    possession: 59
+    corners: 3
+    offsides: 6
+    foul: 14
+    yellow: 1
+
+minutes:
+  - type: yellow
+    etime: 5
+    visitor: Francine Gonçalves Caetano
+  - type: yellow
+    etime: 12
+    visitor: Francine Gonçalves Caetano
+  - type: goal
+    etime: 16
+    visitor: Francine Gonçalves Caetano
+    assist: Vinicius Ferraz de Souza
+    score: 0:1
+  - type: goal
+    etime: 20
+    home: Arzhang Moshiri
+    assist: Safwaan el-Koroma
+    score: 1:1
+  - type: yellow
+    etime: 24
+    visitor: Bernardo Maia Álvarez
+  - type: yellow
+    etime: 27
+    visitor: Túlio Amorim Morais
+  - type: goal
+    etime: 38
+    visitor: Francine Gonçalves Caetano
+    assist: José Hamada Barros
+    score: 1:2
+  - type: goal
+    etime: 42
+    home: Naseeba al-Yousuf
+    assist: Siamak Yaghmaei
+    score: 2:2
+  - type: half_time
+    etime: 45
+    score: 2:2
+  - type: yellow
+    etime: 62
+    visitor: Leandro Antunes Couto

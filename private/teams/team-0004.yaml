@@ -1,0 +1,128 @@
+---
+team-id: 0004
+full_name: Football Club US Fleury-Mérogis 91
+short_name: FC Fleury 91
+sname: fm91
+loc: Fleury-Mérogis
+df: 1936-03-05
+likes: 883
+category: Association
+admins:
+  - name: lexrox
+  - name: georgess
+  - name: memman
+
+about: >
+  FC Fleury 91 is a French amateur association football club based in Fleury-Mérogis competing in the Championnat National 2.
+
+stats:
+  games: 389
+  possessions: 45%
+  goals: 571
+  saves: 564
+  win: 142:58%
+  loss: 139:53%
+
+players:
+  - sname: lexrox
+    full_name: Alexis G.
+    position: Goalkeeper
+  - sname: georgess
+    full_name: George S.
+    position: Centre-back
+  - sname: memman
+    full_name: Marcel E.
+    position: Sweeper
+  - sname: pierrelv
+    full_name: PV Verninac
+    position: Full-back
+  - sname: aymchill
+    full_name: Aymeric C.
+    position: Wing-back
+  - sname: ralarie
+    full_name: Raoul A.
+    position: Centre midfield
+  - sname: mettepast
+    full_name: Guillemette
+    position: Defensive midfield
+  - sname: baptistea
+    full_name: Baptiste A.
+    position: Attacking midfield
+  - sname: danjacq
+    full_name: Dany J.
+    position: Wide midfield
+  - sname: jeanpp
+    full_name: JP Paquin
+    position: Centre forward
+  - sname: angelmoi
+    full_name: Angel Ard
+    position: Second striker
+
+
+profpic:
+  - url: /fleury.png
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg
+
+
+games:
+  - date: 04/26/2000 09:04 PM
+    loc: Beijing
+    visitor: kngshlm
+  - date: 04/15/2003 10:50 PM
+    loc: Beijing
+    visitor: hwth
+  - date: 09/26/2003 06:38 AM
+    loc: Tabriz
+    visitor: tahiti
+  - date: 03/17/2011 05:57 PM
+    loc: Cairo
+    visitor: tahiti
+  - date: 02/15/2014 04:53 AM
+    loc: Oran
+    visitor: mzbq
+  - date: 12/26/2013 01:52 PM
+    loc: Buenos Aires
+    visitor: ptlndfc
+  - date: 04/16/2006 06:20 AM
+    loc: Bengaluru
+    visitor: kngshlm
+  - date: 08/20/2004 09:04 PM
+    loc: Cairo
+    visitor: vnce
+
+
+followers:
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: False
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False

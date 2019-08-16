@@ -1,0 +1,99 @@
+---
+player_id: 0015
+sname: sidneife
+full_name: Sidnei Amaral Ferraz
+short_name: Sidnei Ama.
+loc: Sao Paulo
+dob: 1983-06-15
+likes: 891
+sports: football cricket
+
+categories:
+  - cat: Association
+    pos: Goalkeeper
+
+stats:
+  goals: 51
+  assists: 151
+  saves: 52
+  games: 255
+  hours: 874
+
+teams:
+  - sname: palm
+    pos: Full-back
+
+games:
+  - date: 09/23/2005 05:19 PM
+    loc: São Paulo
+    home: palm
+    visitor: tahiti
+  - date: 02/25/2012 02:32 AM
+    loc: Mexico City
+    visitor: palm
+    home: hwth
+  - date: 11/07/2010 11:01 PM
+    loc: Quezon City
+    home: palm
+    visitor: hwth
+  - date: 10/29/2016 07:53 PM
+    loc: Tabriz
+    visitor: palm
+    home: hwth
+
+followers:
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+
+following:
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+
+profpic:
+  - url: /player-prof-016.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-006.jpg
+  - url: /random-001.jpg

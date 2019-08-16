@@ -1,0 +1,115 @@
+---
+player_id: 0041
+sname: baptistea
+full_name: Baptiste Alard
+short_name: Baptiste A.
+loc: Paris
+dob: 1985-01-05
+likes: 653
+sports: football
+
+categories:
+  - cat: Indoor
+    pos: Centre forward
+
+stats:
+  goals: 81
+  assists: 66
+  saves: 84
+  games: 215
+  hours: 861
+
+teams:
+  - sname: fm91
+    pos: Attacking midfield
+
+games:
+  - date: 02/26/2001 02:19 AM
+    loc: Busan
+    visitor: fm91
+    home: mauiplts
+  - date: 09/19/2006 06:26 AM
+    loc: São Paulo
+    home: fm91
+    visitor: mauiplts
+  - date: 12/26/2012 12:21 AM
+    loc: Bengaluru
+    home: fm91
+    visitor: kngshlm
+  - date: 02/03/2001 08:54 PM
+    loc: Tabriz
+    home: fm91
+    visitor: hwth
+  - date: 03/14/2002 06:46 AM
+    loc: Madrid
+    visitor: fm91
+    home: hwth
+
+followers:
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+
+following:
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+
+profpic:
+  - url: /player-prof-043.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-005.jpg
+  - url: /random-008.jpg

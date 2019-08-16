@@ -1,0 +1,21 @@
+
+<template name="player_follow">
+<vbox class="qc player-follow" style="height:7.2rem;">
+  <hbox class="qj" style="align-items:center;">
+    <a href="/player/{{player.sname}}"><img
+    src="http://webapp.scooru.com/static/pics{{player_pic}}"
+    class="friends-pic"></a>
+    <vbox class="" style="flex-grow:1; padding-left:1rem;">
+      <hbox class="ql h2 r16">{{player.full_name}}</hbox>
+      <hbox class="ql h2 r14">ID: {{player.sname}}</hbox>
+    </vbox>
+    <hbox class="r11" style="padding-right:1rem;">
+    {{#if player.following}}
+      <div class="ama js-unfollow" player_id={{player_id}} style="cursor:pointer;">- UNFOLLOW</div>
+    {{else}}
+      <div class="js-follow" player_id={{player_id}} style="cursor:pointer;">+ FOLLOW</div>
+    {{/if}}
+    </hbox>
+  </hbox>
+</vbox>
+</template>

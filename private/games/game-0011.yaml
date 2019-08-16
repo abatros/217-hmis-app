@@ -1,0 +1,162 @@
+---
+game_id: 0011
+date: 10/09/2002 02:02 PM
+loc: Madrid
+live: False
+referrees:
+  - name: Pierre-Yves Longe (French)
+home:
+  sname: enft
+  team_name: ENFT
+  coaches:
+    - name: Merille Haroyu
+
+  players:
+    - sname: alemu1
+      full_name: Alemu Bekele Yitay
+      position: Goalkeeper
+    - sname: gulemaym
+      full_name: Gulema Yihun Mihret
+      position: Centre-back
+    - sname: zewdster
+      full_name: Zewdnesh Tesfa Galawdeyos
+      position: Sweeper
+    - sname: afewer
+      full_name: Afewerek Eyoel Abimelech
+      position: Full-back
+    - sname: brekime
+      full_name: Brehan Kidane Meles
+      position: Wing-back
+    - sname: mirabe
+      full_name: Mirabe Nahum Selassie
+      position: Centre midfield
+    - sname: imgirma
+      full_name: Girma Natnael Kaleb
+      position: Defensive midfield
+    - sname: wolitna
+      full_name: Wolitigna Adugna Mesay
+      position: Attacking midfield
+    - sname: asamenzg
+      full_name: Asamenew Zewedu Gorfu
+      position: Wide midfield
+      out: 59'
+    - sname: chirkobi
+      full_name: Chirkos Abimelech Eleazar
+      position: Centre forward
+    - sname: jeneve
+      full_name: Jeneve Dessalegne Tessema
+      position: Second striker
+  substitutions:
+    - etime: 59
+      out: Asamenew Zewedu Gorfu
+      in: Anne Walbruch
+  stats:
+    on_target: 5
+    off_target: 5
+    possession: 60
+    corners: 5
+    offsides: 4
+    foul: 14
+    yellow: 2
+
+
+visitors:
+  sname: lhfc
+  team_name: LHFC
+  coaches:
+    - name: Lilly Jernberg
+
+  players:
+    - sname: hildrd
+      full_name: Hildr Dalin
+      position: Goalkeeper
+    - sname: tronblom
+      full_name: Tron Blomquist
+      position: Centre-back
+      out: 71'
+    - sname: ragnarlin
+      full_name: Ragnar Lindgren
+      position: Sweeper
+    - sname: joelle
+      full_name: Joel Lennartsson
+      position: Full-back
+      out: 69'
+    - sname: nicholas
+      full_name: Nicholas Lundholm
+      position: Wing-back
+      out: 53'
+    - sname: tomburg
+      full_name: Thomas Borg
+      position: Centre midfield
+    - sname: stefilot
+      full_name: Stefan Lötvall
+      position: Defensive midfield
+    - sname: ojonss
+      full_name: Ögge Jönsson
+      position: Attacking midfield
+    - sname: joelljs
+      full_name: Joel Liljeström
+      position: Wide midfield
+    - sname: pipifri
+      full_name: Pia Frisk
+      position: Centre forward
+    - sname: fjohanss
+      full_name: Fia Johannesson
+      position: Second striker
+  substitutions:
+    - etime: 71
+      out: Tron Blomquist
+      in: Cherise Bey
+    - etime: 69
+      out: Joel Lennartsson
+      in: Cherise Bey
+    - etime: 53
+      out: Nicholas Lundholm
+      in: Inacio Lacerda
+  stats:
+    on_target: 1
+    off_target: 4
+    possession: 40
+    corners: 5
+    offsides: 2
+    foul: 8
+    yellow: 1
+
+minutes:
+  - type: goal
+    etime: 23
+    visitor: Joel Lennartsson
+    assist: Thomas Borg
+    score: 0:1
+  - type: goal
+    etime: 24
+    home: Mirabe Nahum Selassie
+    assist: Alemu Bekele Yitay
+    score: 1:1
+  - type: yellow
+    etime: 26
+    visitor: Ögge Jönsson
+  - type: goal
+    etime: 38
+    home: Alemu Bekele Yitay
+    assist: Mirabe Nahum Selassie
+    score: 2:1
+  - type: half_time
+    etime: 45
+    score: 2:1
+  - type: yellow
+    etime: 59
+    home: Girma Natnael Kaleb
+  - type: goal
+    etime: 64
+    visitor: Tron Blomquist
+    assist: Nicholas Lundholm
+    score: 2:2
+  - type: yellow
+    etime: 70
+    home: Mirabe Nahum Selassie
+  - type: goal
+    etime: 71
+    visitor: Ragnar Lindgren
+    assist: Fia Johannesson
+    score: 2:3

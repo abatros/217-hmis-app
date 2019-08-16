@@ -1,0 +1,109 @@
+---
+player_id: 0045
+sname: hildrd
+full_name: Hildr Dalin
+short_name: Hildr D.
+loc: Stockholm
+dob: 1988-02-06
+likes: 768
+sports: football volleyball table-tennis badminton field-hockey
+
+categories:
+  - cat: Beach
+    pos: Second striker
+
+stats:
+  goals: 114
+  assists: 189
+  saves: 105
+  games: 267
+  hours: 1148
+
+teams:
+  - sname: lhfc
+    pos: Goalkeeper
+
+games:
+  - date: 05/30/2011 07:20 AM
+    loc: Córdoba
+    visitor: lhfc
+    home: mauiplts
+  - date: 05/29/2005 07:31 AM
+    loc: Oran
+    visitor: lhfc
+    home: vnce
+  - date: 05/16/2003 06:29 PM
+    loc: Fuzhou
+    home: lhfc
+    visitor: tahiti
+  - date: 04/07/2003 03:49 PM
+    loc: Quanzhou
+    home: lhfc
+    visitor: lngislnd
+  - date: 03/09/2010 02:51 PM
+    loc: Beijing
+    home: lhfc
+    visitor: ptlndfc
+
+followers:
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: False
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+
+following:
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+
+profpic:
+  - url: /player-prof-053.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg

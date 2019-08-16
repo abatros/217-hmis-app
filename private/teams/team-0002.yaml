@@ -1,0 +1,139 @@
+---
+team-id: 0002
+full_name: Sociedade Esportiva Palmeiras
+short_name: Palmeiras
+sname: palm
+loc: Sao Paulo
+df: 1942-09-14
+likes: 702
+category: Association
+admins:
+  - name: josehey
+  - name: francieg
+  - name: ddeduardo
+
+about: >
+  We’re a football club based in São Paulo, Brazil. The club was founded as Palestra Italia, but changed to the current name on September 14, 1942.
+
+stats:
+  games: 341
+  possessions: 46%
+  goals: 578
+  saves: 324
+  win: 185:57%
+  loss: 154:43%
+
+players:
+  - sname: tuuliioo
+    full_name: Tulio A.M.
+    position: Goalkeeper
+  - sname: marcionf
+    full_name: Marcio Nasc
+    position: Centre-back
+  - sname: iabellu
+    full_name: Iago M.B.
+    position: Sweeper
+  - sname: sidneife
+    full_name: Sidnei Ama.
+    position: Full-back
+  - sname: josehey
+    full_name: Jose H.B.
+    position: Wing-back
+  - sname: francieg
+    full_name: Francine C.
+    position: Centre midfield
+  - sname: ddeduardo
+    full_name: Eduardo D.
+    position: Defensive midfield
+  - sname: bernarcool
+    full_name: Bernardo M.
+    position: Attacking midfield
+  - sname: leandac
+    full_name: Leandro
+    position: Wide midfield
+  - sname: vfds
+    full_name: Vinicius FdS
+    position: Centre forward
+  - sname: robertam
+    full_name: Roberta Med.
+    position: Second striker
+
+
+profpic:
+  - url: /Palmeiras.png
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-008.jpg
+  - url: /random-002.jpg
+  - url: /random-006.jpg
+  - url: /random-003.jpg
+
+
+games:
+  - date: 12/19/2009 02:54 PM
+    loc: Beijing
+    visitor: vnce
+  - date: 09/03/2013 04:36 AM
+    loc: London
+    visitor: lngislnd
+  - date: 05/30/2005 08:08 PM
+    loc: Quanzhou
+    visitor: hwth
+  - date: 12/28/2015 05:20 PM
+    loc: Quanzhou
+    visitor: mzbq
+  - date: 02/01/2014 05:31 PM
+    loc: Busan
+    visitor: mauiplts
+  - date: 08/09/2000 05:05 AM
+    loc: Havana
+    visitor: mauiplts
+  - date: 11/27/2003 12:47 PM
+    loc: São Paulo
+    visitor: kngshlm
+  - date: 09/30/2013 10:50 AM
+    loc: Buenos Aires
+    visitor: osaka
+  - date: 02/07/2002 02:34 AM
+    loc: London
+    visitor: lngislnd
+
+
+followers:
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False

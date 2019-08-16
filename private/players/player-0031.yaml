@@ -1,0 +1,125 @@
+---
+player_id: 0031
+sname: asamenzg
+full_name: Asamenew Zewedu Gorfu
+short_name: Asamen Z.G.
+loc: Addis Ababa
+dob: 1979-02-05
+likes: 113
+sports: football tennis
+
+categories:
+  - cat: Association
+    pos: Sweeper
+
+stats:
+  goals: 59
+  assists: 97
+  saves: 114
+  games: 165
+  hours: 1637
+
+teams:
+  - sname: enft
+    pos: Wide midfield
+
+games:
+  - date: 12/28/2008 03:14 AM
+    loc: Buenos Aires
+    home: enft
+    visitor: mauiplts
+  - date: 12/07/2012 08:39 PM
+    loc: Mandalay
+    visitor: enft
+    home: ptlndfc
+  - date: 07/12/2015 09:23 PM
+    loc: Kawasaki
+    home: enft
+    visitor: kngshlm
+  - date: 10/13/2006 01:23 PM
+    loc: Havana
+    home: enft
+    visitor: osaka
+  - date: 05/14/2003 06:16 PM
+    loc: Mandalay
+    home: enft
+    visitor: lngislnd
+
+followers:
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+
+following:
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+
+profpic:
+  - url: /player-prof-027.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg
+  - url: /random-010.jpg

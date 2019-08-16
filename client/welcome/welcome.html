@@ -1,0 +1,200 @@
+<head>
+  <title>SCOORU</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <!--
+    With this code, the width of the viewport won't be the the actual number of pixels,
+    but instead something compareable to a pixel density of 96dpi:
+    This results with a CSS width of 320 pixels on most smartphones even
+    though their actual resolutions are higher.
+  -->
+  <style>
+  </style>
+</head>
+
+<head>
+  <style>
+  .nav_bottom a {
+    display:inline-block;
+    width:300px;
+    text-align:center;
+  }
+  .nav_bottom span.mit {
+  }
+
+  .landing-btn1 {
+    font-size: 0.9rem; font-weight:700;
+    line-height: 1.6rem;
+    width:7rem;
+    color: white;
+    background-color: #A62C07;
+    padding:0.1rem;
+    margin:0.1rem 0.3rem;
+	border-radius: 0.4rem;
+	--background-color: #FAFAFA;
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12), 0 1px 3px 0 rgba(0,0,0,0.2);
+  }
+  .landing-btn2 {
+    font-size: 0.9rem; font-weight:700;
+    line-height: 1.6rem;
+    width:7rem;
+    color: #A62C07;
+    background-color: white;
+    padding:0.1rem;
+    margin:0.1rem 0.3rem;
+	-height: 1.29%;
+	-width: 9.56%;
+	border-radius: 0.4rem;
+	background-color: #FAFAFA;
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12), 0 1px 3px 0 rgba(0,0,0,0.2);
+  }
+  .landing-block {
+    width:90vw; height:90vw;
+    --background-color:blue;
+    --border: 1px solid white;
+    margin:3px;
+  }
+  .landing-bt {
+    width:90vw; height:40vw;
+    padding-top: 20vw;
+    margin:3px;
+  }
+  .m16 {
+    font-size: 1.6rem; font-weight:400;
+  }
+  .landing-bt hbox.h2 {
+    font-size: 1.6rem; font-weight:400;
+    line-height:2.2rem;
+    padding: 0 1rem;
+  }
+  .landing-bt hbox.h1 {
+    font-size: 2rem; font-weight:700; line-height:4rem;
+  }
+
+  @media screen and (min-width: 361px) {
+    .swap-watch {
+      order:2;
+    }
+    .landing-block, .landing-bt {
+      width:40vw; height:40vw;
+      --border: 1px solid white;
+      padding: 0px;
+      margin:3px;
+    }
+  }
+
+
+
+  </style>
+</head>
+
+
+<template name='welcome'>
+<div id="landing-page" class="p-900 bkg-ama" style="font-family:Montserrat; _width:100%;">
+  <vbox class="">
+    <img style="width:100%; height:auto;"
+    src="{{static_images}}/LandingPage/AnimatedBannerTop.gif"
+    alt="">
+    <hbox class="qc" style="z-index:150; color:red; font-size:30px; margin-top:-31.77%; align-items: flex-start;">
+      <img style="width: 55.38%; --height: auto;	--height: 11.77%;"
+      src="{{static_images}}/LandingPage/ScooruLogoTop.png"
+      alt="">
+    </hbox>
+    <hbox class="qc" style="z-index:150;">
+      <a href="/organizations">
+        <hbox class="landing-btn1 qc button js-experience">EXPERIENCE</hbox>
+      </a>
+      <a href="/form">
+        <hbox class="landing-btn2 qc button js-experience">JOIN</hbox>
+      </a>
+    </hbox>
+  </vbox>
+
+  <hbox class="qc"
+    style="color: #FFFFFF;	font-family: Montserrat; font-weight:700;	font-size: 2rem;	letter-spacing: 0.2px;	line-height: 3.7rem; margin-top:3rem;">
+    LAHASAP
+  </hbox>
+  <hbox class="qc" style="font-size:1.6rem; padding:0 5rem 5rem 5rem; line-height:2.3rem;">
+    A mobile App for quick access to essential data and monitoring cases on the road. Prevention and services.
+  </hbox>
+
+  <div style="display:flex; flex-direction:row; --margin:0 3rem;flex-wrap: wrap;justify-content: center;">
+
+    <vbox class="landing-bt qc" style="order:0">
+      <hbox class="qc h1">PROGRAMS</hbox>
+      <hbox class="qc h2">Day Shelter, Street Outreach, Transitional Housing, Homeless Prevention, Safe Heaven.</hbox>
+    </vbox>
+
+    <div class="landing-block" style="order:0">
+      <img style="width:100%;"
+      src="{{static_images}}/LandingPage/Play.gif"
+      alt="">
+    </div>
+
+    <vbox class="landing-bt qc swap-watch" style="-order:1">
+      <hbox class="qc h1">PPI</hbox>
+      <hbox class="qc h2">Protected Personal Information with strong encryption. Restricted access using roles and permissions.</hbox>
+    </vbox>
+
+    <div class="landing-block" style="order:1">
+      <img style="width:100%;"
+      src="{{static_images}}/LandingPage/Watch.gif"
+      alt="">
+    </div>
+
+    <vbox class="landing-bt qc" style="order:2">
+      <hbox class="qc h1">Open Architecture</hbox>
+      <hbox class="qc h2">Connect mobile and desktop clients to openACS database. Published API. Data on the wire using DDP protocol.</hbox>
+    </vbox>
+
+    <div class="landing-block" style="order:2">
+      <img style="width:100%;"
+      src="{{static_images}}/LandingPage/Organized.gif"
+      alt="">
+    </div>
+
+  </div>
+
+  <hbox class="qc"
+    style="color: #FFFFFF; font-weight:700;	font-size: 2rem;	letter-spacing: 0.2px;	line-height: 3.7rem; margin-top:4rem;">
+    <span style="font-weight:400;"></span>
+  </hbox>
+
+  <hbox class="qc m16" style="padding:3rem 0;">
+    <vbox class="qj" style="align-items:center;">
+      <img style="width:25%;"
+      src="{{static_images}}/LandingPage/IconLocation.png"
+      alt="">
+      <hbox style="padding:1rem;">Anywhere</hbox>
+    </vbox>
+
+    <vbox class="qj" style="align-items:center;">
+      <img style="width:40%;"
+      src="{{static_images}}/LandingPage/IconTime.png"
+      alt="">
+      <hbox style="padding:1rem;">Anytime</hbox>
+    </vbox>
+  </hbox>
+
+
+  <vbox class="">
+    <img style="width:100%;"
+    src="{{static_images}}/LandingPage/AnimatedBannerBottom.gif"
+    alt="">
+    <hbox class="qc" style="z-index:150; color:red; font-size:30px; margin-top:-28.77%;  align-items: flex-start;">
+      <img style="width: 55.38%; --height: 11.77%;	--height:auto;"
+      src="{{static_images}}/LandingPage/ScooruLogoBottom.png"
+      alt="">
+    </hbox>
+    <hbox class="qc" style="z-index:150;margin-top:1rem;">
+      <a href="/organizations">
+        <hbox class="landing-btn1 qc button js-experience">EXPERIENCE</hbox>
+      </a>
+      <a href="/form">
+        <hbox class="landing-btn2 qc button js-experience">JOIN</hbox>
+      </a>
+    </hbox>
+  </vbox>
+
+
+</div>
+</template>

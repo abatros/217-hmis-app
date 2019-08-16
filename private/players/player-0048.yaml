@@ -1,0 +1,120 @@
+---
+player_id: 0048
+sname: joelle
+full_name: Joel Lennartsson
+short_name: Joel L.
+loc: Stockholm
+dob: 1988-12-13
+likes: 252
+sports: football golf volleyball field-hockey
+
+categories:
+  - cat: Association
+    pos: Wing-back
+
+stats:
+  goals: 77
+  assists: 87
+  saves: 45
+  games: 254
+  hours: 707
+
+teams:
+  - sname: lhfc
+    pos: Full-back
+
+games:
+  - date: 01/16/2003 02:25 AM
+    loc: Busan
+    visitor: lhfc
+    home: mauiplts
+  - date: 11/27/2017 04:12 AM
+    loc: Cairo
+    home: lhfc
+    visitor: mauiplts
+  - date: 01/19/2005 03:08 AM
+    loc: Mexico City
+    home: lhfc
+    visitor: vnce
+  - date: 01/09/2009 07:19 PM
+    loc: Mexico City
+    visitor: lhfc
+    home: tahiti
+  - date: 12/07/2017 09:05 PM
+    loc: Fuzhou
+    home: lhfc
+    visitor: mauiplts
+  - date: 10/04/2005 12:50 AM
+    loc: Quezon City
+    home: lhfc
+    visitor: tahiti
+
+followers:
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+
+following:
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+
+profpic:
+  - url: /player-prof-046.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-009.jpg
+  - url: /random-002.jpg
+  - url: /random-008.jpg

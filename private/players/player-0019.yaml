@@ -1,0 +1,110 @@
+---
+player_id: 0019
+sname: bernarcool
+full_name: Bernardo Maia Álvarez
+short_name: Bernardo M.
+loc: Sao Paulo
+dob: 1986-10-13
+likes: 379
+sports: football
+
+categories:
+  - cat: Street
+    pos: Centre forward
+
+stats:
+  goals: 111
+  assists: 123
+  saves: 134
+  games: 200
+  hours: 1994
+
+teams:
+  - sname: palm
+    pos: Attacking midfield
+
+games:
+  - date: 07/29/2013 06:00 AM
+    loc: Córdoba
+    home: palm
+    visitor: vnce
+  - date: 12/27/2005 07:00 AM
+    loc: Havana
+    visitor: palm
+    home: tahiti
+  - date: 03/09/2003 01:09 AM
+    loc: Córdoba
+    visitor: palm
+    home: lngislnd
+  - date: 07/31/2004 12:13 PM
+    loc: Quanzhou
+    visitor: palm
+    home: lngislnd
+  - date: 10/22/2000 06:18 PM
+    loc: Buenos Aires
+    home: palm
+    visitor: mauiplts
+  - date: 08/03/2003 05:12 PM
+    loc: Mexico City
+    home: palm
+    visitor: hwth
+  - date: 04/14/2016 12:06 PM
+    loc: Havana
+    home: palm
+    visitor: hwth
+
+followers:
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+
+following:
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+
+profpic:
+  - url: /player-prof-019.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-010.jpg
+  - url: /random-003.jpg
+  - url: /random-001.jpg
+  - url: /random-009.jpg

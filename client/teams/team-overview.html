@@ -1,0 +1,151 @@
+<head>
+  <style>
+    .overview .ama {
+      color:#A62C07;
+      font-size: 16px;
+       font-weight:500;
+    }
+    .overview .row {
+      display:flex; justify-content:space-between;
+      padding: 17px 0;
+    }
+
+    .overview .caption {
+      display:flex; justify-content:space-between;
+      padding: 2.2rem 0 0.2rem 0;
+    }
+
+    .overview .data {
+      display:flex; justify-content:space-between;
+      padding: 0rem 0 0.0rem 0;
+    }
+
+    .overview h4 {
+      flex: 1 0 0rem;
+    }
+
+    .overview .data div {
+      flex: 1 0 0rem;
+    }
+
+    .overview .title {
+      display:flex; justify-content:flex-start;
+      padding: 17px 0 5px 0;
+      color:rgba(0,0,0,0.38);
+      font-size:12px; font-weight:500;
+      -background-color:lightyellow;
+    }
+    .overview .col2 {
+      width:50%;
+    }
+    .overview .h2 {
+      font-size:1.2rem;
+      color: #414141;
+      -line-height: 20px;
+      -line-height: 1.3rem;
+      line-height: 2rem;
+      letter-spacing:0.15px;
+    }
+  </style>
+</head>
+
+<template name="team_overview">
+<vbox class="overview r16"
+  style="
+    padding:0 0rem 60px 1.1rem;
+    margin:0;
+  ">
+    <div class="caption r12m">
+      <div>FULL TEAM NAME</div>
+    </div>
+    <div class="data r16">
+      <div>{{_team.full_name}}</div>
+    </div>
+
+
+    <div class="caption r12m">
+      <div>LOCATION</div>
+      <div class="col2">AGE / FOUNDED</div>
+    </div>
+
+    <hbox class="data r16">
+      <div>{{_team.loc}}</div>
+      <div class="col2">{{_team.age}} {{_team.dob}}</div>
+    </hbox>
+
+    <div class="caption r12m">
+      <div>CATEGORY</div>
+    </div>
+    <hbox class="data r16">
+      <div>{{_team.cat}}</div>
+    </hbox>
+
+    <hbox class="caption r12m">
+      <div>ADMIN</div>
+    </hbox>
+
+    <div class="hbox">
+    {{#each it in _team.contacts}}
+      <a href="#" style="padding: 0px 4px;">[ {{it}} ]</a>
+    {{/each}}
+    </div>
+
+    <div class="caption r12m">
+      <div>ABOUT</div>
+    </div>
+    <hbox class="data r16">
+      <div>{{_team.about}}</div>
+    </hbox>
+
+
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div class="ama">TEAMS</div>
+    </div>
+
+    {{#each player in _team.players}}
+    <vbox class="qc"
+    style="
+    height:7.2rem; -justify-content:center;
+    padding-right:1rem;
+    ">
+      <hbox class="-stats-game" >
+        <a href="/player/{{player.sname}}"><img
+        src="http://webapp.scooru.com/static/pics/{{player.main_pic}}"
+        style="width:4rem; height:4rem;"></a>
+        <vbox class="" style="flex-grow:10; margin:0 10px;">
+          <div class="ql r16">{{player.full_name}}</div>
+          <div class="ql r14">{{player.sname}}</div>
+        </vbox>
+        <hbox class="ql r14">{{player.position}}</hbox>
+      </hbox>
+    </vbox>
+    {{/each}}
+
+    <div class="row"
+      style="border-bottom:1px solid #414141;"
+      >
+      <div class="ama">
+
+        PHOTOS
+
+      </div>
+    </div>
+
+    <div style="display:flex; flex-wrap:wrap;
+      justify-content:space-around;
+      margin-top:10px;
+      box-shadow: 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12), 0 1px 0px -1px rgba(0,0,0,0.20); border-radius:4px;"
+      >
+      {{#each pic in _team.pics}}
+      <img style="width:8.625rem; height:8.625rem; margin-bottom:1rem;"
+      src="http://webapp.scooru.com/static/pics/{{pic.url}}">
+      {{/each}}
+
+    </div>
+
+
+</vbox>
+</template>

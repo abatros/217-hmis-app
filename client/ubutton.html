@@ -1,0 +1,26 @@
+<head>
+  <style>
+    .ubutton {
+      color: #414141;
+    }
+    .ubutton.active {
+      border-bottom: 2px solid #A62C07;
+      color: #A62C07;
+    }
+  </style>
+</head>
+
+
+<template name="ubutton">
+  <div
+  class="ubutton js-{{group}}"
+  style="width:10rem;
+  cursor:pointer;
+  text-align:center;
+  -font-size:1.1rem;
+  -font-weight:500;
+  -letter-spacing:0.05rem;
+  -padding:0.5rem 0;"
+  tab="{{tab}}"
+  >{{value}}</div>
+</template>

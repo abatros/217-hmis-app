@@ -1,0 +1,164 @@
+---
+game_id: 0012
+date: 12/31/2001 08:53 PM
+loc: Bengaluru
+live: False
+referrees:
+  - name: Ubon Buasuwan (Thai)
+home:
+  sname: enft
+  team_name: ENFT
+  coaches:
+    - name: Abeba Liban
+
+  players:
+    - sname: alemu1
+      full_name: Alemu Bekele Yitay
+      position: Goalkeeper
+    - sname: gulemaym
+      full_name: Gulema Yihun Mihret
+      position: Centre-back
+    - sname: zewdster
+      full_name: Zewdnesh Tesfa Galawdeyos
+      position: Sweeper
+    - sname: afewer
+      full_name: Afewerek Eyoel Abimelech
+      position: Full-back
+      out: 85'
+    - sname: brekime
+      full_name: Brehan Kidane Meles
+      position: Wing-back
+    - sname: mirabe
+      full_name: Mirabe Nahum Selassie
+      position: Centre midfield
+      out: 69'
+    - sname: imgirma
+      full_name: Girma Natnael Kaleb
+      position: Defensive midfield
+    - sname: wolitna
+      full_name: Wolitigna Adugna Mesay
+      position: Attacking midfield
+    - sname: asamenzg
+      full_name: Asamenew Zewedu Gorfu
+      position: Wide midfield
+      out: 58'
+    - sname: chirkobi
+      full_name: Chirkos Abimelech Eleazar
+      position: Centre forward
+    - sname: jeneve
+      full_name: Jeneve Dessalegne Tessema
+      position: Second striker
+      out: 61'
+  substitutions:
+    - etime: 85
+      out: Afewerek Eyoel Abimelech
+      in: Gul Bardakci
+    - etime: 69
+      out: Mirabe Nahum Selassie
+      in: Inacio Lacerda
+    - etime: 58
+      out: Asamenew Zewedu Gorfu
+      in: Arvid Odegard
+    - etime: 61
+      out: Jeneve Dessalegne Tessema
+      in: Ubon Buasuwan
+  stats:
+    on_target: 0
+    off_target: 4
+    possession: 46
+    corners: 7
+    offsides: 7
+    foul: 5
+    yellow: 6
+
+
+visitors:
+  sname: pxfc
+  team_name: PXFC
+  coaches:
+    - name: Boonsri (Aom) Thipol
+
+  players:
+    - sname: surinw
+      full_name: Surin (Aek) Wattanasin
+      position: Goalkeeper
+      out: 76'
+    - sname: ahongha
+      full_name: Akkanee Honghannarong
+      position: Centre-back
+    - sname: arthits
+      full_name: Arthit (New) Sansurin
+      position: Sweeper
+    - sname: hanuman
+      full_name: Hanuman Klinpraneet
+      position: Full-back
+    - sname: ruangri
+      full_name: Ruangrit Srisati
+      position: Wing-back
+    - sname: duchan
+      full_name: Duchanee Srisati
+      position: Centre midfield
+    - sname: banthornn
+      full_name: Banthorn Noppachorn
+      position: Defensive midfield
+    - sname: nopjira
+      full_name: Nopjira (Ploy) Gaysorn
+      position: Attacking midfield
+    - sname: bossjira
+      full_name: Jirasak Srichure
+      position: Wide midfield
+      out: 69'
+    - sname: piyachar
+      full_name: Piyapat Charanachitta
+      position: Centre forward
+    - sname: maliwanc
+      full_name: Maliwan Chaiprasit
+      position: Second striker
+      out: 54'
+  substitutions:
+    - etime: 76
+      out: Surin (Aek) Wattanasin
+      in: Pierre-Yves Longe
+    - etime: 69
+      out: Jirasak Srichure
+      in: Inacio Lacerda
+    - etime: 54
+      out: Maliwan Chaiprasit
+      in: Ebba Vong
+  stats:
+    on_target: 1
+    off_target: 2
+    possession: 55
+    corners: 6
+    offsides: 5
+    foul: 10
+    yellow: 7
+
+minutes:
+  - type: goal
+    etime: 1
+    home: Jeneve Dessalegne Tessema
+    assist: Mirabe Nahum Selassie
+    score: 1:0
+  - type: yellow
+    etime: 4
+    visitor: Surin (Aek) Wattanasin
+  - type: half_time
+    etime: 45
+    score: 1:0
+  - type: yellow
+    etime: 59
+    visitor: Nopjira (Ploy) Gaysorn
+  - type: goal
+    etime: 65
+    home: Mirabe Nahum Selassie
+    assist: Jeneve Dessalegne Tessema
+    score: 2:0
+  - type: yellow
+    etime: 80
+    visitor: Nopjira (Ploy) Gaysorn
+  - type: goal
+    etime: 85
+    visitor: Duchanee Srisati
+    assist: Piyapat Charanachitta
+    score: 2:1

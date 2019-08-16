@@ -1,0 +1,106 @@
+---
+player_id: 0026
+sname: afewer
+full_name: Afewerek Eyoel Abimelech
+short_name: Afewerek E.A.
+loc: Addis Ababa
+dob: 1976-01-11
+likes: 318
+sports: football badminton
+
+categories:
+  - cat: Beach
+    pos: Wide midfield
+
+stats:
+  goals: 74
+  assists: 170
+  saves: 97
+  games: 236
+  hours: 1313
+
+teams:
+  - sname: enft
+    pos: Full-back
+
+games:
+  - date: 02/27/2009 02:31 AM
+    loc: Fuzhou
+    home: enft
+    visitor: kngshlm
+  - date: 12/05/2013 02:01 PM
+    loc: Quanzhou
+    home: enft
+    visitor: kngshlm
+  - date: 02/27/2011 04:50 PM
+    loc: Quezon City
+    visitor: enft
+    home: kngshlm
+  - date: 06/13/2006 03:32 AM
+    loc: Kawasaki
+    visitor: enft
+    home: vnce
+  - date: 05/13/2011 02:07 PM
+    loc: Oran
+    visitor: enft
+    home: tahiti
+
+followers:
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: False
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+
+following:
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+
+profpic:
+  - url: /player-prof-026.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-007.jpg
+  - url: /random-006.jpg
+  - url: /random-010.jpg
+  - url: /random-003.jpg
+  - url: /random-005.jpg

@@ -1,0 +1,115 @@
+---
+player_id: 0010
+sname: siamak
+full_name: Siamak Yaghmaei
+short_name: Siamak Y.
+loc: Dubai
+dob: 1979-12-29
+likes: 378
+sports: football tennis
+
+categories:
+  - cat: Association
+    pos: Goalkeeper
+
+stats:
+  goals: 83
+  assists: 128
+  saves: 119
+  games: 113
+  hours: 1238
+
+teams:
+  - sname: awfc
+    pos: Centre forward
+
+games:
+  - date: 05/21/2002 05:09 PM
+    loc: Fuzhou
+    visitor: awfc
+    home: mzbq
+  - date: 12/05/2006 10:42 PM
+    loc: Isfahan
+    visitor: awfc
+    home: ptlndfc
+  - date: 09/12/2013 06:44 AM
+    loc: Fuzhou
+    home: awfc
+    visitor: osaka
+  - date: 11/18/2004 12:42 AM
+    loc: Quezon City
+    visitor: awfc
+    home: kngshlm
+
+followers:
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+
+following:
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+
+profpic:
+  - url: /player-prof-005.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-009.jpg
+  - url: /random-003.jpg
+  - url: /random-005.jpg

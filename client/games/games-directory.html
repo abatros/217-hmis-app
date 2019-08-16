@@ -1,0 +1,77 @@
+<head>
+  <style>
+  #games-directory .big-letter {
+    justify-content:center; height:5rem; width:20%; background-color:#DDDDDD; font-size:3rem;
+  }
+  #games-directory .big-letter.win {
+    border: 4px solid #A62C07;
+  }
+  #games-directory .big-letter {
+    border: 4px solid #DDDDDD;
+  }
+  </style>
+</head>
+
+<template name="games-directory">
+<vbox id="games-directory"
+ style="margin-top:8rem; margin-bottom:8rem;"
+ >
+  <vbox class="fixed-top">
+    {{> scooru_banner}}
+    <hbox class="qc r16b"
+    style="
+      line-height:3rem;
+      background-color:rgba(230,230,230,0.95);
+    ">Featured Games
+    </hbox>
+  </vbox>
+
+  <vbox>
+    {{#each game in games}}
+    {{> game1 game=game}}
+    {{/each}}
+  </vbox>
+
+</vbox>
+</template>
+
+<template name="game1">
+  <hbox class="game1" style="align-items:center; padding:0 4.7rem;">
+    {{!--
+    <vbox class="big-letter qc {{game.home.win}}">B</vbox>
+    --}}
+    <img style="width:5rem;"
+    src="http://webapp.scooru.com/static/pics/{{game.home_pic}}"
+    alt="">
+    <div class="r16b">&ensp;{{game.home.stats.on_target}} </div>
+    <div style="flex-grow:1;text-align:center;">{{game.etime}}</div>
+    <div class="r16b">{{game.visitors.stats.on_target}}&ensp;</div>
+    <img style="width:5rem;"
+    src="http://webapp.scooru.com/static/pics/{{game.visitor_pic}}"
+    alt="">
+    {{!--
+    <vbox class="big-letter qc {{game.visitor.win}}">C</vbox>
+    --}}
+  </hbox>
+  <hbox class="qj" style="padding:0.2rem 0 0 0;">
+    <div class="r14b" style="width:50%; text-align:center;">{{game.home.label}}</div>
+    <div class="r14b" style="width:50%; text-align:center;">{{game.visitor.label}}</div>
+  </hbox>
+  <hbox class="qc border-bottom"
+    style="padding:0.2rem 0 0.6rem 0;  margin-bottom:1.1rem;
+    --border-bottom:1px solid #DDDDDD;
+    margin-top:-2rem;
+    ">
+    <a href="/game/{{game.game_id}}" class="r14b">
+      <hbox class="qc">{{game.loc}}</hbox>
+      <hbox class="qc">{{game.date}}</hbox>
+    </a>
+  </hbox>
+</template>
+
+<template name="Big_letter">
+  <div
+  style="">
+    {{letter}}
+  </div>
+</template>

@@ -1,0 +1,137 @@
+---
+team-id: 0001
+full_name: Al-Wasl Football Club
+short_name: Al-Wasl F.C.
+sname: awfc
+loc: Dubai
+df: 1880-06-30
+likes: 2332
+category: Association
+admins:
+  - name: MrTaheri
+  - name: dibadiba
+  - name: siamak
+
+about: >
+  Al Wasl Football Club is a Football League club based in Dubai. Diego Maradona was the manager of the club in 2011 to 2012.
+
+stats:
+  games: 227
+  possessions: 69%
+  goals: 445
+  saves: 598
+  win: 106:53%
+  loss: 287:44%
+
+players:
+  - sname: musad
+    full_name: Musaddiq A.P.
+    position: Goalkeeper
+  - sname: HeFaroo
+    full_name: H. el-Farooqui
+    position: Centre-back
+  - sname: hasan
+    full_name: Hasan el-M.
+    position: Sweeper
+  - sname: Naseeb
+    full_name: N. el-Yousuf
+    position: Full-back
+  - sname: Safwa
+    full_name: Safwaan A.Y.
+    position: Wing-back
+  - sname: mahdaviB
+    full_name: Behzad M
+    position: Centre midfield
+  - sname: arzhang
+    full_name: Arzhang M.
+    position: Defensive midfield
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    position: Attacking midfield
+  - sname: dibadiba
+    full_name: Abbas D.
+    position: Wide midfield
+  - sname: siamak
+    full_name: Siamak Y.
+    position: Centre forward
+  - sname: samana
+    full_name: Saman A.
+    position: Second striker
+
+
+profpic:
+  - url: /AlWasl.png
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+
+
+games:
+  - date: 12/19/2013 09:36 PM
+    loc: Tabriz
+    visitor: vnce
+  - date: 08/15/2014 03:22 PM
+    loc: Madrid
+    visitor: tahiti
+  - date: 10/27/2010 12:01 AM
+    loc: Bengaluru
+    visitor: hwth
+  - date: 03/02/2006 07:57 AM
+    loc: Mexico City
+    visitor: hwth
+  - date: 02/27/2017 01:10 AM
+    loc: Madrid
+    visitor: hwth
+  - date: 02/14/2013 03:25 AM
+    loc: Tabriz
+    visitor: hwth
+  - date: 08/17/2008 07:05 PM
+    loc: Tabriz
+    visitor: hwth
+
+
+followers:
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: False
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True

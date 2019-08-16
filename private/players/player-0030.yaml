@@ -1,0 +1,123 @@
+---
+player_id: 0030
+sname: wolitna
+full_name: Wolitigna Adugna Mesay
+short_name: Wolitigna M.
+loc: Addis Ababa
+dob: 1978-10-22
+likes: 842
+sports: football baseball basketball table-tennis
+
+categories:
+  - cat: Street
+    pos: Winger
+
+stats:
+  goals: 45
+  assists: 154
+  saves: 51
+  games: 216
+  hours: 800
+
+teams:
+  - sname: enft
+    pos: Attacking midfield
+
+games:
+  - date: 12/07/2002 06:12 AM
+    loc: Madrid
+    visitor: enft
+    home: kngshlm
+  - date: 07/28/2016 04:19 PM
+    loc: Kawasaki
+    home: enft
+    visitor: hwth
+  - date: 08/23/2012 06:20 AM
+    loc: London
+    visitor: enft
+    home: tahiti
+  - date: 09/30/2009 07:00 AM
+    loc: Kawasaki
+    home: enft
+    visitor: sttle
+  - date: 01/02/2014 09:19 AM
+    loc: Bengaluru
+    visitor: enft
+    home: hwth
+  - date: 03/05/2009 08:45 AM
+    loc: Oran
+    home: enft
+    visitor: lngislnd
+  - date: 04/16/2014 02:34 AM
+    loc: Tabriz
+    visitor: enft
+    home: mauiplts
+
+followers:
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+
+following:
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+
+profpic:
+  - url: /player-prof-033.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg
+  - url: /random-006.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg

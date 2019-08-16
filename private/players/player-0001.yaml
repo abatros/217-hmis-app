@@ -1,0 +1,114 @@
+---
+player_id: 0001
+sname: musad
+full_name: Musaddiq al-Pirani
+short_name: Musaddiq A.P.
+loc: Dubai
+dob: 1975-08-09
+likes: 534
+sports: football basketball cricket
+
+categories:
+  - cat: Indoor
+    pos: Forward
+
+stats:
+  goals: 88
+  assists: 114
+  saves: 82
+  games: 180
+  hours: 1577
+
+teams:
+  - sname: awfc
+    pos: Goalkeeper
+
+games:
+  - date: 02/23/2003 10:06 PM
+    loc: Havana
+    visitor: awfc
+    home: ptlndfc
+  - date: 11/16/2014 03:21 PM
+    loc: Mexico City
+    visitor: awfc
+    home: hwth
+  - date: 08/27/2014 09:15 PM
+    loc: Isfahan
+    home: awfc
+    visitor: mauiplts
+  - date: 12/24/2012 08:54 PM
+    loc: Busan
+    home: awfc
+    visitor: hwth
+  - date: 03/12/2010 08:16 PM
+    loc: Havana
+    home: awfc
+    visitor: lngislnd
+  - date: 03/30/2004 05:17 AM
+    loc: São Paulo
+    visitor: awfc
+    home: tahiti
+  - date: 01/11/2008 05:08 PM
+    loc: Córdoba
+    home: awfc
+    visitor: ptlndfc
+
+followers:
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+
+following:
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+
+profpic:
+  - url: /player-prof-011.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-008.jpg
+  - url: /random-005.jpg

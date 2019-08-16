@@ -1,0 +1,103 @@
+---
+player_id: 0008
+sname: MrTaheri
+full_name: Taghi Taheri
+short_name: Taghi Taheri
+loc: Dubai
+dob: 1978-12-19
+likes: 270
+sports: football baseball
+
+categories:
+  - cat: Beach
+    pos: Forward
+
+stats:
+  goals: 129
+  assists: 189
+  saves: 132
+  games: 139
+  hours: 1346
+
+teams:
+  - sname: awfc
+    pos: Attacking midfield
+
+games:
+  - date: 08/29/2016 05:30 AM
+    loc: Isfahan
+    home: awfc
+    visitor: sttle
+  - date: 02/10/2014 05:26 PM
+    loc: Cairo
+    home: awfc
+    visitor: lngislnd
+  - date: 10/12/2014 02:00 AM
+    loc: Tabriz
+    home: awfc
+    visitor: mzbq
+  - date: 07/31/2012 02:46 PM
+    loc: Beijing
+    visitor: awfc
+    home: sttle
+  - date: 03/25/2002 01:59 PM
+    loc: Buenos Aires
+    home: awfc
+    visitor: tahiti
+
+followers:
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+
+following:
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+
+profpic:
+  - url: /player-prof-010.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-006.jpg
+  - url: /random-010.jpg

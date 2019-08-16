@@ -1,0 +1,99 @@
+---
+player_id: 0062
+sname: banthornn
+full_name: Banthorn Noppachorn
+short_name: Banthorn N.
+loc: Bangkok
+dob: 1986-06-04
+likes: 526
+sports: football cricket basketball table-tennis
+
+categories:
+  - cat: Indoor
+    pos: Full-back
+
+stats:
+  goals: 133
+  assists: 136
+  saves: 92
+  games: 221
+  hours: 1253
+
+teams:
+  - sname: pxfc
+    pos: Defensive midfield
+
+games:
+  - date: 10/12/2001 08:06 PM
+    loc: Oran
+    visitor: pxfc
+    home: ptlndfc
+  - date: 03/21/2015 05:04 AM
+    loc: Bengaluru
+    home: pxfc
+    visitor: tahiti
+  - date: 05/18/2014 05:21 AM
+    loc: Bengaluru
+    visitor: pxfc
+    home: tahiti
+  - date: 03/05/2003 09:24 PM
+    loc: Fuzhou
+    visitor: pxfc
+    home: ptlndfc
+
+followers:
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: False
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False
+
+following:
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+
+profpic:
+  - url: /player-prof-065.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-004.jpg
+  - url: /random-008.jpg

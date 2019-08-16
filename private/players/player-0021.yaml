@@ -1,0 +1,116 @@
+---
+player_id: 0021
+sname: vfds
+full_name: Vinicius Ferraz de Souza
+short_name: Vinicius FdS
+loc: Sao Paulo
+dob: 1987-12-10
+likes: 411
+sports: football field-hockey golf badminton
+
+categories:
+  - cat: Association
+    pos: Centre forward
+
+stats:
+  goals: 73
+  assists: 97
+  saves: 77
+  games: 158
+  hours: 761
+
+teams:
+  - sname: palm
+    pos: Centre forward
+
+games:
+  - date: 02/11/2008 06:13 AM
+    loc: Busan
+    home: palm
+    visitor: tahiti
+  - date: 08/05/2014 12:59 AM
+    loc: Beijing
+    home: palm
+    visitor: mauiplts
+  - date: 01/19/2008 05:37 PM
+    loc: Córdoba
+    home: palm
+    visitor: ptlndfc
+  - date: 04/03/2012 10:44 AM
+    loc: Madrid
+    visitor: palm
+    home: ptlndfc
+  - date: 09/20/2011 04:27 PM
+    loc: Madrid
+    visitor: palm
+    home: lngislnd
+  - date: 12/17/2001 04:52 PM
+    loc: Kawasaki
+    home: palm
+    visitor: lngislnd
+
+followers:
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: False
+
+following:
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+
+profpic:
+  - url: /player-prof-021.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-001.jpg
+  - url: /random-005.jpg

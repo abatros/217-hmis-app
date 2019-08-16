@@ -1,0 +1,118 @@
+---
+player_id: 0051
+sname: stefilot
+full_name: Stefan Lötvall
+short_name: Stefani L.
+loc: Stockholm
+dob: 1975-10-21
+likes: 526
+sports: football field-hockey baseball badminton
+
+categories:
+  - cat: Association
+    pos: Wing-back
+
+stats:
+  goals: 145
+  assists: 159
+  saves: 116
+  games: 266
+  hours: 1672
+
+teams:
+  - sname: lhfc
+    pos: Defensive midfield
+
+games:
+  - date: 10/22/2005 07:39 AM
+    loc: Madrid
+    home: lhfc
+    visitor: mauiplts
+  - date: 01/04/2013 04:58 PM
+    loc: Mandalay
+    home: lhfc
+    visitor: osaka
+  - date: 05/10/2013 07:37 AM
+    loc: Mexico City
+    visitor: lhfc
+    home: vnce
+  - date: 02/16/2004 12:52 PM
+    loc: Beijing
+    visitor: lhfc
+    home: osaka
+  - date: 01/25/2017 12:51 PM
+    loc: Cairo
+    home: lhfc
+    visitor: hwth
+  - date: 11/19/2001 01:17 PM
+    loc: Isfahan
+    home: lhfc
+    visitor: kngshlm
+
+followers:
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: False
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+
+following:
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+
+profpic:
+  - url: /player-prof-054.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-010.jpg
+  - url: /random-005.jpg
+  - url: /random-004.jpg
+  - url: /random-001.jpg

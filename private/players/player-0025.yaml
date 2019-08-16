@@ -1,0 +1,119 @@
+---
+player_id: 0025
+sname: zewdster
+full_name: Zewdnesh Tesfa Galawdeyos
+short_name: Zewdnesh T.G.
+loc: Addis Ababa
+dob: 1990-07-22
+likes: 35
+sports: football basketball golf tennis badminton
+
+categories:
+  - cat: Beach
+    pos: Winger
+
+stats:
+  goals: 73
+  assists: 195
+  saves: 146
+  games: 182
+  hours: 1158
+
+teams:
+  - sname: enft
+    pos: Sweeper
+
+games:
+  - date: 06/17/2010 03:38 PM
+    loc: São Paulo
+    visitor: enft
+    home: tahiti
+  - date: 12/22/2003 02:54 AM
+    loc: Cairo
+    home: enft
+    visitor: sttle
+  - date: 08/26/2009 08:29 AM
+    loc: Córdoba
+    home: enft
+    visitor: mzbq
+  - date: 04/19/2008 04:02 AM
+    loc: London
+    visitor: enft
+    home: vnce
+  - date: 04/17/2004 01:56 PM
+    loc: Quanzhou
+    home: enft
+    visitor: mzbq
+
+followers:
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+
+following:
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+
+profpic:
+  - url: /player-prof-023.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg
+  - url: /random-003.jpg

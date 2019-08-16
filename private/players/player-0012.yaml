@@ -1,0 +1,107 @@
+---
+player_id: 0012
+sname: tuuliioo
+full_name: Túlio Amorim Morais
+short_name: Tulio A.M.
+loc: Sao Paulo
+dob: 1981-01-08
+likes: 531
+sports: football cricket tennis
+
+categories:
+  - cat: Futsal
+    pos: Second striker
+
+stats:
+  goals: 144
+  assists: 102
+  saves: 130
+  games: 200
+  hours: 996
+
+teams:
+  - sname: palm
+    pos: Goalkeeper
+
+games:
+  - date: 10/04/2006 01:08 AM
+    loc: Cairo
+    home: palm
+    visitor: tahiti
+  - date: 08/02/2016 01:48 PM
+    loc: Mandalay
+    visitor: palm
+    home: kngshlm
+  - date: 10/19/2004 11:56 AM
+    loc: Kawasaki
+    visitor: palm
+    home: osaka
+  - date: 04/24/2010 02:36 AM
+    loc: Tabriz
+    visitor: palm
+    home: sttle
+  - date: 06/07/2011 10:30 AM
+    loc: Beijing
+    home: palm
+    visitor: mauiplts
+
+followers:
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: False
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+
+following:
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+
+profpic:
+  - url: /player-prof-013.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-005.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg

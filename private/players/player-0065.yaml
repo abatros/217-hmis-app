@@ -1,0 +1,97 @@
+---
+player_id: 0065
+sname: piyachar
+full_name: Piyapat Charanachitta
+short_name: Piyapat C.
+loc: Bangkok
+dob: 1986-10-08
+likes: 817
+sports: football badminton tennis golf
+
+categories:
+  - cat: Association
+    pos: Centre midfield
+
+stats:
+  goals: 118
+  assists: 95
+  saves: 84
+  games: 170
+  hours: 999
+
+teams:
+  - sname: pxfc
+    pos: Centre forward
+
+games:
+  - date: 12/19/2015 05:09 AM
+    loc: Kawasaki
+    visitor: pxfc
+    home: tahiti
+  - date: 12/09/2017 03:00 PM
+    loc: São Paulo
+    home: pxfc
+    visitor: mzbq
+  - date: 10/01/2010 05:09 AM
+    loc: London
+    home: pxfc
+    visitor: mzbq
+  - date: 10/06/2015 07:43 AM
+    loc: London
+    home: pxfc
+    visitor: hwth
+
+followers:
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: False
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+
+following:
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+
+profpic:
+  - url: /player-prof-056.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-006.jpg
+  - url: /random-002.jpg
+  - url: /random-003.jpg

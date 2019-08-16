@@ -1,0 +1,121 @@
+---
+player_id: 0061
+sname: duchan
+full_name: Duchanee Srisati
+short_name: Duchanee S.
+loc: Bangkok
+dob: 1985-12-23
+likes: 987
+sports: football tennis cricket basketball badminton
+
+categories:
+  - cat: Indoor
+    pos: Defensive midfield
+
+stats:
+  goals: 57
+  assists: 122
+  saves: 136
+  games: 155
+  hours: 1612
+
+teams:
+  - sname: pxfc
+    pos: Centre midfield
+
+games:
+  - date: 10/25/2017 06:15 PM
+    loc: Quanzhou
+    visitor: pxfc
+    home: mzbq
+  - date: 01/27/2006 06:12 PM
+    loc: Mexico City
+    visitor: pxfc
+    home: vnce
+  - date: 05/30/2005 09:53 PM
+    loc: Madrid
+    home: pxfc
+    visitor: mauiplts
+  - date: 03/21/2000 03:37 PM
+    loc: Mandalay
+    visitor: pxfc
+    home: vnce
+  - date: 10/21/2014 05:48 PM
+    loc: Quezon City
+    home: pxfc
+    visitor: mzbq
+  - date: 02/02/2014 12:59 PM
+    loc: Oran
+    visitor: pxfc
+    home: ptlndfc
+  - date: 09/04/2004 05:28 PM
+    loc: São Paulo
+    visitor: pxfc
+    home: kngshlm
+
+followers:
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+
+following:
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+
+profpic:
+  - url: /player-prof-063.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-007.jpg
+  - url: /random-001.jpg
+  - url: /random-008.jpg

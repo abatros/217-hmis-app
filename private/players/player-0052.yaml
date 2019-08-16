@@ -1,0 +1,129 @@
+---
+player_id: 0052
+sname: ojonss
+full_name: Ögge Jönsson
+short_name: Ogge J.
+loc: Stockholm
+dob: 1976-09-14
+likes: 674
+sports: football volleyball field-hockey cricket table-tennis
+
+categories:
+  - cat: Futsal
+    pos: Defender
+
+stats:
+  goals: 96
+  assists: 88
+  saves: 74
+  games: 101
+  hours: 1839
+
+teams:
+  - sname: lhfc
+    pos: Attacking midfield
+
+games:
+  - date: 03/20/2001 12:23 AM
+    loc: Kawasaki
+    home: lhfc
+    visitor: sttle
+  - date: 01/03/2002 12:46 PM
+    loc: Busan
+    visitor: lhfc
+    home: hwth
+  - date: 08/21/2008 08:04 AM
+    loc: Havana
+    home: lhfc
+    visitor: vnce
+  - date: 10/01/2002 08:35 AM
+    loc: Quanzhou
+    home: lhfc
+    visitor: hwth
+  - date: 08/12/2013 06:50 AM
+    loc: Quanzhou
+    home: lhfc
+    visitor: sttle
+  - date: 12/31/2007 01:02 PM
+    loc: Isfahan
+    visitor: lhfc
+    home: hwth
+  - date: 01/10/2004 10:45 AM
+    loc: Quanzhou
+    visitor: lhfc
+    home: ptlndfc
+
+followers:
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+
+following:
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+
+profpic:
+  - url: /player-prof-050.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg

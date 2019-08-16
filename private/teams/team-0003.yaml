@@ -1,0 +1,135 @@
+---
+team-id: 0003
+full_name: Ethiopia National Football Team
+short_name: Ethiopian FT
+sname: enft
+loc: Addis Ababa
+df: 1903-11-23
+likes: 4309
+category: Association
+admins:
+  - name: mirabe
+  - name: imgirma
+  - name: wolitna
+
+about: >
+  The Ethiopia national football team—nicknamed "Walias," after the Walia ibex, represents Ethiopia and is presided over by the Ethiopian Football Federation.
+
+stats:
+  games: 322
+  possessions: 41%
+  goals: 684
+  saves: 442
+  win: 182:49%
+  loss: 169:59%
+
+players:
+  - sname: alemu1
+    full_name: Alemu Y.
+    position: Goalkeeper
+  - sname: gulemaym
+    full_name: Gulema Y.M.
+    position: Centre-back
+  - sname: zewdster
+    full_name: Zewdnesh T.G.
+    position: Sweeper
+  - sname: afewer
+    full_name: Afewerek E.A.
+    position: Full-back
+  - sname: brekime
+    full_name: Brehan M.
+    position: Wing-back
+  - sname: mirabe
+    full_name: Mira N.S.
+    position: Centre midfield
+  - sname: imgirma
+    full_name: Girma K.
+    position: Defensive midfield
+  - sname: wolitna
+    full_name: Wolitigna M.
+    position: Attacking midfield
+  - sname: asamenzg
+    full_name: Asamen Z.G.
+    position: Wide midfield
+  - sname: chirkobi
+    full_name: Chirkos E.
+    position: Centre forward
+  - sname: jeneve
+    full_name: Jeneve T.
+    position: Second striker
+
+
+profpic:
+  - url: /Ethiopian.png
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-005.jpg
+  - url: /random-004.jpg
+  - url: /random-008.jpg
+
+
+games:
+  - date: 11/17/2000 01:59 AM
+    loc: Busan
+    visitor: tahiti
+  - date: 04/09/2014 03:22 AM
+    loc: Havana
+    visitor: tahiti
+  - date: 07/26/2015 07:45 AM
+    loc: Mexico City
+    visitor: mzbq
+  - date: 10/24/2004 12:28 AM
+    loc: Isfahan
+    visitor: vnce
+  - date: 05/23/2001 09:31 AM
+    loc: Quezon City
+    visitor: osaka
+  - date: 06/15/2009 09:44 AM
+    loc: Tabriz
+    visitor: tahiti
+  - date: 02/18/2011 03:40 PM
+    loc: Córdoba
+    visitor: vnce
+  - date: 01/02/2004 03:43 PM
+    loc: Kawasaki
+    visitor: sttle
+
+
+followers:
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True

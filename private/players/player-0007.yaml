@@ -1,0 +1,114 @@
+---
+player_id: 0007
+sname: arzhang
+full_name: Arzhang Moshiri
+short_name: Arzhang M.
+loc: Dubai
+dob: 1978-06-28
+likes: 811
+sports: football basketball volleyball
+
+categories:
+  - cat: Futsal
+    pos: Centre forward
+
+stats:
+  goals: 53
+  assists: 46
+  saves: 62
+  games: 166
+  hours: 934
+
+teams:
+  - sname: awfc
+    pos: Defensive midfield
+
+games:
+  - date: 05/29/2013 09:01 AM
+    loc: Cairo
+    home: awfc
+    visitor: kngshlm
+  - date: 11/09/2011 04:39 PM
+    loc: Córdoba
+    home: awfc
+    visitor: mauiplts
+  - date: 03/07/2016 09:34 PM
+    loc: Isfahan
+    home: awfc
+    visitor: osaka
+  - date: 11/09/2007 05:47 AM
+    loc: Buenos Aires
+    home: awfc
+    visitor: hwth
+  - date: 08/03/2001 10:55 AM
+    loc: Bengaluru
+    visitor: awfc
+    home: kngshlm
+  - date: 08/16/2015 09:50 PM
+    loc: Tabriz
+    visitor: awfc
+    home: tahiti
+  - date: 08/19/2015 12:48 PM
+    loc: Buenos Aires
+    visitor: awfc
+    home: ptlndfc
+
+followers:
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+
+following:
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+
+profpic:
+  - url: /player-prof-003.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-009.jpg
+  - url: /random-010.jpg

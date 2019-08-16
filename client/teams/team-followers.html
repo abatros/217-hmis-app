@@ -1,0 +1,30 @@
+<head>
+  <style>
+  </style>
+</head>
+
+<template name="team_followers">
+<vbox class="vbox"
+  style="
+    font-size:1.05rem;
+    color:#414141; letter-spacing:0.4px;
+    padding:0 0rem 5rem 1.1rem;
+    margin:0;
+  ">
+
+    <div class="vbox qc"  style="height:3rem;">
+      <div class="hbox to-hsize">
+        <div class="friends-select js-followers -lightgreen qc -frame-it" style="flex-grow:1; line-height:3rem; cursor:pointer;">
+          FOLLOWERS - 150K
+        </div>
+      </div>
+    </div>
+
+
+  {{#each player in _team.followers}}
+  {{> player_follow player=player}}
+  {{/each}}
+
+
+</vbox>
+</template>

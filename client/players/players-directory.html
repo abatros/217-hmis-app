@@ -1,0 +1,51 @@
+<head>
+  <style>
+  #players-directory h2 {
+
+    font-weight:400;
+    font-size:1.6rem;
+    color: #414141;
+    letter-spacing:0.015rem;
+    line-height:2.4rem;
+  }
+  </style>
+</head>
+
+<template name="players-directory">
+<vbox id="players-directory"
+style="
+margin-top: 16rem;
+margin-top: 8rem;
+margin-bottom:8rem;
+border-bottom: 1px dashed green;
+">
+  <vbox class="fixed-top">
+    {{> scooru_banner}}
+    {{> profile_selector}}
+  </vbox>
+
+  <hbox class="qc r16b"
+  style="
+    line-height:3rem;
+    background-color:rgba(230,230,230,0.95);
+    margin-top:0.5rem;
+    margin-bottom:2rem;
+  ">
+  {{#if players_not_ready}}loading {{/if}}
+  Featured Players
+  </hbox>
+
+
+  <hbox
+  style="
+    flex-wrap: wrap;
+    justify-content: center;
+  ">
+    {{#each it in players}}
+    {{> player_chip player=it}}
+    {{/each}}
+  </hbox>
+
+
+</vbox>
+</template>

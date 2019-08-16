@@ -1,0 +1,38 @@
+<head>
+  <style>
+  vbox.team-chip {
+    min-width: 16.8rem;
+    -background-color:pink;
+    -margin:0.2rem;
+    margin:0; padding:0;
+    padding: 0 0.3rem;
+    padding-bottom:1rem;
+  }
+
+  .team-chip h5 {
+    font-size: 1.2rem;
+    font-weight:400;
+    color:#979797;
+    line-height:1.6rem;
+    margin:0; padding:0;
+  }
+  </style>
+</head>
+<template name="team_chip">
+  <vbox class="team-chip" style="width:12rem;">
+  <a href="/team/{{team.sname}}">
+    <img
+    src="http://webapp.scooru.com/static/pics/{{team.main_pic}}"
+    alt="" style="width:8rem;">
+  </a>
+
+  <h2 class="ql r16b">{{team.full_name}}</h2>
+  <vbox style="padding-left:0.5rem;">
+    <h5>LOC: {{team.loc}}</h5>
+    {{!--
+      <h5>CAT: {{team.cat}}</h5>
+    --}}
+    <h5 class="qj">{{team.likes}} [likes] [follow]</h5>
+  </vbox>
+  </vbox>
+</template>

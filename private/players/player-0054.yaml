@@ -1,0 +1,117 @@
+---
+player_id: 0054
+sname: pipifri
+full_name: Pia Frisk
+short_name: Pia Frisk
+loc: Stockholm
+dob: 1979-09-17
+likes: 134
+sports: football
+
+categories:
+  - cat: Paralympic
+    pos: Second striker
+
+stats:
+  goals: 112
+  assists: 73
+  saves: 141
+  games: 110
+  hours: 1546
+
+teams:
+  - sname: lhfc
+    pos: Centre forward
+
+games:
+  - date: 02/13/2001 06:33 PM
+    loc: Mandalay
+    home: lhfc
+    visitor: osaka
+  - date: 03/06/2006 04:12 AM
+    loc: Quezon City
+    visitor: lhfc
+    home: kngshlm
+  - date: 01/01/2006 02:48 AM
+    loc: Mandalay
+    home: lhfc
+    visitor: lngislnd
+  - date: 09/18/2003 03:26 AM
+    loc: Mexico City
+    visitor: lhfc
+    home: vnce
+  - date: 12/05/2007 10:37 PM
+    loc: Mandalay
+    visitor: lhfc
+    home: osaka
+  - date: 12/30/2013 02:25 AM
+    loc: Oran
+    home: lhfc
+    visitor: mzbq
+  - date: 09/03/2008 12:17 PM
+    loc: Buenos Aires
+    home: lhfc
+    visitor: mauiplts
+
+followers:
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: False
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+
+following:
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+
+profpic:
+  - url: /player-prof-051.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-005.jpg
+  - url: /random-007.jpg

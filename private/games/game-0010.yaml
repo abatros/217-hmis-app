@@ -1,0 +1,174 @@
+---
+game_id: 0010
+date: 08/20/2006 06:26 PM
+loc: Fuzhou
+live: False
+referrees:
+  - name: Inacio Lacerda (Brazilian)
+home:
+  sname: enft
+  team_name: ENFT
+  coaches:
+    - name: Merille Haroyu
+
+  players:
+    - sname: alemu1
+      full_name: Alemu Bekele Yitay
+      position: Goalkeeper
+    - sname: gulemaym
+      full_name: Gulema Yihun Mihret
+      position: Centre-back
+      out: 54'
+    - sname: zewdster
+      full_name: Zewdnesh Tesfa Galawdeyos
+      position: Sweeper
+    - sname: afewer
+      full_name: Afewerek Eyoel Abimelech
+      position: Full-back
+      out: 80'
+    - sname: brekime
+      full_name: Brehan Kidane Meles
+      position: Wing-back
+    - sname: mirabe
+      full_name: Mirabe Nahum Selassie
+      position: Centre midfield
+      out: 86'
+    - sname: imgirma
+      full_name: Girma Natnael Kaleb
+      position: Defensive midfield
+    - sname: wolitna
+      full_name: Wolitigna Adugna Mesay
+      position: Attacking midfield
+      out: 57'
+    - sname: asamenzg
+      full_name: Asamenew Zewedu Gorfu
+      position: Wide midfield
+    - sname: chirkobi
+      full_name: Chirkos Abimelech Eleazar
+      position: Centre forward
+    - sname: jeneve
+      full_name: Jeneve Dessalegne Tessema
+      position: Second striker
+  substitutions:
+    - etime: 54
+      out: Gulema Yihun Mihret
+      in: Paithoon Suthikul
+    - etime: 80
+      out: Afewerek Eyoel Abimelech
+      in: Fethee Tenagnework
+    - etime: 86
+      out: Mirabe Nahum Selassie
+      in: Fethee Tenagnework
+    - etime: 57
+      out: Wolitigna Adugna Mesay
+      in: Inacio Lacerda
+  stats:
+    on_target: 1
+    off_target: 6
+    possession: 55
+    corners: 2
+    offsides: 3
+    foul: 13
+    yellow: 2
+
+
+visitors:
+  sname: fm91
+  team_name: FM91
+  coaches:
+    - name: Claire Angers
+
+  players:
+    - sname: lexrox
+      full_name: Alexis Gaubert
+      position: Goalkeeper
+    - sname: georgess
+      full_name: Georges Solé
+      position: Centre-back
+    - sname: memman
+      full_name: Marcel Emmanuelli
+      position: Sweeper
+    - sname: pierrelv
+      full_name: Pierre-Louis Verninac
+      position: Full-back
+      out: 83'
+    - sname: aymchill
+      full_name: Aymeric Chéreau
+      position: Wing-back
+      out: 54'
+    - sname: ralarie
+      full_name: Raoul Alarie
+      position: Centre midfield
+    - sname: mettepast
+      full_name: Guillemette Pasteur
+      position: Defensive midfield
+    - sname: baptistea
+      full_name: Baptiste Alard
+      position: Attacking midfield
+    - sname: danjacq
+      full_name: Dany Jacquard
+      position: Wide midfield
+    - sname: jeanpp
+      full_name: Jean-Philippe Paquin
+      position: Centre forward
+    - sname: angelmoi
+      full_name: Angélique Ardouin
+      position: Second striker
+  substitutions:
+    - etime: 83
+      out: Pierre-Louis Verninac
+      in: Gul Bardakci
+    - etime: 54
+      out: Aymeric Chéreau
+      in: Ubon Buasuwan
+  stats:
+    on_target: 3
+    off_target: 5
+    possession: 54
+    corners: 6
+    offsides: 7
+    foul: 12
+    yellow: 0
+
+minutes:
+  - type: goal
+    etime: 8
+    visitor: Raoul Alarie
+    assist: Aymeric Chéreau
+    score: 0:1
+  - type: yellow
+    etime: 12
+    visitor: Baptiste Alard
+  - type: goal
+    etime: 14
+    visitor: Pierre-Louis Verninac
+    assist: Guillemette Pasteur
+    score: 0:2
+  - type: yellow
+    etime: 15
+    visitor: Alexis Gaubert
+  - type: yellow
+    etime: 21
+    home: Mirabe Nahum Selassie
+  - type: yellow
+    etime: 22
+    visitor: Angélique Ardouin
+  - type: goal
+    etime: 27
+    visitor: Alexis Gaubert
+    assist: Marcel Emmanuelli
+    score: 0:3
+  - type: yellow
+    etime: 43
+    visitor: Guillemette Pasteur
+  - type: half_time
+    etime: 45
+    score: 0:3
+  - type: yellow
+    etime: 70
+    visitor: Baptiste Alard
+  - type: goal
+    etime: 88
+    home: Alemu Bekele Yitay
+    assist: Chirkos Abimelech Eleazar
+    score: 1:3

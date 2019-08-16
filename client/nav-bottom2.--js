@@ -1,0 +1,19 @@
+import './nav-bottom.html'
+const TP = Template.nav_bottom;
+
+TP.helpers({
+  isActive: (route) =>{
+    const x = ActiveRoute.name(route)
+    return x?'-active':'';
+  },
+  profile_active: ()=>{
+    if (ActiveRoute.name('players-directory')
+    || ActiveRoute.name('player-profile')
+    || ActiveRoute.name('teams-directory')
+    || ActiveRoute.name('team-profile')
+    ) {
+      return '-active';
+    }
+
+  }
+})

@@ -1,0 +1,112 @@
+---
+player_id: 0037
+sname: pierrelv
+full_name: Pierre-Louis Verninac
+short_name: PV Verninac
+loc: Paris
+dob: 1983-07-20
+likes: 696
+sports: football tennis
+
+categories:
+  - cat: Beach
+    pos: Defender
+
+stats:
+  goals: 130
+  assists: 93
+  saves: 125
+  games: 275
+  hours: 704
+
+teams:
+  - sname: fm91
+    pos: Full-back
+
+games:
+  - date: 01/24/2003 09:10 AM
+    loc: Busan
+    visitor: fm91
+    home: sttle
+  - date: 10/26/2006 11:40 PM
+    loc: London
+    home: fm91
+    visitor: kngshlm
+  - date: 01/27/2014 07:26 PM
+    loc: Busan
+    home: fm91
+    visitor: osaka
+  - date: 06/12/2015 02:32 PM
+    loc: Buenos Aires
+    visitor: fm91
+    home: mzbq
+  - date: 12/09/2009 11:16 AM
+    loc: Bengaluru
+    home: fm91
+    visitor: ptlndfc
+  - date: 01/14/2004 12:31 AM
+    loc: Madrid
+    home: fm91
+    visitor: lngislnd
+
+followers:
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+
+following:
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+
+profpic:
+  - url: /player-prof-036.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-004.jpg
+  - url: /random-008.jpg
+  - url: /random-006.jpg
+  - url: /random-002.jpg

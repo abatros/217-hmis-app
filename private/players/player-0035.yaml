@@ -1,0 +1,93 @@
+---
+player_id: 0035
+sname: georgess
+full_name: Georges Solé
+short_name: George S.
+loc: Paris
+dob: 1982-11-29
+likes: 455
+sports: football
+
+categories:
+  - cat: Beach
+    pos: Centre forward
+
+stats:
+  goals: 98
+  assists: 109
+  saves: 62
+  games: 116
+  hours: 995
+
+teams:
+  - sname: fm91
+    pos: Centre-back
+
+games:
+  - date: 03/15/2008 06:45 AM
+    loc: Beijing
+    visitor: fm91
+    home: mzbq
+  - date: 10/06/2011 06:10 AM
+    loc: Busan
+    home: fm91
+    visitor: mauiplts
+  - date: 12/25/2007 04:54 AM
+    loc: Isfahan
+    visitor: fm91
+    home: lngislnd
+  - date: 02/19/2003 09:28 AM
+    loc: Quezon City
+    home: fm91
+    visitor: osaka
+
+followers:
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+
+following:
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+
+profpic:
+  - url: /player-prof-035.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-009.jpg
+  - url: /random-007.jpg

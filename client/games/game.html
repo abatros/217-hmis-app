@@ -1,0 +1,106 @@
+<head>
+  <style>
+  #game .big-letter {
+    justify-content:center; height:5rem; width:20%; background-color:#DDDDDD; font-size:3rem;
+  }
+  #game .big-letter.win {
+    border: 4px solid #A62C07;
+  }
+  #game .big-letter {
+    border: 4px solid #DDDDDD;
+  }
+  #game . {
+    --border: 1px solid white;
+  }
+  </style>
+</head>
+
+<template name="game">
+<vbox class="game"
+ style="margin-top:4.0rem;"
+ >
+  <vbox class="fixed-top">
+    {{> scooru_banner}}
+  </vbox>
+
+  <div id="game">
+    <hbox class="qj game1" style="align-items:center; padding:2rem 4.7rem;">
+      {{!--
+      <vbox class="big-letter qc {{game.home.win}}">B</vbox>
+      --}}
+      <img style="width:5rem;"
+      src="http://webapp.scooru.com/static/pics/{{game.home_pic}}"
+      alt="">
+
+      <vbox style="align-items:center;line-height:2rem;">
+        <div class="r16b">{{home_score}} </div>
+        <img class="js-home {{home_ball_hidden}}"
+        src="http://webapp.scooru.com/static/football-flat.svg" alt="" style="width:1.2rem;">
+      </vbox>
+
+      <vbox class="" style="align-items:center; justify-content:flex-start; padding: 0 0.5rem; line-height:1.6rem;">
+      <div class="" style="flex-grow:1;text-align:center;padding-top:0.4rem;">{{game.etime}}</div>
+      <div class=" ama"><b>LIVE</b></div>
+      </vbox>
+
+      <vbox style="align-items:center;line-height:2rem;">
+        <div class="r16b">{{visitor_score}} </div>
+        <img src="http://webapp.scooru.com/static/football-flat.svg" alt="" style="width:1.2rem;" class="js-visitor {{visitor_ball_hidden}}">
+      </vbox>
+
+      <img style="width:5rem;"
+      src="http://webapp.scooru.com/static/pics/{{game.visitor_pic}}"
+      alt="">
+    </hbox>
+
+
+
+    <hbox class="qj" style="padding:0.2rem 0 0 0;">
+      <div class=" r14b" style="width:50%; text-align:center;">{{game.home.label}}</div>
+      <div class=" r14b" style="width:50%; text-align:center;">{{game.visitor.label}}</div>
+    </hbox>
+
+
+
+    <hbox class="qc border-bottom"
+      style="padding:0.2rem 0 0.6rem 0;  margin-bottom:1.1rem;
+      --border-bottom:1px solid #DDDDDD;">
+      <a href="/game/101">{{game.loc}} - {{game.date}} - 4:00 pm</a>
+    </hbox>
+
+
+  {{> game_tabs}}
+
+  <div class="vbox" style="align-items:stretch;">
+
+    {{#if overview_panel}}
+    {{> game_overview}}
+    {{/if}}
+
+    {{#if stats_panel}}
+    {{> game_stats}}
+    {{/if}}
+
+    {{#if players_panel}}
+    {{> game_players}}
+    {{/if}}
+  </div>
+
+</div>
+
+
+</vbox>
+</template>
+
+<template name="----game_sub_menu">
+  <div class="hbox"
+  style="_height:3rem; background-color:lightpink;
+    align-items:baseline; justify-content:space-between;
+    padding: 8px 0 0 0;
+  ">
+  {{> ubutton value="OVERVIEW" group="game-tab" tab="overview"}}
+  {{> ubutton value="STATS" group="game-tab" tab="stats"}}
+  {{> ubutton value="PLAYERS" group="game-tab" tab="players"}}
+  </div>
+
+</template>

@@ -1,0 +1,117 @@
+---
+player_id: 0044
+sname: angelmoi
+full_name: Angélique Ardouin
+short_name: Angel Ard
+loc: Paris
+dob: 1987-04-08
+likes: 81
+sports: football golf
+
+categories:
+  - cat: Street
+    pos: Wide midfield
+
+stats:
+  goals: 97
+  assists: 149
+  saves: 99
+  games: 129
+  hours: 591
+
+teams:
+  - sname: fm91
+    pos: Second striker
+
+games:
+  - date: 03/10/2014 06:35 AM
+    loc: Kawasaki
+    visitor: fm91
+    home: hwth
+  - date: 03/07/2009 06:16 AM
+    loc: Beijing
+    home: fm91
+    visitor: osaka
+  - date: 03/08/2013 11:40 PM
+    loc: Madrid
+    home: fm91
+    visitor: tahiti
+  - date: 02/10/2001 06:17 PM
+    loc: Cairo
+    visitor: fm91
+    home: hwth
+  - date: 01/29/2008 03:52 AM
+    loc: Bengaluru
+    visitor: fm91
+    home: mzbq
+  - date: 06/29/2012 01:31 AM
+    loc: Isfahan
+    home: fm91
+    visitor: vnce
+
+followers:
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: False
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+
+following:
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+
+profpic:
+  - url: /player-prof-041.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-006.jpg
+  - url: /random-009.jpg
+  - url: /random-003.jpg

@@ -1,0 +1,124 @@
+---
+player_id: 0004
+sname: Naseeb
+full_name: Naseeba al-Yousuf
+short_name: N. el-Yousuf
+loc: Dubai
+dob: 1977-05-01
+likes: 416
+sports: football field-hockey basketball golf
+
+categories:
+  - cat: Association
+    pos: Forward
+
+stats:
+  goals: 52
+  assists: 49
+  saves: 54
+  games: 158
+  hours: 671
+
+teams:
+  - sname: awfc
+    pos: Full-back
+
+games:
+  - date: 05/25/2005 01:59 PM
+    loc: Busan
+    visitor: awfc
+    home: vnce
+  - date: 07/24/2001 05:47 AM
+    loc: Buenos Aires
+    visitor: awfc
+    home: tahiti
+  - date: 02/26/2014 12:48 AM
+    loc: Cairo
+    home: awfc
+    visitor: tahiti
+  - date: 06/08/2013 06:11 PM
+    loc: Mandalay
+    visitor: awfc
+    home: kngshlm
+  - date: 08/31/2005 10:34 AM
+    loc: Quanzhou
+    home: awfc
+    visitor: lngislnd
+  - date: 07/18/2012 08:40 PM
+    loc: Quanzhou
+    home: awfc
+    visitor: mzbq
+  - date: 10/22/2004 06:57 AM
+    loc: Havana
+    visitor: awfc
+    home: kngshlm
+
+followers:
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+
+following:
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+
+profpic:
+  - url: /player-prof-002.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-001.jpg
+  - url: /random-003.jpg
+  - url: /random-005.jpg

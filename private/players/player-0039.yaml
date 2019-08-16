@@ -1,0 +1,108 @@
+---
+player_id: 0039
+sname: ralarie
+full_name: Raoul Alarie
+short_name: Raoul A.
+loc: Paris
+dob: 1983-11-07
+likes: 472
+sports: football cricket golf
+
+categories:
+  - cat: Street
+    pos: Sweeper
+
+stats:
+  goals: 41
+  assists: 134
+  saves: 71
+  games: 148
+  hours: 1484
+
+teams:
+  - sname: fm91
+    pos: Centre midfield
+
+games:
+  - date: 03/27/2006 07:28 AM
+    loc: Quanzhou
+    visitor: fm91
+    home: mzbq
+  - date: 02/03/2015 07:00 AM
+    loc: Córdoba
+    home: fm91
+    visitor: tahiti
+  - date: 07/20/2016 11:57 AM
+    loc: Quezon City
+    home: fm91
+    visitor: mzbq
+  - date: 04/01/2013 02:58 AM
+    loc: Mexico City
+    visitor: fm91
+    home: osaka
+  - date: 05/30/2010 07:34 PM
+    loc: Mexico City
+    home: fm91
+    visitor: ptlndfc
+
+followers:
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+
+following:
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+
+profpic:
+  - url: /player-prof-040.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-008.jpg
+  - url: /random-003.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg

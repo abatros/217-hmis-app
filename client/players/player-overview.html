@@ -1,0 +1,148 @@
+<head>
+  <style>
+    .player-overview .ama {
+      color:#A62C07;
+      font-size: 16px;
+       font-weight:500;
+    }
+    .player-overview .row {
+      display:flex; justify-content:space-between;
+      padding: 17px 0;
+    }
+
+    .player-overview .caption {
+      display:flex; justify-content:space-between;
+      padding: 2.2rem 0 0.2rem 0;
+    }
+
+    .player-overview .data {
+      display:flex; justify-content:space-between;
+      padding: 0rem 0 0.0rem 0;
+    }
+
+    .player-overview h4 {
+      flex: 1 0 0rem;
+    }
+
+    .player-overview .data div {
+      flex: 1 0 0rem;
+    }
+
+    .player-overview .title {
+      display:flex; justify-content:flex-start;
+      padding: 17px 0 5px 0;
+      color:rgba(0,0,0,0.38);
+      font-size:12px; font-weight:500;
+      -background-color:lightyellow;
+    }
+    .player-overview .col2 {
+      width:50%;
+    }
+    .player-overview .h2 {
+      font-size:1.2rem;
+      color: #414141;
+      -line-height: 20px;
+      -line-height: 1.3rem;
+      line-height: 2rem;
+      letter-spacing:0.15px;
+    }
+  </style>
+</head>
+
+<template name="player_overview">
+<vbox class="player-overview"
+  style="
+    font-size:1.05rem;
+    color:#414141; letter-spacing:0.4px;
+    padding:0 0rem 60px 1.1rem;
+    margin:0;
+  ">
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div class="ama">BIO</div>
+      <div style="padding-right:1rem;">Football</div>
+    </div>
+
+    <div class="caption r12m">
+      <div>FULL NAME</div>
+    </div>
+    <div class="data r16">
+      <div>{{player.full_name}} {{player.lastname}}</div>
+    </div>
+
+
+    <hbox class="r12m caption">
+      <h4>LOCATION</h4>
+      <h4>AGE / DOB</h4>
+    </hbox>
+
+    <hbox class="data r16">
+      <div>{{player.loc}}</div>
+      <div class="col2">{{player.age}}</div>
+    </hbox>
+
+    <hbox class="caption r12m">
+      <h4>SPORTS</h4>
+    </hbox>
+
+    <hbox class="data r16">
+      <div>{{player.sports}}</div>
+    </hbox>
+
+    <hbox class="r12m caption">
+      <h4>CATEGORY</h4>
+      <h4>POSITION</h4>
+    </hbox>
+
+    {{#each it in _player.categories}}
+    <hbox class="data r16">
+      <div>{{it.cat}}</div>
+      <div>{{it.pos}}</div>
+    </hbox>
+    {{/each}}
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div class="ama">TEAMS</div>
+    </div>
+
+    {{#each team in _player.teams}}
+    <vbox class="qc" style="height:7.2rem; -justify-content:center;">
+      <hbox class="stats-game" >
+        <img
+        src="http://webapp.scooru.com/static/pics/{{team.main_pic}}"
+        style="width:4rem; height:4rem;">
+        <vbox class="" style="flex-grow:10; margin:0 10px;">
+          <div class="ql r16">{{team.sname}}</div>
+          <div class="ql r14">{{team.pos}}</div>
+        </vbox>
+      </hbox>
+    </vbox>
+    {{/each}}
+
+
+    <div class="row border-bottom"
+      style="--border-bottom:1px solid #414141;"
+      >
+      <div class="ama">
+
+        PHOTOS
+
+      </div>
+    </div>
+
+    <div style="display:flex; flex-wrap:wrap;
+    justify-content:space-around;
+      margin-top:10px;
+      box-shadow: 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12), 0 1px 0px -1px rgba(0,0,0,0.20); border-radius:4px;"
+      >
+      {{#each pic in _player.pics}}
+      <img style="width:8.625rem; height:8.625rem; margin-bottom:1rem;"
+      src="http://webapp.scooru.com/static/pics/{{pic.url}}">
+      {{/each}}
+    </div>
+
+</vbox>
+</template>

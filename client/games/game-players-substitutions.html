@@ -1,0 +1,104 @@
+<head>
+  <style>
+    .game-players-substitutions {
+
+      font-weight:400;
+      font-size:1rem;
+      color:#414141; letter-spacing:0rem;
+      margin:0;
+    }
+
+    .--game-players-substitutions h1 {
+      display:flex;
+      margin: 0 0 2rem 0;
+      font-size:2rem;
+      font-weight:500;
+      color:rgb(80,80,80)
+    }
+
+
+    .game-players-substitutions h2 {
+      box-sizing: content-box;
+      font-size:1rem;
+      font-weight:400;
+      color:#414141;
+      margin:0; padding:0;
+      height:0;
+      text-align:right;
+      padding-right:1rem;
+      line-height: 0rem;
+      width:1.05rem;
+    }
+
+    .game-players-substitutions h3 {
+      display:flex;
+      margin:0.0rem;
+      font-size:1rem;
+      line-height:1.4rem;
+      font-weight:400;
+      color:#9B9B9B;
+      -border: 1px dashed blue;
+      margin:0; padding:0;
+      padding-left:1.35rem;
+      white-space:nowrap;
+      max-width:30rem;
+      overflow-x:hidden;
+    }
+
+    .game-players-substitutions h4 {
+      box-sizing: border-box;
+      margin:0; padding:0;
+      font-size:1rem;
+      letter-spacing:0rem;
+      line-height:1.4rem;
+      font-weight:400;
+      color:#414141;
+      border-bottom: 0.1rem solid rgba(65,65,65,0.12);
+      height:1.75rem;
+      padding-bottom:0.2rem;
+      margin-bottom:0.5rem;
+      padding-left:1.35rem;
+      white-space:nowrap;
+      max-width:30rem;
+      overflow-x:hidden;
+    }
+
+  .game-players-substitutions img {
+    width:0.85rem;
+  }
+
+  </style>
+</head>
+
+<template name="game_players_substitutions">
+<vbox class="game-players-substitutions">
+  <h1>Substitutions</h1>
+  <!-- game-players-substitutions -->
+
+  <hbox class="" style="-overflow:hidden; justify-content:space-between; padding-right:0.5rem;">
+
+    <vbox style="width:46vw;">
+      <!-- Substitutions Home left-col -->
+    {{#each it in _game.home.substitutions}}
+    <vbox style="height:4rem;">
+      <h3><img src="http://webapp.scooru.com/static/out-arrow-down.svg">&ensp;{{it.out}}</h3>
+      <h2>{{it.etime}} '</h2>
+      <h4><img src="http://webapp.scooru.com/static/in-arrow-up.svg">&ensp;{{it.in}}</h4>
+    </vbox>
+    {{/each}}
+    </vbox>
+
+    <vbox title="Visitors" style="width:46vw;">
+      <!-- Substitutions Visitors right-col -->
+    {{#each it in _game.visitors.substitutions}}
+    <vbox style="height:4rem;">
+      <h3><img src="http://webapp.scooru.com/static/out-arrow-down.svg">&ensp;{{it.out}}</h3>
+      <h2>{{it.etime}} '</h2>
+      <h4><img src="http://webapp.scooru.com/static/in-arrow-up.svg">&ensp;{{it.in}}</h4>
+    </vbox>
+    {{/each}}
+    </vbox>
+
+  </hbox>
+</vbox>
+</template>

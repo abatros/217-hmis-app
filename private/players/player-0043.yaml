@@ -1,0 +1,110 @@
+---
+player_id: 0043
+sname: jeanpp
+full_name: Jean-Philippe Paquin
+short_name: JP Paquin
+loc: Paris
+dob: 1986-12-27
+likes: 34
+sports: football tennis field-hockey volleyball basketball
+
+categories:
+  - cat: Beach
+    pos: Defensive midfield
+
+stats:
+  goals: 107
+  assists: 102
+  saves: 68
+  games: 194
+  hours: 758
+
+teams:
+  - sname: fm91
+    pos: Centre forward
+
+games:
+  - date: 01/15/2016 08:51 AM
+    loc: Madrid
+    visitor: fm91
+    home: ptlndfc
+  - date: 11/26/2006 08:58 AM
+    loc: Oran
+    home: fm91
+    visitor: tahiti
+  - date: 07/13/2014 10:31 PM
+    loc: Bengaluru
+    visitor: fm91
+    home: vnce
+  - date: 11/20/2007 09:56 PM
+    loc: Isfahan
+    home: fm91
+    visitor: tahiti
+  - date: 11/25/2000 01:46 PM
+    loc: Quezon City
+    visitor: fm91
+    home: mzbq
+  - date: 04/22/2011 11:02 PM
+    loc: Mandalay
+    home: fm91
+    visitor: hwth
+  - date: 06/29/2012 06:16 AM
+    loc: Fuzhou
+    visitor: fm91
+    home: mzbq
+
+followers:
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+
+following:
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+
+profpic:
+  - url: /player-prof-037.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-007.jpg
+  - url: /random-010.jpg
+  - url: /random-004.jpg
+  - url: /random-006.jpg

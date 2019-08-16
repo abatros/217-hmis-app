@@ -1,0 +1,112 @@
+---
+player_id: 0066
+sname: maliwanc
+full_name: Maliwan Chaiprasit
+short_name: Maliwan C.
+loc: Bangkok
+dob: 1986-12-30
+likes: 979
+sports: football
+
+categories:
+  - cat: Paralympic
+    pos: Attacking midfield
+
+stats:
+  goals: 66
+  assists: 195
+  saves: 142
+  games: 115
+  hours: 1612
+
+teams:
+  - sname: pxfc
+    pos: Second striker
+
+games:
+  - date: 08/07/2016 12:06 PM
+    loc: Cairo
+    home: pxfc
+    visitor: vnce
+  - date: 06/02/2008 06:47 PM
+    loc: Mexico City
+    visitor: pxfc
+    home: ptlndfc
+  - date: 06/04/2015 11:18 PM
+    loc: Fuzhou
+    visitor: pxfc
+    home: ptlndfc
+  - date: 10/13/2015 06:01 AM
+    loc: Isfahan
+    home: pxfc
+    visitor: hwth
+  - date: 10/30/2005 10:23 AM
+    loc: Beijing
+    visitor: pxfc
+    home: ptlndfc
+  - date: 05/16/2007 08:30 PM
+    loc: Kawasaki
+    home: pxfc
+    visitor: kngshlm
+
+followers:
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: False
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+
+following:
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+
+profpic:
+  - url: /player-prof-058.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-001.jpg
+  - url: /random-007.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg

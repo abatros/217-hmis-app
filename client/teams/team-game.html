@@ -1,0 +1,28 @@
+<template name="team_game">
+<hbox class="team-game" style="margin-top:0.5rem;">
+  {{#if game.home_pic}}
+  <img
+  src="{{static_images}}/Demo_data/pics/{{game.home_pic}}"
+  style="width:5rem; height:5rem;"
+  >
+  {{else}}
+  <img
+  src="{{static_images}}/Demo_data/pics/{{_team.main_pic}}"
+  style="width:5rem; height:5rem;"
+  >
+  {{/if}}
+  <vbox class="-frame-it" style="flex-grow:10; margin:0 10px;">
+    <div class="hbox ql -frame-it">{{game.home}}</div>
+    <div class="qc -frame-it" style=""><b>vs</b></div>
+    <div class="qr -frame-it">{{game.visitor}}</div>
+  </vbox>
+  <img
+  src="{{static_images}}/Demo_data/pics/{{game.visitor_pic}}"
+  style="width:5rem; height:5rem;margin-right:1rem;"
+  >
+</hbox>
+<hbox class="hbox to-hsize border-bottom">
+  <div class="ql r10b">{{game.loc}} {{game.date}}</div>
+</hbox>
+
+</template>

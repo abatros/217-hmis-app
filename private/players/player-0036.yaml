@@ -1,0 +1,115 @@
+---
+player_id: 0036
+sname: memman
+full_name: Marcel Emmanuelli
+short_name: Marcel E.
+loc: Paris
+dob: 1983-03-13
+likes: 571
+sports: football table-tennis
+
+categories:
+  - cat: Beach
+    pos: Second striker
+
+stats:
+  goals: 54
+  assists: 135
+  saves: 134
+  games: 150
+  hours: 993
+
+teams:
+  - sname: fm91
+    pos: Sweeper
+
+games:
+  - date: 03/05/2000 09:13 AM
+    loc: Mandalay
+    home: fm91
+    visitor: mauiplts
+  - date: 11/25/2011 12:37 AM
+    loc: Córdoba
+    home: fm91
+    visitor: mzbq
+  - date: 12/05/2001 04:21 PM
+    loc: Mexico City
+    visitor: fm91
+    home: kngshlm
+  - date: 07/28/2007 08:00 PM
+    loc: Cairo
+    home: fm91
+    visitor: hwth
+
+followers:
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+
+following:
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+
+profpic:
+  - url: /player-prof-039.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-002.jpg
+  - url: /random-007.jpg
+  - url: /random-006.jpg

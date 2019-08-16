@@ -1,0 +1,124 @@
+---
+player_id: 0053
+sname: joelljs
+full_name: Joel Liljeström
+short_name: Joel LJS
+loc: Stockholm
+dob: 1978-10-18
+likes: 27
+sports: football golf volleyball table-tennis
+
+categories:
+  - cat: Street
+    pos: Wing-back
+
+stats:
+  goals: 111
+  assists: 195
+  saves: 136
+  games: 231
+  hours: 1663
+
+teams:
+  - sname: lhfc
+    pos: Wide midfield
+
+games:
+  - date: 08/18/2012 05:50 AM
+    loc: Isfahan
+    home: lhfc
+    visitor: ptlndfc
+  - date: 08/27/2009 06:11 AM
+    loc: Tabriz
+    visitor: lhfc
+    home: sttle
+  - date: 12/03/2008 01:59 PM
+    loc: London
+    home: lhfc
+    visitor: hwth
+  - date: 03/29/2011 04:50 AM
+    loc: São Paulo
+    home: lhfc
+    visitor: vnce
+  - date: 02/25/2012 05:48 PM
+    loc: Beijing
+    visitor: lhfc
+    home: sttle
+
+followers:
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+
+following:
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+
+profpic:
+  - url: /player-prof-047.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-009.jpg
+  - url: /random-005.jpg
+  - url: /random-008.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg

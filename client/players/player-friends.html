@@ -1,0 +1,41 @@
+<head>
+  <style>
+  .friends-pic {
+    width:4rem; height:4rem; border-radius:0.4rem;
+  }
+  .friends-select.active {
+    background-color: rgba(0,0,0,0.12)
+  }
+  </style>
+</head>
+
+<template name="player_friends">
+
+  <vbox class=""
+  style="
+    padding:0 0rem 5rem 1.1rem;
+    margin:0;
+  ">
+
+    <hbox class="qc r14mw"  style="height:4rem;">
+      <vbox class="friends-select js-following -pink qc -frame-it {{active 'following'}}" style="flex-grow:1; cursor:pointer;">
+        FOLLOWING - 222
+      </vbox>
+      <vbox class="friends-select js-followers -lightgreen qc -frame-it {{active 'followers'}}" style="flex-grow:1; cursor:pointer;">
+        FOLLOWERS - 150K
+      </vbox>
+    </hbox>
+
+    {{#if active 'followers'}}
+    {{#each it in followers}}
+      {{> player_follow player=it player_id=@index}}
+    {{/each}}
+
+    {{else}}
+    {{#each it in following}}
+      {{> player_follow player=it player_id=@index}}
+    {{/each}}
+    {{/if}}
+
+  </vbox>
+</template>

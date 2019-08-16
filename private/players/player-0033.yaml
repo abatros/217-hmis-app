@@ -1,0 +1,113 @@
+---
+player_id: 0033
+sname: jeneve
+full_name: Jeneve Dessalegne Tessema
+short_name: Jeneve T.
+loc: Addis Ababa
+dob: 1982-06-19
+likes: 260
+sports: football cricket
+
+categories:
+  - cat: Indoor
+    pos: Goalkeeper
+
+stats:
+  goals: 96
+  assists: 50
+  saves: 42
+  games: 224
+  hours: 1422
+
+teams:
+  - sname: enft
+    pos: Second striker
+
+games:
+  - date: 04/06/2002 04:43 AM
+    loc: Bengaluru
+    home: enft
+    visitor: hwth
+  - date: 05/06/2005 10:49 AM
+    loc: Cairo
+    home: enft
+    visitor: ptlndfc
+  - date: 09/14/2005 09:29 AM
+    loc: Buenos Aires
+    visitor: enft
+    home: osaka
+  - date: 03/21/2001 06:20 PM
+    loc: Oran
+    home: enft
+    visitor: vnce
+  - date: 03/01/2005 03:41 PM
+    loc: Isfahan
+    visitor: enft
+    home: kngshlm
+
+followers:
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+
+following:
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+
+profpic:
+  - url: /player-prof-030.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-004.jpg
+  - url: /random-001.jpg
+  - url: /random-002.jpg

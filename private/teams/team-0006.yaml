@@ -1,0 +1,133 @@
+---
+team-id: 0006
+full_name: Phoenix Football Club Bangkok
+short_name: Phoenix F.C.
+sname: pxfc
+loc: Bangkok
+df: 1958-08-12
+likes: 5840
+category: Association
+admins:
+  - name: ahongha
+  - name: arthits
+  - name: hanuman
+
+about: >
+  Members of the Bangkok Casual Football League Division 2.
+
+stats:
+  games: 698
+  possessions: 63%
+  goals: 586
+  saves: 616
+  win: 234:56%
+  loss: 278:58%
+
+players:
+  - sname: surinw
+    full_name: Surin W.
+    position: Goalkeeper
+  - sname: ahongha
+    full_name: Akkanee H.
+    position: Centre-back
+  - sname: arthits
+    full_name: Athit S.
+    position: Sweeper
+  - sname: hanuman
+    full_name: Hanuman K.
+    position: Full-back
+  - sname: ruangri
+    full_name: Ruangrit S.
+    position: Wing-back
+  - sname: duchan
+    full_name: Duchanee S.
+    position: Centre midfield
+  - sname: banthornn
+    full_name: Banthorn N.
+    position: Defensive midfield
+  - sname: nopjira
+    full_name: Nopjira G.
+    position: Attacking midfield
+  - sname: bossjira
+    full_name: Jirasak S.
+    position: Wide midfield
+  - sname: piyachar
+    full_name: Piyapat C.
+    position: Centre forward
+  - sname: maliwanc
+    full_name: Maliwan C.
+    position: Second striker
+
+
+profpic:
+  - url: /phoenix.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg
+  - url: /random-006.jpg
+
+
+games:
+  - date: 01/29/2005 03:20 AM
+    loc: Mexico City
+    visitor: hwth
+  - date: 08/28/2013 01:53 PM
+    loc: Quezon City
+    visitor: hwth
+  - date: 10/09/2003 07:48 AM
+    loc: Isfahan
+    visitor: osaka
+  - date: 05/11/2017 09:22 PM
+    loc: Cairo
+    visitor: mzbq
+  - date: 09/18/2013 01:38 PM
+    loc: Quanzhou
+    visitor: vnce
+  - date: 10/15/2004 04:28 AM
+    loc: Havana
+    visitor: mzbq
+  - date: 07/07/2012 11:21 PM
+    loc: London
+    visitor: hwth
+  - date: 02/19/2014 02:03 PM
+    loc: Beijing
+    visitor: tahiti
+
+
+followers:
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
